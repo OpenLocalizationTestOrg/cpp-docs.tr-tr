@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 067cd594ca29190bd12867488ac7d61415af987f
 
 ---
-# Compiler Error C2927
+# <a name="compiler-error-c2927"></a>Compiler Error C2927
 'function' : a function template must be called with at least one argument  
   
  You cannot call a template function without arguments. The type of the template arguments determines what version of the function to generate.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

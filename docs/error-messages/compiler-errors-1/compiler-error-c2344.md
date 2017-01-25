@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8f31a99d558f4a333db79f9c894c04686bd2c374
 
 ---
-# Compiler Error C2344
+# <a name="compiler-error-c2344"></a>Compiler Error C2344
 align(#) : alignment must be power of two  
   
  When using the [align](../../cpp/align-cpp.md) keyword, the value you pass must be a power of two.  
@@ -54,6 +54,6 @@ __declspec(align(4)) int b;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

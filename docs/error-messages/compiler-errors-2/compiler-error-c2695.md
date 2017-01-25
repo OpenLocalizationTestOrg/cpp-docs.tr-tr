@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 48599871b90a3ff74d97dcaff0ad19ea319771da
 
 ---
-# Compiler Error C2695
+# <a name="compiler-error-c2695"></a>Compiler Error C2695
 'function1': overriding virtual function differs from 'function2' only by calling convention  
   
  The signature of a function in a derived class cannot override a function in a base class and change the calling convention.  
@@ -58,6 +58,6 @@ class D : public C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

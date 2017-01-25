@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f5c3e9c5a491a2ad051a4c3488016b9866f00c0d
 
 ---
-# lseek
+# <a name="lseek"></a>lseek
 This POSIX function is deprecated. Use the ISO C++ conformant [_lseek](../../c-runtime-library/reference/lseek-lseeki64.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: a5d67c0228158e13090204954d8346e6656b4065
 
 ---
-# Compiler Error C3272
+# <a name="compiler-error-c3272"></a>Compiler Error C3272
 'symbol' : symbol requires FieldOffset, as it is a member of type typename defined with StructLayout(LayoutKind::Explicit)  
   
 When `StructLayout(LayoutKind::Explicit)` is in effect, fields must be marked with `FieldOffset`.  
@@ -63,6 +63,6 @@ ref struct X
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

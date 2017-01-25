@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f743bb2c4d92d3ef6c85e869eb1c1efbef63f84b
 
 ---
-# memicmp
+# <a name="memicmp"></a>memicmp
 This POSIX function is deprecated. Use the ISO C++ conformant [_memicmp](../../c-runtime-library/reference/memicmp-memicmp-l.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

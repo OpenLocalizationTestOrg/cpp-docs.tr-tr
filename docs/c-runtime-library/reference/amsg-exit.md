@@ -53,10 +53,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d51a6afda654c7c997f9f1ed3b1c19c7f6fa42bc
 
 ---
-# _amsg_exit
+# <a name="amsgexit"></a>_amsg_exit
 Emits a specified runtime error message and then exits your application with error code 255.  
   
-## Syntax  
+## <a name="syntax"></a>Syntax  
   
 ```cpp  
 void _amsg_exit (  
@@ -64,20 +64,20 @@ void _amsg_exit (
    )  
 ```  
   
-#### Parameters  
+#### <a name="parameters"></a>Parameters  
  `rterrnum`  
  The identification number of a system-defined runtime error message.  
   
-## Remarks  
+## <a name="remarks"></a>Remarks  
  This function emits the runtime error message to **stderr** for console applications, or displays the message in a message box for Windows applications. In debug mode, you can choose to invoke the debugger before exiting.  
   
-## Requirements  
+## <a name="requirements"></a>Requirements  
   
 |Routine|Required header|  
 |-------------|---------------------|  
 |_amsg_exit|internal.h|
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

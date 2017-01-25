@@ -39,12 +39,12 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 5a141a631821c7b681bc26857c6b213aeb0f9831
 
 ---
-# Compiler Warning (level 1) C4817
+# <a name="compiler-warning-level-1-c4817"></a>Compiler Warning (level 1) C4817
 'member' : illegal use of '.' to access this member; compiler replaced with '->'  
   
  The wrong member access operator was used.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4817.  
   
 ```  
@@ -60,6 +60,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

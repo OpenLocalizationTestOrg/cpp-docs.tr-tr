@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cc66aab21abc646f45002ef6fed2ebf13a1c55ef
 
 ---
-# Compiler Error C2401
+# <a name="compiler-error-c2401"></a>Compiler Error C2401
 'identifier' : register must be base in 'context'  
   
  The register used in an indirect memory operand must be a base register in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

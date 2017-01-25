@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3d46fca27e3cf368d2d448793b9bf7d1cab0d8d3
 
 ---
-# Compiler Error C2940
+# <a name="compiler-error-c2940"></a>Compiler Error C2940
 'class' : type-class-id redefined as a local typedef  
   
  You cannot use a generic or template class as a local `typedef`.  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

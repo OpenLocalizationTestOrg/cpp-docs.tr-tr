@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 350a39882fc67bd4115ef10be918851d078ef85f
 
 ---
-# lsearch
+# <a name="lsearch"></a>lsearch
 This POSIX function is deprecated. Use the ISO C++ conformant [_lsearch](../../c-runtime-library/reference/lsearch.md) or security-enhanced [_lsearch_s](../../c-runtime-library/reference/lsearch-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

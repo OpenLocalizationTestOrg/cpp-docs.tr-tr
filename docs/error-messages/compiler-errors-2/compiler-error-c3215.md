@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1146ba35a5ae06ace650c14316b1765a6036cc13
 
 ---
-# Compiler Error C3215
+# <a name="compiler-error-c3215"></a>Compiler Error C3215
 'type1' : generic type parameter already constrained by 'type2'  
   
  A constraint was specified more than once.  
@@ -71,6 +71,6 @@ ref class C {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

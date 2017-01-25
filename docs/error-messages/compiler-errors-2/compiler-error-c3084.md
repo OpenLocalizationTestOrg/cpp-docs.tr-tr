@@ -39,14 +39,14 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 7fb05bf2ebf23446de0552fd06092cb75541d49e
 
 ---
-# Compiler Error C3084
+# <a name="compiler-error-c3084"></a>Compiler Error C3084
 'function': a finalizer/destructor cannot be 'keyword'  
   
  A finalizer or destructor was declared incorrectly.  
   
  For example, a destructor should not be marked as sealed.  The destructor will be inaccessible to derived types.  For more information, see [Explicit Overrides](../../windows/explicit-overrides-cpp-component-extensions.md) and [Destructors and finalizers in How to: Define and consume classes and structs (C++/CLI)](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3084.  
   
 ```  
@@ -61,6 +61,6 @@ protected:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

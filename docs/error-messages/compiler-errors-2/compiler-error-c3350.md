@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: d524add595c2f6d33803b6456c80b017607f601b
 
 ---
-# Compiler Error C3350
+# <a name="compiler-error-c3350"></a>Compiler Error C3350
 'delegate' : a delegate constructor expects number argument(s)  
   
  When you create an instance of a delegate, you must pass two arguments, an instance of the type containing the delegate function, and the function.  
@@ -67,6 +67,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

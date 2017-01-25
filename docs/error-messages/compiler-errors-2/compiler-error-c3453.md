@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ac1b853707d89a6a64d30cdfe2c22891ac328bd1
 
 ---
-# Compiler Error C3453
+# <a name="compiler-error-c3453"></a>Compiler Error C3453
 'attribute': attribute not applied because qualifier 'assembly' did not match  
   
  Assembly or module level attributes can only be specified as stand-alone instructions.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3453.  
   
 ```  
@@ -57,6 +57,6 @@ ref class X {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a3e2affcadb691bd1a5c53bf143bc3ea99d4ec7a
 
 ---
-# Compiler Error C2378
+# <a name="compiler-error-c2378"></a>Compiler Error C2378
 'identifier' : redefinition; symbol cannot be overloaded with a typedef  
   
  The identifier was redefined as a `typedef`.  
@@ -55,6 +55,6 @@ typedef int b;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

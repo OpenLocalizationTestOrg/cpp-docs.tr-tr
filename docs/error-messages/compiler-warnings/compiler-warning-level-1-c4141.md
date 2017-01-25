@@ -39,10 +39,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 811db89d732012314b873abc59e747d2e828b7c4
 
 ---
-# Compiler Warning (level 1) C4141
+# <a name="compiler-warning-level-1-c4141"></a>Compiler Warning (level 1) C4141
 'modifier' : used more than once  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4141.cpp  
@@ -51,6 +51,6 @@ inline inline void func ();   // C4141
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

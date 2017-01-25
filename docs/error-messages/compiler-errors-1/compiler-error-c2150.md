@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d704d927938089b912d92468620b18fcb375ec40
 
 ---
-# Compiler Error C2150
+# <a name="compiler-error-c2150"></a>Compiler Error C2150
 'identifier' : bit field must have type 'int', 'signed int', or 'unsigned int'  
   
  bit fields are required to be `int`, `signed``int`, or `unsigned``int`.  
@@ -56,6 +56,6 @@ struct A {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

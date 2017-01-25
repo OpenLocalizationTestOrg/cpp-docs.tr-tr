@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a7b3b5c848bbf0dd34fb30d3ce636285a3e12ae3
 
 ---
-# Compiler Warning (level 1) C4822
+# <a name="compiler-warning-level-1-c4822"></a>Compiler Warning (level 1) C4822
 'member' : local class member function does not have a body  
   
  A local class member function was declared but not defined in class. To use a local class member function, you must define it in the class. You cannot declare it in class and define it out of class.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

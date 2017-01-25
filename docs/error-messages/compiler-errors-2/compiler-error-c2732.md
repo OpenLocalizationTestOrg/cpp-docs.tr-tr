@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7113f2d093515b9bdbe6464f26e858ae5f762289
 
 ---
-# Compiler Error C2732
+# <a name="compiler-error-c2732"></a>Compiler Error C2732
 linkage specification contradicts earlier specification for 'function'  
   
  The function is already declared with a different linkage specifier.  
@@ -48,7 +48,7 @@ linkage specification contradicts earlier specification for 'function'
   
  To fix this error, change the `extern` statements so that the linkages agree. In particular, do not wrap `#include` directives in `extern "C"` blocks.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2732:  
   
 ```  
@@ -58,6 +58,6 @@ extern "C" void func( void );   // C2732
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

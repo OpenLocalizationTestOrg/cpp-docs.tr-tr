@@ -39,12 +39,12 @@ ms.sourcegitcommit: 6fe065a9cefe7a01942aa3f5411167f8a5f38985
 ms.openlocfilehash: a33bc40cd39494a304652ff8b20d40a6f3fdd099
 
 ---
-# Compiler Error C2094
+# <a name="compiler-error-c2094"></a>Compiler Error C2094
 label 'identifier' was undefined  
   
 The label used by a [goto](../../cpp/goto-statement-cpp.md) statement does not exist in the function.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C2094:  
   
 ```cpp  
@@ -67,6 +67,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

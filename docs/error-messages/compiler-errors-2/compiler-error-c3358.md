@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bcb1ebe23b9772efb885fe547cd03c9af9c39cf7
 
 ---
-# Compiler Error C3358
+# <a name="compiler-error-c3358"></a>Compiler Error C3358
 'symbol': symbol not found  
   
  The required symbol was not found.  
@@ -65,6 +65,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

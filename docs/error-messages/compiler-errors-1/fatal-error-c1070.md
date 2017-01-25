@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f0634e67c038ed834833e2693ff715f89d64ade9
 
 ---
-# Fatal Error C1070
+# <a name="fatal-error-c1070"></a>Fatal Error C1070
 mismatched #if/#endif pair in file 'filename'  
   
  An `#if`, `#ifdef`, or `#ifndef` directive has no corresponding `#endif`.  
@@ -72,6 +72,6 @@ mismatched #if/#endif pair in file 'filename'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

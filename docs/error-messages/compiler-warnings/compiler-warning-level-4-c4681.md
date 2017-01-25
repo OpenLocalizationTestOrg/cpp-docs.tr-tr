@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6e88d97dd16950d8ad0bdbf2b64d5104f9f3928b
 
 ---
-# Compiler Warning (level 4) C4681
+# <a name="compiler-warning-level-4-c4681"></a>Compiler Warning (level 4) C4681
 'class' : coclass does not specify a default interface that is an event source  
   
  A [source](../../windows/source-cpp.md) interface was not specified for a class.  
@@ -74,6 +74,6 @@ struct CSource : ISource {   // C4681
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

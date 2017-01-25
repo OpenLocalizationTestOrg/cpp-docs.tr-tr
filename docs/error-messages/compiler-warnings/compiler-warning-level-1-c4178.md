@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3a38397662b9d0aacf30a9a33b2e84c2af15c72c
 
 ---
-# Compiler Warning (level 1) C4178
+# <a name="compiler-warning-level-1-c4178"></a>Compiler Warning (level 1) C4178
 case constant 'constant' too big for the type of the switch expression  
   
  A case constant in a `switch` expression does not fit in the type to which it is assigned.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4178.cpp  
@@ -63,6 +63,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

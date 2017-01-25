@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81533dfe2005c64d9ee3bcf4d08d419a3977edb3
 
 ---
-# Compiler Error C3226
+# <a name="compiler-error-c3226"></a>Compiler Error C3226
 A template declaration is not allowed inside a generic declaration  
   
  Use a generic declaration inside a generic class.  
@@ -69,6 +69,6 @@ ref class C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

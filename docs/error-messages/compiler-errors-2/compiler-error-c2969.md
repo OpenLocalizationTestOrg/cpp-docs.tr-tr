@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7655668ef38601b38c6d46c85bfd504caf20cda2
 
 ---
-# Compiler Error C2969
+# <a name="compiler-error-c2969"></a>Compiler Error C2969
 syntax error : 'symbol' : expected member function definition to end with '}'  
   
  A template member function definition has an unmatched closing brace.  
@@ -66,6 +66,6 @@ class B {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

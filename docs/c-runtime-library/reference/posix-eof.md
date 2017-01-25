@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 158da79829eeabfbb6475bfaa92bd42df8456c5d
 
 ---
-# eof
+# <a name="eof"></a>eof
 This POSIX function is deprecated. Use the ISO C++ conformant [_eof](../../c-runtime-library/reference/eof.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

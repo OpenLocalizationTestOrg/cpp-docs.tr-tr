@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 72e569a1c0260a2abed0956be01a47166b227d59
 
 ---
-# Compiler Error C2338
+# <a name="compiler-error-c2338"></a>Compiler Error C2338
 'identifier' Atl Attribute Provider  
   
  The attribute references an undeclared identified. You may see this error associated with [ATL Provider Error ATL2010](http://msdn.microsoft.com/en-us/27a25924-b52b-4971-80d3-c3b3e9ffbe41).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

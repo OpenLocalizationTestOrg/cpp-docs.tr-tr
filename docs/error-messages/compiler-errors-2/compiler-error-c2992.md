@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fcca5398ab92e0e17ae232524a1f0af3c263529d
 
 ---
-# Compiler Error C2992
+# <a name="compiler-error-c2992"></a>Compiler Error C2992
 'class' : invalid or missing type parameter list  
   
  The class is preceded by a `template` or **generic** keyword with missing or invalid parameters.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2992:  
   
 ```  
@@ -80,6 +80,6 @@ ref struct GC1<T>::GC2 {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

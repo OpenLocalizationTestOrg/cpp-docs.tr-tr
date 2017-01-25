@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 070205aaa85fa4427c4fdab30d307a4681b5a1df
 
 ---
-# Compiler Error C3211
+# <a name="compiler-error-c3211"></a>Compiler Error C3211
 'explicit specialization' : explicit specialization is using partial specialization syntax, use template <> instead  
   
  An explicit specialization was ill formed.  
@@ -59,6 +59,6 @@ struct s<int>{};   // C3211
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

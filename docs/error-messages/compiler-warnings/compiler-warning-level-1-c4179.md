@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c0d6e8231d6d7dc312c017ab58aa99eae69417f6
 
 ---
-# Compiler Warning (level 1) C4179
+# <a name="compiler-warning-level-1-c4179"></a>Compiler Warning (level 1) C4179
 '//*' : parsed as '/' and '/\*': confusion with standard '//' comments  
   
  **//\*** is an incorrect comment delimiter. Use **//** or **/\*** instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

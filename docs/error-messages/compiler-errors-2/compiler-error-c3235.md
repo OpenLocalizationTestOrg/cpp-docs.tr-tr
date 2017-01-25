@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e7a7d616d383663795a26a7f0d6f50feedb74351
 
 ---
-# Compiler Error C3235
+# <a name="compiler-error-c3235"></a>Compiler Error C3235
 'specialization' : explicit or partial specialization of a generic class is not allowed  
   
  Generic classes cannot be used for explicit or partial specializations.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3235.  
   
 ```  
@@ -58,6 +58,6 @@ public ref class C<int> {};   // C3235 Remove this specialization to resolve thi
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fe95571dd8440fd5cb5d53d1f3c825c6ada7ce7d
 
 ---
-# Compiler Error C3085
+# <a name="compiler-error-c3085"></a>Compiler Error C3085
 'constructor': a constructor cannot be 'keyword'  
   
  A constructor was declared incorrectly. See [Override Specifiers](../../windows/override-specifiers-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3085.  
   
 ```  
@@ -62,6 +62,6 @@ ref struct T {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

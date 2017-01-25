@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fb68551c608aa096f288ecc20cf2243b7b36c337
 
 ---
-# Compiler Error C2156
+# <a name="compiler-error-c2156"></a>Compiler Error C2156
 pragma must be outside function  
   
  A pragma that must be specified at a global level (outside a function body) is within a function.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

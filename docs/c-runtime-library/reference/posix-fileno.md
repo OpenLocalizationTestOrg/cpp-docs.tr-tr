@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 01e85931552a65c49095001834a53093dfc3ea37
 
 ---
-# fileno
+# <a name="fileno"></a>fileno
 This POSIX function is deprecated. Use the ISO C++ conformant [_fileno](../../c-runtime-library/reference/fileno.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

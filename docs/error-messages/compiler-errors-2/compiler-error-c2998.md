@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 985156d027c711b90c21de6fe958d82f166279a9
 
 ---
-# Compiler Error C2998
+# <a name="compiler-error-c2998"></a>Compiler Error C2998
 'identifier' : cannot be a template definition  
   
  The compiler could not process the syntax used in the template definition.  
@@ -53,6 +53,6 @@ template <class T> int x = 1018; // C2998
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

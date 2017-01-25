@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3b2890d9c644992bab7bd5e5e4bfbc38626ed0c8
 
 ---
-# Compiler Warning C4936
+# <a name="compiler-warning-c4936"></a>Compiler Warning C4936
 this __declspec is supported only when compiled with /clr or /clr:pure  
   
  A `__declspec` modifier was used but that `__declspec` modifier is only valid when compiled with one of the [/clr](../../build/reference/clr-common-language-runtime-compilation.md) options.  
@@ -59,6 +59,6 @@ __declspec(appdomain) int j;   // C4936
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

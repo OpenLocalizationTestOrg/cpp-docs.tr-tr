@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: eec5c42a972d0ec9675cc23d93d0e03e694ccb4f
 
 ---
-# Compiler Error C2409
+# <a name="compiler-error-c2409"></a>Compiler Error C2409
 illegal type used as operator in 'context'  
   
  The type is not legal as an operator in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

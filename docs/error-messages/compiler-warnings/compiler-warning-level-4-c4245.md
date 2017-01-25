@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 056059d11a43891a28d714ead3b9899ccf4a5d72
 
 ---
-# Compiler Warning (level 4) C4245
+# <a name="compiler-warning-level-4-c4245"></a>Compiler Warning (level 4) C4245
 'conversion' : conversion from 'type1' to 'type2', signed/unsigned mismatch  
   
  You tried to convert a signed **const** that has a negative value to an `unsigned`.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

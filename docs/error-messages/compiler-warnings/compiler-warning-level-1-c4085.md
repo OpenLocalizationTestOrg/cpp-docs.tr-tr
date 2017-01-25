@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d787f1a1fe0e40c79ee144d7aba63adb2bd6d35b
 
 ---
-# Compiler Warning (level 1) C4085
+# <a name="compiler-warning-level-1-c4085"></a>Compiler Warning (level 1) C4085
 expected pragma parameter to be 'on' or 'off'  
   
  The pragma requires an **on** or **off** parameter. The pragma is ignored.  
@@ -53,6 +53,6 @@ expected pragma parameter to be 'on' or 'off'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0251355af14c72da250dd32afd994735127dcb43
 
 ---
-# Compiler Error C2407
+# <a name="compiler-error-c2407"></a>Compiler Error C2407
 illegal 'float' register in 'context'  
   
  An `NDP` register was specified in an invalid context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

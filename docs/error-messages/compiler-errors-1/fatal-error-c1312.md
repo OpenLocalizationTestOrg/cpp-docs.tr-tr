@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6361f36daa59e077b53e865130d2f863dfcd1b3b
 
 ---
-# Fatal Error C1312
+# <a name="fatal-error-c1312"></a>Fatal Error C1312
 Too many conditional branches in function. Simplify or refactor source code.  
   
  The code is too complex for the compiler to process without running out of stack memory.  Simplify your code.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

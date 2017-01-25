@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fb19472dfcb50df1941a39940e9703e66297272e
 
 ---
-# Compiler Error C3055
+# <a name="compiler-error-c3055"></a>Compiler Error C3055
 'symbol' : symbol cannot be referenced before it is used in 'threadprivate' directive  
   
  A symbol was referenced and then used in a [threadprivate](../../parallel/openmp/reference/threadprivate.md) clause, which is not allowed.  
@@ -78,6 +78,6 @@ void test() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 96e4e3c823bd5a9523ebc7bde74ae808bab9e860
 
 ---
-# Compiler Error C3030
+# <a name="compiler-error-c3030"></a>Compiler Error C3030
 'var' : variable in 'reduction' clause/directive cannot have reference type  
   
  You can only pass value parameters to certain clauses, such as the reduction clause.  
@@ -74,6 +74,6 @@ int main(int argc, char** argv) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

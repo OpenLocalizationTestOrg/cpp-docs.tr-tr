@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4172060fcb646e5bcfbc4977b00070d974aa5c1c
 
 ---
-# Compiler Error C3014
+# <a name="compiler-error-c3014"></a>Compiler Error C3014
 expected a for loop following OpenMP 'directive' directive  
   
  It is an error for anything other than a `for` loop to immediately follow a `#pragma omp for` directive.  
@@ -101,6 +101,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

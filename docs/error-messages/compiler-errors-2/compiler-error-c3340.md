@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0485a84c778614acfdb4e71955ca35400c2c9689
 
 ---
-# Compiler Error C3340
+# <a name="compiler-error-c3340"></a>Compiler Error C3340
 'interface': interface cannot be both 'restricted' and 'default' in coclass 'class'  
   
  The [restricted](../../windows/restricted.md) attribute and the [default](../../windows/default-cpp.md) attribute are mutually exclusive.  
@@ -70,6 +70,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

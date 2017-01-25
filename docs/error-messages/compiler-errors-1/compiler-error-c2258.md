@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a225d1f5b776536db10508da39736f52efdec8f3
 
 ---
-# Compiler Error C2258
+# <a name="compiler-error-c2258"></a>Compiler Error C2258
 illegal pure syntax, must be '= 0'  
   
  A pure virtual function is declared with incorrect syntax.  
@@ -57,6 +57,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

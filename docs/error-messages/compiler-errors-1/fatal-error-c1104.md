@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 61ddbee765a25f743bd3dc0e75c7df935a38a650
 
 ---
-# Fatal Error C1104
+# <a name="fatal-error-c1104"></a>Fatal Error C1104
 fatal error importing libid: 'message'  
   
  The compiler detected a problem importing a type library.  For example, you cannot specify a type library with libid and also specify `no_registry`.  
@@ -54,6 +54,6 @@ fatal error importing libid: 'message'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

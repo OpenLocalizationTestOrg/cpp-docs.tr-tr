@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 29fadd673bae97b2597e80c86926eca75a62eecc
 
 ---
-# Compiler Error C3208
+# <a name="compiler-error-c3208"></a>Compiler Error C3208
 'function' : template parameter list for class template 'class' does not match template parameter list for template template parameter 'parameter'  
   
  A template template parameter does not have the same number of template parameters as the provided class template.  
@@ -63,6 +63,6 @@ int i = f<S>();   // C3208
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

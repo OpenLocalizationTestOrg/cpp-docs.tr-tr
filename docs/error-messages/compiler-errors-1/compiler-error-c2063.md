@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c21c862d73f5beaeb9b0e24da0b66c6b2f530a63
 
 ---
-# Compiler Error C2063
+# <a name="compiler-error-c2063"></a>Compiler Error C2063
 'identifier' : not a function  
   
  The identifier is used as a function but not declared as a function.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

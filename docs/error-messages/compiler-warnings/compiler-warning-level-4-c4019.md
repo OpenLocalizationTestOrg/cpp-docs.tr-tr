@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 64f7a45cb4786d9281cdb36c898579edafaec6de
 
 ---
-# Compiler Warning (level 4) C4019
+# <a name="compiler-warning-level-4-c4019"></a>Compiler Warning (level 4) C4019
 empty statement at global scope  
   
  A semicolon at global scope is not preceded by a statement.  
   
  This warning may be fixed if you remove the extra semicolon.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4019.c  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f8d9b0bbb86e5fbcaaf06d21fd83b1a0304fe84f
 
 ---
-# Compiler Warning (level 4) C4918
+# <a name="compiler-warning-level-4-c4918"></a>Compiler Warning (level 4) C4918
 'character' : invalid character in pragma optimization list  
   
  An unknown character was found in the optimization list of an [optimize](../../preprocessor/optimize.md) pragma statement.  
@@ -56,6 +56,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

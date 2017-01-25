@@ -57,10 +57,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b1523358085e502c3b91b2ca91ae1d2bcae0a77d
 
 ---
-# strdup, wcsdup
+# <a name="strdup-wcsdup"></a>strdup, wcsdup
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strdup, _wcsdup, _mbsdup](../../c-runtime-library/reference/strdup-wcsdup-mbsdup.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

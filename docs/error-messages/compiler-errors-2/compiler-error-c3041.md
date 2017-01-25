@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a3db28762b8c20c7157b0ae04ee943e654f06cfa
 
 ---
-# Compiler Error C3041
+# <a name="compiler-error-c3041"></a>Compiler Error C3041
 'var' : variable in 'copyprivate' clause must be private in enclosing context  
   
  A variable passed to [copyprivate](../../parallel/openmp/reference/copyprivate.md) cannot be shared in the enclosing context.  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

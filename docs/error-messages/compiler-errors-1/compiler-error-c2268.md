@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7939c012e2c6750901af8c35e3c76da9be9a35da
 
 ---
-# Compiler Error C2268
+# <a name="compiler-error-c2268"></a>Compiler Error C2268
 'function' is a compiler predefined library helper. Library helpers are not supported with /GL; compile object file 'file' without /GL.  
   
  A function defined in your source code has the same name as an internal compiler function. Compile the module containing the function without [/GL](../../build/reference/gl-whole-program-optimization.md).  
@@ -108,6 +108,6 @@ int main(void) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

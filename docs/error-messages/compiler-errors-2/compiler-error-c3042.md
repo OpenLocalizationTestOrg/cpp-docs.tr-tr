@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 44c759303bb5ecdb0286a94a437f83ca15b28723
 
 ---
-# Compiler Error C3042
+# <a name="compiler-error-c3042"></a>Compiler Error C3042
 'copyprivate' and 'nowait' clauses cannot appear together on OpenMP 'directive' directive  
   
  The [copyprivate](../../parallel/openmp/reference/copyprivate.md) and [nowait](../../parallel/openmp/reference/nowait.md) clauses are mutually exclusive on the specified directive. To fix this error, remove one or both of the `copyprivate` or `nowait` clauses.  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

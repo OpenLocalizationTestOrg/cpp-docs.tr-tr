@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6de28bbebac0321388808542949f80d210de171e
 
 ---
-# Compiler Error C2102
+# <a name="compiler-error-c2102"></a>Compiler Error C2102
 '&' requires l-value  
   
  The address-of operator ( `&` ) must have an l-value as operand.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

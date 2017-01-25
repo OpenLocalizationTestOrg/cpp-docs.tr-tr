@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aa413464fe2cb2105e0898c34887fc503c501ae2
 
 ---
-# Compiler Warning (level 3) C4102
+# <a name="compiler-warning-level-3-c4102"></a>Compiler Warning (level 3) C4102
 'label' : unreferenced label  
   
  The label is defined but never referenced. The compiler ignores the label.  
@@ -59,6 +59,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

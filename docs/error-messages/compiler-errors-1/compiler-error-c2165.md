@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c9511650ab0714ad3350244133f1110c5b40e16c
 
 ---
-# Compiler Error C2165
+# <a name="compiler-error-c2165"></a>Compiler Error C2165
 'keyword' : cannot modify pointers to data  
   
  The `__stdcall`, `__cdecl`, or `__fastcall` keyword attempts to modify a pointer to data.  
@@ -54,6 +54,6 @@ char *p;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

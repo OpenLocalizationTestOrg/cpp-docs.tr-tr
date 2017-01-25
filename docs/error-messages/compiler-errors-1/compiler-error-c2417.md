@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8baf1f23d104649ad81d6c5263e47263c5819077
 
 ---
-# Compiler Error C2417
+# <a name="compiler-error-c2417"></a>Compiler Error C2417
 divide by zero in 'context'  
   
  The parameter to the right of the division operator is zero in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

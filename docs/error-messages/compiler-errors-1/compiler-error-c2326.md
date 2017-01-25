@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7fc66a0002418fdf81f287d9dbcf74bde0a51c64
 
 ---
-# Compiler Error C2326
+# <a name="compiler-error-c2326"></a>Compiler Error C2326
 'declarator' : function cannot access 'name'  
   
  The code tries to modify a member variable, which is not possible.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2326:  
   
 ```  
@@ -62,6 +62,6 @@ void MyFunc() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

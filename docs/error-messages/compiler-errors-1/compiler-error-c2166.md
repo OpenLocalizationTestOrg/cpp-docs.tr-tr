@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 84e1b706353aa763d54998848d388e9b504fbafe
 
 ---
-# Compiler Error C2166
+# <a name="compiler-error-c2166"></a>Compiler Error C2166
 l-value specifies const object  
   
  Code attempts to modify an item declared `const`.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

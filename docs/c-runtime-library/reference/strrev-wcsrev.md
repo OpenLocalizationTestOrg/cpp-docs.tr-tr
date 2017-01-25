@@ -57,10 +57,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6e775694b73f2b6963e8523e4bfee96b174f2bfc
 
 ---
-# strrev, wcsrev
+# <a name="strrev-wcsrev"></a>strrev, wcsrev
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strrev, _wcsrev, _mbsrev, _mbsrev_l](../../c-runtime-library/reference/strrev-wcsrev-mbsrev-mbsrev-l.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

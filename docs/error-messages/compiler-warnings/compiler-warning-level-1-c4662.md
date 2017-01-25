@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 530e49e1d82cf635e84f21738fd26f6fa42eee78
 
 ---
-# Compiler Warning (level 1) C4662
+# <a name="compiler-warning-level-1-c4662"></a>Compiler Warning (level 1) C4662
 explicit instantiation; template-class 'identifier1' has no definition from which to specialize 'identifier2'  
   
  The specified template-class was declared, but not defined.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4662.cpp  
@@ -54,6 +54,6 @@ template MyClass< int, 1>;              // C4662
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

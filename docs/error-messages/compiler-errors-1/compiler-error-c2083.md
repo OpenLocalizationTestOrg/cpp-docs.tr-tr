@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9f85f21fffd2eb0e4df5611bb3513468a1287308
 
 ---
-# Compiler Error C2083
+# <a name="compiler-error-c2083"></a>Compiler Error C2083
 struct/union comparison illegal  
   
  A structure or union is compared directly with another user-defined type. This is not allowed unless a comparison operator has been defined or a conversion to a scalar type exists.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

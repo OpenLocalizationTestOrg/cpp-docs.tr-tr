@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ae91c5b8af97d02223e1d7154d1cf029493cdc7c
 
 ---
-# Compiler Warning C4694
+# <a name="compiler-warning-c4694"></a>Compiler Warning C4694
 'class_1': a sealed abstract class cannot have a base-class 'base_class'  
   
  An abstract and sealed class cannot inherit from a reference type; a sealed and abstract class can neither implement the base class functions nor allow itself to be used as a base class.  
   
  For more information, see [abstract](../../windows/abstract-cpp-component-extensions.md), [sealed](../../windows/sealed-cpp-component-extensions.md), and [Classes and Structs](../../windows/classes-and-structs-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4694.  
   
 ```  
@@ -57,6 +57,6 @@ ref struct B sealed abstract : A {};   // C4694
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

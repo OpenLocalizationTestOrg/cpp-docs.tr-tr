@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 842403bfdd6ae49fbf338b7fd1d8a1a3f68e6d59
 
 ---
-# Compiler Error C2923
+# <a name="compiler-error-c2923"></a>Compiler Error C2923
 'type' : 'identifier' is not a valid template type argument for parameter 'param'  
   
  The argument list is missing a type needed to instantiate the template or generic. Check the template or generic declaration.  
@@ -72,6 +72,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

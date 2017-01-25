@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0386485c33bafc0b22cdcce81e136e33847539bb
 
 ---
-# Compiler Error C3393
+# <a name="compiler-error-c3393"></a>Compiler Error C3393
 syntax error in constraint clause: 'identifier' is not a type  
   
  The identifier passed to a constraint, which must be a type, was not a type.  For more information, see [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3393:  
   
 ```  
@@ -61,6 +61,6 @@ ref class R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

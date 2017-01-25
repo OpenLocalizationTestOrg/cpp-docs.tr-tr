@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0ab2992bf11a13dc54fcebe067ed21f0c6670ff1
 
 ---
-# Compiler Error C2283
+# <a name="compiler-error-c2283"></a>Compiler Error C2283
 'identifier' : pure specifier or abstract override specifier not allowed on unnamed struct  
   
  A member function of an unnamed class or structure is declared with a pure specifier, which is not permitted.  
@@ -58,6 +58,6 @@ struct T {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

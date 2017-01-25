@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f2c4384de8ef8514cd2d6b64b1b1b5ff3ef7e035
 
 ---
-# Fatal Error C1209
+# <a name="fatal-error-c1209"></a>Fatal Error C1209
 Friend assemblies not supported by the version of the runtime installed  
   
  C1208 occurs when you have a compiler for the current release, but a common language runtime from a previous release.  
@@ -51,6 +51,6 @@ Friend assemblies not supported by the version of the runtime installed
  For more information, see [Friend Assemblies (C++)](../../dotnet/friend-assemblies-cpp.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

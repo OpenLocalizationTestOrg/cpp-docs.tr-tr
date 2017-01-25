@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 48a1144d19f760760f40b5bd9fd1cb43e00e11d8
 
 ---
-# Compiler Warning (level 4) C4718
+# <a name="compiler-warning-level-4-c4718"></a>Compiler Warning (level 4) C4718
 'function call' : recursive call has no side effects, deleting  
   
  A function contains a recursive call, but otherwise has no side effects. A call to this function is being deleted. The correctness of the program is not affected, but the behavior is. Whereas leaving the call in could result in a runtime stack overflow exception, deleting the call removes that possibility.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

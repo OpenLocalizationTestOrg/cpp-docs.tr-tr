@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ab34c8a0dbb2da157fc80066404c065d4a3f96df
 
 ---
-# Compiler Warning (level 4) C4764
+# <a name="compiler-warning-level-4-c4764"></a>Compiler Warning (level 4) C4764
 Cannot align catch objects to greater than 16 bytes  
   
  An alignment greater than 16 was specified, but on some platforms, if the function throws an exception, the stack will force an alignment of not greater than 16.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4764:  
   
 ```  
@@ -77,6 +77,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

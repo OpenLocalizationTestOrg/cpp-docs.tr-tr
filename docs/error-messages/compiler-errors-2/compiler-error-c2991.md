@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c363d9c36ad477fc6114f76a3b30596b1105fcfd
 
 ---
-# Compiler Error C2991
+# <a name="compiler-error-c2991"></a>Compiler Error C2991
 redefinition of type parameter 'parameter'  
   
  There was a type conflict between two generic or template definitions of `parameter`. When defining multiple generic or template parameters, you must use equivalent types.  
@@ -65,6 +65,6 @@ generic<class T,class T> ref struct GC {};   // C2991
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

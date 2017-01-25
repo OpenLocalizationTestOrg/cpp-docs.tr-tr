@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f3b03387878fbd758ec6aaf63b9100874c13136c
 
 ---
-# Compiler Error C2469
+# <a name="compiler-error-c2469"></a>Compiler Error C2469
 'operator': cannot allocate 'type' object  
   
  An operator was passed an invalid type.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

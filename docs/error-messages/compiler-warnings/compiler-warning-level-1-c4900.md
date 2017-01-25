@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6d7c9158721aec18db85e6db385cbad02b85ee82
 
 ---
-# Compiler Warning (level 1) C4900
+# <a name="compiler-warning-level-1-c4900"></a>Compiler Warning (level 1) C4900
 intermediate language mismatch between 'tool1' version 'version1' and 'tool2' version 'version2'  
   
  The intermediate language used in *tool1* and *tool2* did not match. Check that the most current version of each tool has been installed.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81b746496d4102d617c9bd5d7592470f94be0718
 
 ---
-# Fatal Error C1012
+# <a name="fatal-error-c1012"></a>Fatal Error C1012
 unmatched parenthesis : missing character  
   
  The parentheses in a preprocessor directive do not match.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

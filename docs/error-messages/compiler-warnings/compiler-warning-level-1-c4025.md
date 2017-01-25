@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: adc40b0b376b5553d136df420fd03b3500bc25a8
 
 ---
-# Compiler Warning (level 1) C4025
+# <a name="compiler-warning-level-1-c4025"></a>Compiler Warning (level 1) C4025
 'number' : based pointer passed to function with variable arguments: parameter number  
   
  Passing a based pointer to a function with variable arguments causes the pointer to be normalized, with unpredictable results. Do not pass based pointers to functions with variable arguments.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

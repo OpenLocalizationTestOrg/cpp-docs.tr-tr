@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f639fe8521caf20e534ee85bc4e5a1e9990b302d
 
 ---
-# Compiler Error C2082
+# <a name="compiler-error-c2082"></a>Compiler Error C2082
 redefinition of formal parameter 'identifier'  
   
  A formal parameter to a function is redeclared within the function body. To resolve the error, remove the redefinition.  
@@ -55,6 +55,6 @@ void func(int i) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

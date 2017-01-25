@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 635bfe933c4fb869a846cf204a4663748a023d54
 
 ---
-# Compiler Error C3027
+# <a name="compiler-error-c3027"></a>Compiler Error C3027
 'clause' : arithmetic or pointer expression expected  
   
  A clause that requires an arithmetic or pointer expression was passed another kind of expression.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3027:  
   
 ```  
@@ -77,6 +77,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d893ae8ca212c04fd11e0d86c1bd8fc3d6912e22
 
 ---
-# Compiler Warning (level 1) C4052
+# <a name="compiler-warning-level-1-c4052"></a>Compiler Warning (level 1) C4052
 function declarations different; one contains variable arguments  
   
  One declaration of the function does not contain variable arguments. It is ignored.  
@@ -54,6 +54,6 @@ int f(int i, ...);   // C4052
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

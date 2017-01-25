@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 2ad4d2d5b926001fad668b62b6cbf0abe21542c0
 
 ---
-# Compiler Error C3365
+# <a name="compiler-error-c3365"></a>Compiler Error C3365
 operator 'operator' : differing operands of type 'type1' and 'type2'  
   
 An attempt was made to compose delegates with different types.  See [How to: Define and Use Delegates (C++/CLI)](../../dotnet/how-to-define-and-use-delegates-cpp-cli.md) for more information about delegates.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3365:  
   
 ```cpp  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

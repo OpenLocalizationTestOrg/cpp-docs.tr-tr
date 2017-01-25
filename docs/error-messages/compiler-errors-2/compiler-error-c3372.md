@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c781cd1cceefbaddbb94ceb9b2b1cabb2d5512e9
 
 ---
-# Compiler Error C3372
+# <a name="compiler-error-c3372"></a>Compiler Error C3372
 must specify at least 1 interface for attribute 'source' on a coclass  
   
  For certain attributes, you must pass an interface name as a parameter.  
@@ -67,6 +67,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

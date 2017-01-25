@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 64deecab47d6a91e73bc64eb7f87e8bed58f7aba
 
 ---
-# Compiler Error C3033
+# <a name="compiler-error-c3033"></a>Compiler Error C3033
 'var' : variable in 'clause' clause cannot have const-qualified type  
   
  Values passed to certain clauses cannot be `const` variables.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

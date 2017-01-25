@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6f4743b4303d69ecfe4a128abc8e4bfa572c8c7c
 
 ---
-# Compiler Error C3047
+# <a name="compiler-error-c3047"></a>Compiler Error C3047
 Structured block in an OpenMP 'sections' region must be preceded by '#pragma omp section'  
   
  Any code in a code block introduced by a [sections](../../parallel/openmp/reference/sections-openmp.md) directive must be in a code block introduced by a `section` directive.  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

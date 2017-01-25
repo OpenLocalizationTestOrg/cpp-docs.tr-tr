@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cfde60fd68aa093aff6948444f676bca6b8c12f5
 
 ---
-# Compiler Error C3360
+# <a name="compiler-error-c3360"></a>Compiler Error C3360
 'string': cannot create name  
   
  The value that was passed to the [uuid](../../windows/uuid-cpp-attributes.md) attribute was not valid.  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: ac0d01ac905db07386b757be3f584957dfd48779
 
 ---
-# Compiler Error C3271
+# <a name="compiler-error-c3271"></a>Compiler Error C3271
 'member': invalid value 'value' for the FieldOffset attribute  
   
  A negative number was passed to the **FieldOffset** attribute.  
@@ -61,6 +61,6 @@ value class MyStruct1 {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

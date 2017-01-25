@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: afa8b609b28b278bb064090ff0e50c97630e0b6d
 
 ---
-# Compiler Warning (level 1) C4925
+# <a name="compiler-warning-level-1-c4925"></a>Compiler Warning (level 1) C4925
 'method': dispinterface method cannot be called from script  
   
  Scripting languages cannot create a VT_BYREF 'in' parameter, it can only create VT_BYREF 'out' parameters.  
@@ -68,6 +68,6 @@ struct CDisp : IDisp {   // C4925
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 238bebeca1c3a60dbea13387de20ad3e368e20c9
 
 ---
-# Compiler Warning (Level 1) C4739
+# <a name="compiler-warning-level-1-c4739"></a>Compiler Warning (Level 1) C4739
 reference to variable 'var' exceeds its storage space  
   
  A value was assigned to a variable, but the value is greater than the size of the variable. Memory will be written beyond the variable's memory location, and data loss is possible.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

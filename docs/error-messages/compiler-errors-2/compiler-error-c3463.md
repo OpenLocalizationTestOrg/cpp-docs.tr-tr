@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e9deada94af9afb671b878018b7ff0b10599d67a
 
 ---
-# Compiler Error C3463
+# <a name="compiler-error-c3463"></a>Compiler Error C3463
 'type': type not allowed in attribute 'implements'  
   
  An invalid type was passed to the [implements](../../windows/implements-cpp.md) attribute. For example, you can pass an interface to `implements`, but you cannot pass a pointer to an interface.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3463.  
   
 ```  
@@ -63,6 +63,6 @@ class CMyClass : public X {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

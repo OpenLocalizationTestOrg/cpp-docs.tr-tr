@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 42a24acf6c9cea81f7706cc082c2a6800dddbea3
 
 ---
-# Compiler Error C2375
+# <a name="compiler-error-c2375"></a>Compiler Error C2375
 'function' : redefinition; different linkage  
   
  The function is already declared with a different linkage specifier.  
@@ -55,6 +55,6 @@ static void func2( void );   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

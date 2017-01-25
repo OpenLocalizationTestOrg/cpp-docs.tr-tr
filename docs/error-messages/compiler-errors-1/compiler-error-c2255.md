@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8592338067318625f163b781037e9a58a52aeb06
 
 ---
-# Compiler Error C2255
+# <a name="compiler-error-c2255"></a>Compiler Error C2255
 'element' : not allowed outside of a class definition  
   
  For example, a nonmember function is declared a `friend`.  
@@ -60,6 +60,6 @@ void func2(){}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

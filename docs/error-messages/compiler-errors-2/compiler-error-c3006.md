@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 25ed0ea52a31ca73766af8bf46da03bfb34b38c6
 
 ---
-# Compiler Error C3006
+# <a name="compiler-error-c3006"></a>Compiler Error C3006
 'clause' : clause on OpenMP 'directive' directive is missing an expected argument  
   
  An OpenMP directive did not have an expected argument.  
@@ -59,6 +59,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

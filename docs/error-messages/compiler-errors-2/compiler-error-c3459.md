@@ -39,14 +39,14 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 7061d3d633f9b2a4127189e74103141834800bfe
 
 ---
-# Compiler Error C3459
+# <a name="compiler-error-c3459"></a>Compiler Error C3459
 'attribute': attribute allowed only on class indexer (default indexed property)  
   
 An attribute that is designed to be applied to a class indexer property was used incorrectly.  
   
 For more information, see [How to: Use Properties in C++/CLI](../../dotnet/how-to-use-properties-in-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3459.  
   
 ```  
@@ -79,6 +79,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

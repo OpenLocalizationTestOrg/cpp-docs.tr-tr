@@ -39,16 +39,16 @@ ms.sourcegitcommit: 84f0628de933344eb23dc6325679abdcd3699c3a
 ms.openlocfilehash: 8e0538cc5a1ec9279c4d84cb9e23e0d6fabfd77e
 
 ---
-# Compiler Warning (level 2) C4396
+# <a name="compiler-warning-level-2-c4396"></a>Compiler Warning (level 2) C4396
 "name" : the inline specifier cannot be used when a friend declaration refers to a specialization of a function template  
   
  A specialization of a function template cannot specify any of the [inline](../../cpp/inline-functions-cpp.md) specifiers. The compiler issues warning C4396 and ignores the inline specifier.  
   
-### To correct this error  
+### <a name="to-correct-this-error"></a>To correct this error  
   
 -   Remove the `inline`, `__inline`, or `__forceinline` specifier from the friend function declaration.  
   
-## Example  
+## <a name="example"></a>Example  
  The following code example shows an invalid friend function declaration with an `inline` specifier.  
   
 ```  
@@ -67,6 +67,6 @@ class X {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

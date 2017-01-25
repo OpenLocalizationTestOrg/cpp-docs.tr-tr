@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aa1e9c7b407c3f2c27038797bca67432fb4a3036
 
 ---
-# Compiler Error C2649
+# <a name="compiler-error-c2649"></a>Compiler Error C2649
 'identifier' : is not a 'class-key'  
   
  A class, structure, or union declaration uses an incorrect tag.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

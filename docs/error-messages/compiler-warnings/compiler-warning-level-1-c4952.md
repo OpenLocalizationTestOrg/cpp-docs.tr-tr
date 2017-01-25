@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6bb297c2e19498a4f752d18eb49e988099e24e10
 
 ---
-# Compiler Warning (level 1) C4952
+# <a name="compiler-warning-level-1-c4952"></a>Compiler Warning (level 1) C4952
 'function' : no profile data found in program database 'pgd_file'  
   
  When using [/LTCG:PGUPDATE](../../build/reference/ltcg-link-time-code-generation.md), the compiler detected an input module that was recompiled after `/LTCG:PGINSTRUMENT` and has a new function (***function***) present.  
@@ -49,6 +49,6 @@ ms.openlocfilehash: 6bb297c2e19498a4f752d18eb49e988099e24e10
  This warning would be replaced with an error if `/LTCG:PGOPTIMIZE` had been used.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

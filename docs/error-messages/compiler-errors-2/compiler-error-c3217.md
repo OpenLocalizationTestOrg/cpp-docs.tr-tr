@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0d4045d32e32b888e9fa673b1b6a4cbd7320721e
 
 ---
-# Compiler Error C3217
+# <a name="compiler-error-c3217"></a>Compiler Error C3217
 'param' : generic parameter cannot be constrained in this declaration  
   
  A constraint was ill formed; the constraint generic parameter must agree with the generic class template parameter.  
@@ -75,6 +75,6 @@ ref class C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

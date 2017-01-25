@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 4b4acfe97e38cf13e336b7c58ffc868c69cf7a09
 
 ---
-# Compiler Error C3320
+# <a name="compiler-error-c3320"></a>Compiler Error C3320
 'type': type cannot have the same name as the module 'name' property  
   
 An exported user-defined type (UDT), which could be a struct, class, enum, or union, cannot have the same name as the parameter passed to the [module](../../windows/module-cpp.md) attribute's name property.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3320:  
   
 ```cpp  
@@ -60,6 +60,6 @@ The following sample generates C3320:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

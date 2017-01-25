@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7d67c0548c007b054a23eefe12f4746ae1a3f459
 
 ---
-# Compiler Error C2048
+# <a name="compiler-error-c2048"></a>Compiler Error C2048
 more than one default  
   
  A `switch` statement contains multiple `default` labels. Delete one of the `default` labels to resolve the error.  
@@ -77,6 +77,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

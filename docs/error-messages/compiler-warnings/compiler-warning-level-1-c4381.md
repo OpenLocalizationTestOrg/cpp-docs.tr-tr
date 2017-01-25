@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 586fd5420f0951d5c133b9c59057247ab70866c5
 
 ---
-# Compiler Warning (level 1) C4381
+# <a name="compiler-warning-level-1-c4381"></a>Compiler Warning (level 1) C4381
 'function1': interface method will not be implemented by non-public method 'function2'  
   
  A class must implement all function in an interface. A class can satisfy this condition if one of its base classes implements the function. However, the function must be implemented as a public function.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

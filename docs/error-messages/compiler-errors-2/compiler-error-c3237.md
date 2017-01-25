@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 815ec110664bab1c5a1a1672a6333c881c06435d
 
 ---
-# Compiler Error C3237
+# <a name="compiler-error-c3237"></a>Compiler Error C3237
 'generic_class' : a generic class cannot be a custom attribute  
   
  Generic classes cannot be user-defined attributes.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3237.  
   
 ```  
@@ -60,6 +60,6 @@ public ref class GR {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

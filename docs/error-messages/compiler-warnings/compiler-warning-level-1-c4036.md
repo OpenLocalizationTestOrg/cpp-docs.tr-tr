@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2802292fd0bc55fd29190f3b11261af9b60b7227
 
 ---
-# Compiler Warning (level 1) C4036
+# <a name="compiler-warning-level-1-c4036"></a>Compiler Warning (level 1) C4036
 unnamed 'type' as actual parameter  
   
  No type name is given for a structure, union, enumeration, or class used as an actual parameter. If you are using [/Zg](../../build/reference/zg-generate-function-prototypes.md) to generate function prototypes, the compiler issues this warning and comments out the formal parameter in the generated prototype.  
   
  Specify a type name to resolve this warning.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4036.  
   
 ```  
@@ -62,6 +62,6 @@ void f2(T2 * t) {}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 651f8001ab3f248b1a9c5c097a887c875ab5b5f1
 
 ---
-# Compiler Warning (level 4) C4960
+# <a name="compiler-warning-level-4-c4960"></a>Compiler Warning (level 4) C4960
 'function' is too big to be profiled  
   
  When using [/LTCG:PGOPTIMIZE](../../build/reference/ltcg-link-time-code-generation.md), the compiler detected an input module with a function larger than 65,535 instructions. Such a large function is not available for profile-guided optimizations.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 651f8001ab3f248b1a9c5c097a887c875ab5b5f1
  To resolve this warning, reduce the size of the function.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

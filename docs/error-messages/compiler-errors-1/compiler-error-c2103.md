@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6295960c39d52269ffd0f3ad05787e090932480b
 
 ---
-# Compiler Error C2103
+# <a name="compiler-error-c2103"></a>Compiler Error C2103
 '&' on register variable  
   
  You cannot take the address of a register.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

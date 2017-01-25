@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bf570d975c9638ae0e5321525ca94e3d5738be2a
 
 ---
-# Compiler Error C2945
+# <a name="compiler-error-c2945"></a>Compiler Error C2945
 explicit instantiation does not refer to a template-class specialization  
   
  You cannot explicitly instantiate something that is not templated.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6197f0018ebb6f23b4608e376282b32cd030ba30
 
 ---
-# Compiler Warning (level 4) C4127
+# <a name="compiler-warning-level-4-c4127"></a>Compiler Warning (level 4) C4127
 conditional expression is constant  
   
  The controlling expression of an `if` statement or `while` loop evaluates to a constant. Because of their common idiomatic usage, trivial constants such as 1 or `true` do not trigger the warning, unless they are the result of an operation in an expression. If the controlling expression of a `while` loop is a constant because the loop exits in the middle, consider replacing the `while` loop with a `for` loop. You can omit the initialization, termination test and loop increment of a `for` loop, which causes the loop to be infinite, just like `while(1)`, and you can exit the loop from the body of the `for` statement.  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

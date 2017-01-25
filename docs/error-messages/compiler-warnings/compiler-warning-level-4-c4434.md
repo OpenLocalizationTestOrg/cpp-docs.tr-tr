@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a0af50287555b326792472f1ac5a32544c15bd1b
 
 ---
-# Compiler Warning (level 4) C4434
+# <a name="compiler-warning-level-4-c4434"></a>Compiler Warning (level 4) C4434
 a class constructor must have private accessibility; changing to private access  
   
  C4434 indicates that the compiler changed the accessibility of a static constructor. Static constructors must have private accessibility, as they are only meant to be called by the common language runtime. For more information, see [Static constructors](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Static_constructors).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4434.  
   
 ```  
@@ -56,6 +56,6 @@ public ref struct R {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

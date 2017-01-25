@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b49044fed220a38b5cb38e70705b23976699a5ab
 
 ---
-# Compiler Error C2957
+# <a name="compiler-error-c2957"></a>Compiler Error C2957
 'delim' : invalid left delimiter : expected '<'  
   
  A generic class was ill formed.  
@@ -56,6 +56,6 @@ gc class C {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

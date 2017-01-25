@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 873f0a2e57aff09435763a5091cc8a384294690a
 
 ---
-# Compiler Error C3292
+# <a name="compiler-error-c3292"></a>Compiler Error C3292
 the cli namespace cannot be reopened  
   
  The cli namespace cannot be declared in your code.  For more information, see [Platform, default, and cli Namespaces](../../windows/platform-default-and-cli-namespaces-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3292.  
   
 ```  
@@ -54,6 +54,6 @@ namespace cli {};   // C3292
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

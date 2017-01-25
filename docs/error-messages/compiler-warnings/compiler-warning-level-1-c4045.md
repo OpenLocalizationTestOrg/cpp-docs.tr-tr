@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2e357864e954059bfd6f3d036be9b4743fdfdfbf
 
 ---
-# Compiler Warning (level 1) C4045
+# <a name="compiler-warning-level-1-c4045"></a>Compiler Warning (level 1) C4045
 'array' : array bounds overflow  
   
  The array has too many initializers. Extra initializers are ignored.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 2e357864e954059bfd6f3d036be9b4743fdfdfbf
  Make sure that array elements and initializers match in size and quantity.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

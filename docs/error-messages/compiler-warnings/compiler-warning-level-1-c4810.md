@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ef9e0f9dd437a6e2c57f2faccf958ccd7c37843f
 
 ---
-# Compiler Warning (level 1) C4810
+# <a name="compiler-warning-level-1-c4810"></a>Compiler Warning (level 1) C4810
 value of pragma pack(show) == n  
   
  This warning is issued when you use the **show** option of the [pack](../../preprocessor/pack.md) pragma. *n* is the current pack value.  
@@ -56,6 +56,6 @@ value of pragma pack(show) == n
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

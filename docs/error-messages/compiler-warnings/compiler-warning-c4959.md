@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7ee9684a005f08ea8df762cecbc9665376c09469
 
 ---
-# Compiler Warning C4959
+# <a name="compiler-warning-c4959"></a>Compiler Warning C4959
 cannot define unmanaged struct 'type' in /clr:safe because accessing its members yields unverifiable code  
   
  Accessing a member of an unmanaged type will produce an unverifiable (peverify.exe) image.  
@@ -67,6 +67,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

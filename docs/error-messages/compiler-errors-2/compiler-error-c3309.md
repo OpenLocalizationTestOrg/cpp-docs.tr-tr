@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 34a6bff089d9d97bac9a49b36a1811ce489085d5
 
 ---
-# Compiler Error C3309
+# <a name="compiler-error-c3309"></a>Compiler Error C3309
 'macro_name': module name cannot be a macro or a keyword  
   
  The value that you pass to the name property of the module attribute cannot be a symbol for the preprocessor to expand; it must be a string literal.  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

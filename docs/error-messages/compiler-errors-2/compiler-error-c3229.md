@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ca657ff4d7ab18305581ead0f95dc732c2363d4d
 
 ---
-# Compiler Error C3229
+# <a name="compiler-error-c3229"></a>Compiler Error C3229
 'type' : indirections on a generic type parameter are not allowed  
   
  You cannot use generic parameters with `*`, `^`, or `&`.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3229.  
   
 ```  
@@ -62,7 +62,7 @@ ref class D {
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3229.  
   
 ```  
@@ -76,6 +76,6 @@ ref class Utils {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

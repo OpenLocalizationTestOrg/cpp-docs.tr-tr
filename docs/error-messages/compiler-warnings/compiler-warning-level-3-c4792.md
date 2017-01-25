@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: db3e0bcb878271b5c0b4ea687963d777093b209c
 
 ---
-# Compiler Warning (level 3) C4792
+# <a name="compiler-warning-level-3-c4792"></a>Compiler Warning (level 3) C4792
 function 'function' declared using sysimport and referenced from native code; import library required to link  
   
  A native function that was imported into the program with DllImport was called from an unmanaged function. Therefore, you must link to the import library for the DLL.  
@@ -66,6 +66,6 @@ void func(void){
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

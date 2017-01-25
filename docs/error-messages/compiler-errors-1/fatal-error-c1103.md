@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 041552288d508fc6c2bcf79fa62746ba4d081123
 
 ---
-# Fatal Error C1103
+# <a name="fatal-error-c1103"></a>Fatal Error C1103
 fatal error importing progid: 'message'  
   
  The compiler detected a problem importing a type library.  For example, you cannot specify a type library with progid and also specify `no_registry`.  
@@ -54,6 +54,6 @@ fatal error importing progid: 'message'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

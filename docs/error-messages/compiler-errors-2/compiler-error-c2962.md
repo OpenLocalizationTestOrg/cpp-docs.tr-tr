@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 152a10ec11eb6fd4472780c41de362b3d8f2aaee
 
 ---
-# Compiler Error C2962
+# <a name="compiler-error-c2962"></a>Compiler Error C2962
 syntax error : 'token' : expected template-class member function definition to end with '}'  
   
  The token caused a syntax error in a template declaration.  
@@ -47,6 +47,6 @@ syntax error : 'token' : expected template-class member function definition to e
  This error can be caused by mismatched delimiters
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

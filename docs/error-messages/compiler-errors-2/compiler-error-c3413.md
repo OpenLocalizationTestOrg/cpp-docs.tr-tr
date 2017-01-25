@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e652c514d7ff5151d6a7dd74df396ef9a8b79fdc
 
 ---
-# Compiler Error C3413
+# <a name="compiler-error-c3413"></a>Compiler Error C3413
 'name' : invalid explicit instantiation  
   
  The compiler detected an ill-formed explicit instantiation.  
@@ -65,6 +65,6 @@ class MyClass<int> {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

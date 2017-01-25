@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8d61acb0d929187e66187fd401c621792bc589a4
 
 ---
-# Fatal Error C1074
+# <a name="fatal-error-c1074"></a>Fatal Error C1074
 'IDB' is illegal extension for PDB file: filename  
   
  The compiler expects program databases to have the .pdb extension.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

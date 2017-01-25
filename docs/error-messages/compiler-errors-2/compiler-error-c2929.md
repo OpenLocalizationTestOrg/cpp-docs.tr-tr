@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 793a3c43c505168d9c91a599e8ae09816f22ba35
 
 ---
-# Compiler Error C2929
+# <a name="compiler-error-c2929"></a>Compiler Error C2929
 'identifier' : explicit instantiation; cannot explicitly force and suppress instantiation of template-class member  
   
  You cannot explicitly instantiate an identifier while preventing it from being instantiated.  
@@ -61,6 +61,6 @@ extern template A<int>::A();   // C2929
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

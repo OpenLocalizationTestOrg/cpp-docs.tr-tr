@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ff8d886bd5a34ae027423d2da2c55a698b8f744a
 
 ---
-# Compiler Error C2730
+# <a name="compiler-error-c2730"></a>Compiler Error C2730
 'class' : cannot be a base class of itself  
   
  Recursive base classes are invalid. Specify another class as the base class.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

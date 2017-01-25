@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: af96478d92b8c1a4e576d6e914442fb6ad200489
 
 ---
-# Fatal Error C1087
+# <a name="fatal-error-c1087"></a>Fatal Error C1087
 Cannot tell filetype file: 'file': message  
   
  The compiler cannot complete an I/O operation.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

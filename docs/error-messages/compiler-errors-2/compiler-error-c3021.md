@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 00fdc8608e4c46309c8922958fe6fa9ead2b818c
 
 ---
-# Compiler Error C3021
+# <a name="compiler-error-c3021"></a>Compiler Error C3021
 'arg' : argument is empty on OpenMP directive 'directive'  
   
  An argument is required for an OpenMP directive.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3021:  
   
 ```  
@@ -103,6 +103,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

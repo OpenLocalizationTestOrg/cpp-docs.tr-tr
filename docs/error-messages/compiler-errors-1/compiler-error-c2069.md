@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8c796240c27c86670767c646778eee8e2b3837fb
 
 ---
-# Compiler Error C2069
+# <a name="compiler-error-c2069"></a>Compiler Error C2069
 cast of 'void' term to non-'void'  
   
  Type `void` cannot be cast to any other type.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

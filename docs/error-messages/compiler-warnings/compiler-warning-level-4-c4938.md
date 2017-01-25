@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 00290d0b0298bf6717109c02235d6b74652536ad
 
 ---
-# Compiler Warning (level 4) C4938
+# <a name="compiler-warning-level-4-c4938"></a>Compiler Warning (level 4) C4938
 'var' : Floating point reduction variable may cause inconsistent results under /fp:strict or #pragma fenv_access  
   
  You should not use [/fp:strict](../../build/reference/fp-specify-floating-point-behavior.md) or [fenv_access](../../preprocessor/fenv-access.md) with OpenMP floating-point reductions, because the sum is computed in a different order. Thus, results can differ from the results without /openmp.  
@@ -76,6 +76,6 @@ sum = sum1 + sum2;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

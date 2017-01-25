@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1312105941bf5da138c9757209e522b22ed42bce
 
 ---
-# Compiler Warning (level 3) C4373
+# <a name="compiler-warning-level-3-c4373"></a>Compiler Warning (level 3) C4373
 '%$S': virtual function overrides '%$pS', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers  
   
  Your application contains a method in a derived class that overrides a virtual method in a base class, and the parameters in the overriding method differ by only a [const](../../cpp/const-cpp.md) or [volatile](../../cpp/volatile-cpp.md) qualifier from the parameters of the virtual method. This means the compiler must bind a function reference to the method in either the base or derived class.  
   
  Versions of the compiler prior to [!INCLUDE[cpp_orcas_long](../../cpp/includes/cpp_orcas_long_md.md)] bind the function to the method in the base class, then issue a warning message. Subsequent versions of the compiler ignore the `const` or `volatile` qualifier, bind the function to the method in the derived class, then issue warning `C4373`. This latter behavior complies with the C++ standard.  
   
-## Example  
+## <a name="example"></a>Example  
  The following code example generates warning C4373.  
   
 ```  
@@ -78,6 +78,6 @@ derived
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

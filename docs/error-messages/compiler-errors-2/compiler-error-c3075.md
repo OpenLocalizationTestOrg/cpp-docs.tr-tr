@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 99a277b53bed10f02cad3009269dbb3ff52e6e6d
 
 ---
-# Compiler Error C3075
+# <a name="compiler-error-c3075"></a>Compiler Error C3075
 'instance' : you cannot embed an instance of a reference type, 'type', in a value-type  
   
  A value type cannot contain an instance of a reference type.  
   
  For more information, see [C++ Stack Semantics for Reference Types](../../dotnet/cpp-stack-semantics-for-reference-types.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3075.  
   
 ```  
@@ -63,6 +63,6 @@ ref struct Y {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 22734f438855c7256a76325aadf4ac7e185451a4
 
 ---
-# Fatal Error C1109
+# <a name="fatal-error-c1109"></a>Fatal Error C1109
 unable to find 'entry point' in DLL 'dll'  
   
  An entry point in a [delay-loaded DLL](../../build/reference/linker-support-for-delay-loaded-dlls.md) required by the compiler could not be found.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

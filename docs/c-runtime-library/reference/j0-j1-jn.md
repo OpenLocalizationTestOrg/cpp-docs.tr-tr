@@ -60,10 +60,10 @@ ms.sourcegitcommit: cea70fc053d385aad1ded4adf20fe0f8dbc82489
 ms.openlocfilehash: acf1d0d43d8f618b0858fd9b1ffec794ab464050
 
 ---
-# j0, j1, jn
+# <a name="j0-j1-jn"></a>j0, j1, jn
 These POSIX functions are deprecated. Use the ISO C++ conformant [_j0, _j1, _jn](../../c-runtime-library/reference/bessel-functions-j0-j1-jn-y0-y1-yn.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b3886b7b09a2cc562ff4069529c9517bca45a115
 
 ---
-# Compiler Error C2145
+# <a name="compiler-error-c2145"></a>Compiler Error C2145
 syntax error : missing 'token' before identifier  
   
  The compiler expected `token` and found identifier instead.  
@@ -47,6 +47,6 @@ syntax error : missing 'token' before identifier
  This error may be caused by a missing semicolon after the last declaration in a block.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

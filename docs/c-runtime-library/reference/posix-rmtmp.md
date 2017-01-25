@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81a932147f00ef27dff6b738a77b89aff17dd60f
 
 ---
-# rmtmp
+# <a name="rmtmp"></a>rmtmp
 This POSIX function is deprecated. Use the ISO C++ conformant [_rmtmp](../../c-runtime-library/reference/rmtmp.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

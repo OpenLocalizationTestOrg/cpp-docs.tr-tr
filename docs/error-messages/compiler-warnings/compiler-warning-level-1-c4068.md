@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1f5e4fcb45de4a2900220c831f4916bf1a021616
 
 ---
-# Compiler Warning (level 1) C4068
+# <a name="compiler-warning-level-1-c4068"></a>Compiler Warning (level 1) C4068
 unknown pragma  
   
  The compiler ignored an unrecognized [pragma](../../preprocessor/pragma-directives-and-the-pragma-keyword.md). Be sure the **pragma** is allowed by the compiler you are using. The following sample generates C4068:  
@@ -54,6 +54,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

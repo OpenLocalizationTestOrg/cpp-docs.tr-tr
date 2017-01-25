@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5f4a315f20c7db111f3360a9f7d8a133b1b5e0dd
 
 ---
-# Compiler Error C2420
+# <a name="compiler-error-c2420"></a>Compiler Error C2420
 'identifier' : illegal symbol in context  
   
  The identifier is invalid in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

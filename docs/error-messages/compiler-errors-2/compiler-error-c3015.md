@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cac33fb410ad9b46230733a5ceffd7386c882c73
 
 ---
-# Compiler Error C3015
+# <a name="compiler-error-c3015"></a>Compiler Error C3015
 initialization in OpenMP 'for' statement has improper form  
   
  A `for` loop in an OpenMP statement must be fully and explicitly specified.  
@@ -65,6 +65,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

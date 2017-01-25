@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b159a9aabbf5601abf8ef3632428e467d2e16e5f
 
 ---
-# Compiler Error C3289
+# <a name="compiler-error-c3289"></a>Compiler Error C3289
 'property' : a trivial property cannot be indexed  
   
  A property was declared incorrectly. Accessors must be defined for an indexed property. See [property](../../windows/property-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3289.  
   
 ```  
@@ -68,6 +68,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

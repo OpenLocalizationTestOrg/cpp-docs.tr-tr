@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 52f7ac1521789c91c1b7832cb57791b28274d553
 
 ---
-# putw
+# <a name="putw"></a>putw
 This POSIX function is deprecated. Use the ISO C++ conformant [_putw](../../c-runtime-library/reference/putw.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

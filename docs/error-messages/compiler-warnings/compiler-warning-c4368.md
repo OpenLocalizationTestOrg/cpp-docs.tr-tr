@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a0c5ece0081f34c14a1e78050e612fc80d7dd658
 
 ---
-# Compiler Warning C4368
+# <a name="compiler-warning-c4368"></a>Compiler Warning C4368
 cannot define 'member' as a member of managed 'type': mixed types are not supported  
   
  You cannot embed a native data member in a CLR type.  
@@ -48,7 +48,7 @@ cannot define 'member' as a member of managed 'type': mixed types are not suppor
   
  This warning is always issued as an error. Use the [warning](../../preprocessor/warning.md) pragma to disable C4368.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4368.  
   
 ```  
@@ -69,6 +69,6 @@ ref struct R {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

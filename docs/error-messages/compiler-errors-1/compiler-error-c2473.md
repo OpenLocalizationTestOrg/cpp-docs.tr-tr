@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7b886934914a85aa759be48527c69f6766d8879d
 
 ---
-# Compiler Error C2473
+# <a name="compiler-error-c2473"></a>Compiler Error C2473
 'identifier' : looks like a function definition, but there is no parameter list.  
   
  The compiler detected what looked like a function, without the parameter list.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2473.  
   
 ```  
@@ -60,6 +60,6 @@ class B {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

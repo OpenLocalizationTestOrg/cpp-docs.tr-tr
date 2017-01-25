@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e6eb4fb8ace07aab10e7452ce54b455b40ed3614
 
 ---
-# Compiler Error C3057
+# <a name="compiler-error-c3057"></a>Compiler Error C3057
 'symbol' : dynamic initialization of 'threadprivate' symbols is not currently supported  
   
  The initialized value of a symbol used in a [threadprivate](../../parallel/openmp/reference/threadprivate.md) clause must be known at compile time.  
@@ -98,6 +98,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

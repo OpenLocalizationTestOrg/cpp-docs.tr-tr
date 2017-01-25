@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 556b8b218db52147c2c2631de8e23dc90ad5e12a
 
 ---
-# Compiler Error C3238
+# <a name="compiler-error-c3238"></a>Compiler Error C3238
 'type' : a type with this name has already been forwarded to assembly 'assembly'  
   
  A type was defined in a client application that is also defined, via type forwarding syntax, in a referenced assembly. Both types cannot be defined in the scope of the application.  
   
  See [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates an assembly that contains a type that was forwarded from another assembly.  
   
 ```  
@@ -55,7 +55,7 @@ ms.openlocfilehash: 556b8b218db52147c2c2631de8e23dc90ad5e12a
 public ref class R {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates an assembly that used to contain the type definition, but not only contains type forwarding syntax.  
   
 ```  
@@ -65,7 +65,7 @@ public ref class R {};
 [ assembly:TypeForwardedTo(R::typeid) ];  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3238.  
   
 ```  
@@ -78,6 +78,6 @@ public ref class R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

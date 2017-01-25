@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5c88dd335f443d0b65589c32d5d88f52633e6904
 
 ---
-# Compiler Error C3273
+# <a name="compiler-error-c3273"></a>Compiler Error C3273
 __finally cannot be used on an exception block in unmanaged code.  
   
  The following sample generates C3273:  
@@ -62,6 +62,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

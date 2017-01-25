@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2183206fd222e963ab863c5b1c155f98414f7a45
 
 ---
-# Compiler Error C3032
+# <a name="compiler-error-c3032"></a>Compiler Error C3032
 'var' : variable in 'clause' clause cannot have incomplete type 'type'  
   
  Types passed to certain clauses must be fully visible to the compiler.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

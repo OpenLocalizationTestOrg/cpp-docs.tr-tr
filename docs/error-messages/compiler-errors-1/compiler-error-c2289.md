@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e5977623673ddb7e7d30f0f31f33f22bc37e3ce1
 
 ---
-# Compiler Error C2289
+# <a name="compiler-error-c2289"></a>Compiler Error C2289
 same type qualifier used more than once  
   
  A type declaration or definition uses a type qualifier (`const`, `volatile`, `signed`, or `unsigned`) more than once, causing an error under ANSI compatibility (**/Za**).  
@@ -54,6 +54,6 @@ volatile int j;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

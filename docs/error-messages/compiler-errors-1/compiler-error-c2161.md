@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: daa22ad95a6c6c9ea6a7909b4aad28dfbee186b8
 
 ---
-# Compiler Error C2161
+# <a name="compiler-error-c2161"></a>Compiler Error C2161
 '##' cannot occur at the end of a macro definition  
   
  A macro definition ended with a token-pasting operator (##).  
@@ -54,6 +54,6 @@ ms.openlocfilehash: daa22ad95a6c6c9ea6a7909b4aad28dfbee186b8
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8c1565041358ca8ea63862bf401108b86ed0577e
 
 ---
-# Compiler Error C3065
+# <a name="compiler-error-c3065"></a>Compiler Error C3065
 property declaration at non-class scope is not allowed  
   
  The [property](../../cpp/property-cpp.md) __declspec modifier was used outside a class.  A property can only be declared inside a class.  
@@ -58,6 +58,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

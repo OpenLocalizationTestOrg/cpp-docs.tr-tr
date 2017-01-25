@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7312a5641537998385b39f46db9b532ba2debcf7
 
 ---
-# Compiler Error C2573
+# <a name="compiler-error-c2573"></a>Compiler Error C2573
 'class' : cannot delete pointers to objects of this type; the class has no non-placement overload for 'operator delete'.  
   
  The class is missing a non-placement delete operator.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

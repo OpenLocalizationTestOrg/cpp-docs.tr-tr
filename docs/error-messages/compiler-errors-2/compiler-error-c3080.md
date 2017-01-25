@@ -39,12 +39,12 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 631a4e1b0b3304d376be8708cf0f9d5ab39dbd9e
 
 ---
-# Compiler Error C3080
+# <a name="compiler-error-c3080"></a>Compiler Error C3080
 'finalizer_function' : a finalizer cannot have a storage-class-specifier  
   
  For more information, see [Destructors and finalizers in How to: Define and consume classes and structs (C++/CLI)](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3080.  
   
 ```  
@@ -58,6 +58,6 @@ protected:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

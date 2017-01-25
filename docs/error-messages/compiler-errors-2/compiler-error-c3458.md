@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81db52765d16d2ef6530550a6afc071033400b4c
 
 ---
-# Compiler Error C3458
+# <a name="compiler-error-c3458"></a>Compiler Error C3458
 'attribute1': attribute 'attribute2' already specified for 'construct'  
   
  Two attributes that are mutually exclusive were specified for the same construct.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3458  
   
 ```  
@@ -62,6 +62,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

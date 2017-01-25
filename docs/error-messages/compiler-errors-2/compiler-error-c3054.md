@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f58229b045fe6fa5966959e93f3312d81ffc58e4
 
 ---
-# Compiler Error C3054
+# <a name="compiler-error-c3054"></a>Compiler Error C3054
 '#pragma omp parallel' is currently not supported in a generic class or function  
   
  For more information, see [Generics](../../windows/generics-cpp-component-extensions.md) and [OpenMP](../../parallel/openmp/openmp-in-visual-cpp.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3054.  
   
 ```  
@@ -73,6 +73,6 @@ ref struct MyBaseClass {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

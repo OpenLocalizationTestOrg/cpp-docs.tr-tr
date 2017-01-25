@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 62e8239f7472fcf3e7fb4b2ca6bc65995f20b3fb
 
 ---
-# Compiler Warning (level 4) C4100
+# <a name="compiler-warning-level-4-c4100"></a>Compiler Warning (level 4) C4100
 'identifier' : unreferenced formal parameter  
   
  The formal parameter is not referenced in the body of the function. The unreferenced parameter is ignored.  
@@ -63,6 +63,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

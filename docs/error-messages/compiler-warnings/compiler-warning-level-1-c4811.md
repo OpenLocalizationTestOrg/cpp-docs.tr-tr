@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3d92ed8a67a9975c9cf0a7ad6fa2ec0b62a6d4bf
 
 ---
-# Compiler Warning (level 1) C4811
+# <a name="compiler-warning-level-1-c4811"></a>Compiler Warning (level 1) C4811
 value of pragma conform(forScope, show) == value  
   
  This warning is issued when you use the **show** option of the [conform](../../preprocessor/conform.md) pragma. *value* is the current conform value.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

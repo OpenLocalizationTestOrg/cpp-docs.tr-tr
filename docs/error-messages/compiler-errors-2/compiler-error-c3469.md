@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 58670cd7fa003b2156b247407c18a51581c85f6e
 
 ---
-# Compiler Error C3469
+# <a name="compiler-error-c3469"></a>Compiler Error C3469
 'type' : a generic class cannot be forwarded  
   
  You cannot use type forwarding on a generic class.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -58,7 +58,7 @@ public ref class GR {};
 public ref class GR2 {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3466.  
   
 ```  
@@ -70,6 +70,6 @@ public ref class GR2 {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

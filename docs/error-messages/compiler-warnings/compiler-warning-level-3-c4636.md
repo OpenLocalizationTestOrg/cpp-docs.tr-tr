@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 58e75e5e9aba023dfead29ba0fdeba67ff785747
 
 ---
-# Compiler Warning (level 3) C4636
+# <a name="compiler-warning-level-3-c4636"></a>Compiler Warning (level 3) C4636
 XML document comment applied to 'construct': tag requires non-empty '' attribute.  
   
  A tag, such as `cref`, did not have a value.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4636.  
   
 ```  
@@ -64,6 +64,6 @@ ref struct B {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

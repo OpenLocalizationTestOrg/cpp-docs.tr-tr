@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 36f2edddf639dd7cea11215ae62309516ac78168
 
 ---
-# Compiler Error C3264
+# <a name="compiler-error-c3264"></a>Compiler Error C3264
 'class' : a class-constructor cannot have a return type  
   
 Class constructors cannot have return types.  
@@ -66,6 +66,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

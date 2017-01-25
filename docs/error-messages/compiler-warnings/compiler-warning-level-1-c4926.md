@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8fafc207d2e0276814ad13efe05c091a21a66c75
 
 ---
-# Compiler Warning (level 1) C4926
+# <a name="compiler-warning-level-1-c4926"></a>Compiler Warning (level 1) C4926
 'identifier': symbol is already defined: attributes ignored  
   
  A forward declaration was found but an attributed construct with the same name already exists. The attributes for the forward declaration are ignored.  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

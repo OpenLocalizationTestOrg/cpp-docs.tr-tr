@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 02246486d6e96ba1f5529ed9eef3c618dfb26aa5
 
 ---
-# Compiler Error C3630
+# <a name="compiler-error-c3630"></a>Compiler Error C3630
 error when processing the token 'token'  
   
  A token in source code could not be processed.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

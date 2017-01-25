@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1a4606d6c488c67afd8e75f369933dba428520fc
 
 ---
-# Compiler Error C3096
+# <a name="compiler-error-c3096"></a>Compiler Error C3096
 'attribute': attribute is allowed on data members of attribute classes only  
   
  An attribute was applied incorrectly.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 1a4606d6c488c67afd8e75f369933dba428520fc
  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

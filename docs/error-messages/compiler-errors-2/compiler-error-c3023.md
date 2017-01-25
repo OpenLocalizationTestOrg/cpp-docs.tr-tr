@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aee4471ab1350b4ffe50dd4d8d19c6203dcaa0aa
 
 ---
-# Compiler Error C3023
+# <a name="compiler-error-c3023"></a>Compiler Error C3023
 'value' : unexpected token encountered in argument to OpenMP 'clause' clause  
   
  The values passed to a clause were not valid.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

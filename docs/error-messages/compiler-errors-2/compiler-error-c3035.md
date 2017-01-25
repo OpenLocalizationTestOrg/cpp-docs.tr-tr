@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1ca2fe705bfcf8470a20b83e4ea858d54d194772
 
 ---
-# Compiler Error C3035
+# <a name="compiler-error-c3035"></a>Compiler Error C3035
 OpenMP 'ordered' directive must bind directly to a 'for' or 'parallel for' directive with the 'ordered' clause  
   
  An ordered clause was ill formed.  
@@ -64,6 +64,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

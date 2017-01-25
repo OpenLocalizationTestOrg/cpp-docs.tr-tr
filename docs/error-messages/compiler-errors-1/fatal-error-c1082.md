@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2137ffd404960f74a30f57ac4ccb306043658ee3
 
 ---
-# Fatal Error C1082
+# <a name="fatal-error-c1082"></a>Fatal Error C1082
 Cannot close filetype file: 'file': message  
   
  If the message says "bad file number", the file may have been closing in the foreground while compiling in the background.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

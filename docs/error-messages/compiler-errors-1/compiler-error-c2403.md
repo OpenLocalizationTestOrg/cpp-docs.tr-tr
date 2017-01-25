@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 22ac8546ce8bfe9b173453c1b44488023594ddb0
 
 ---
-# Compiler Error C2403
+# <a name="compiler-error-c2403"></a>Compiler Error C2403
 'identifier' : register must be base/index in 'context'  
   
  The register used in an indirect memory operand must be a base or index register in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

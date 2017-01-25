@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 52f79c4d2358424496bf98d0cd10568b6bb2835b
 
 ---
-# Compiler Error C2167
+# <a name="compiler-error-c2167"></a>Compiler Error C2167
 'function' : too many actual parameters for intrinsic function  
   
  A reference to an `intrinsic` function has too many parameters.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

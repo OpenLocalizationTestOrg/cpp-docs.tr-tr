@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1c7c6c828631534c8f893c759ef6f758913cb418
 
 ---
-# Fatal Error C1023
+# <a name="fatal-error-c1023"></a>Fatal Error C1023
 'file' : unexpected error with pch, try rebuilding the pch  
   
  C1023 could be caused by one of several problems, the solution to which is a rebuild of the precompiled header file.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 1c7c6c828631534c8f893c759ef6f758913cb418
  C1023 may be caused if you attempt to use a precompiled header file on a machine other than the one on which it was built.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

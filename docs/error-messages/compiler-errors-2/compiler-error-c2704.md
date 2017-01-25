@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ea833a2b6d50bddc7f2741bc55d1f3a02d9366a0
 
 ---
-# Compiler Error C2704
+# <a name="compiler-error-c2704"></a>Compiler Error C2704
 'identifier' : __va_start intrinsic only allowed in varargs  
   
  The `__va_start` intrinsic is used in a declaration for a function with a fixed number of arguments.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

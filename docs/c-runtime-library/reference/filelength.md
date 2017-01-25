@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7f5420ccf00bec97335f527177d7980002b1ffeb
 
 ---
-# filelength
+# <a name="filelength"></a>filelength
 This POSIX function is deprecated. Use the ISO C++ conformant [_filelength](../../c-runtime-library/reference/filelength-filelengthi64.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

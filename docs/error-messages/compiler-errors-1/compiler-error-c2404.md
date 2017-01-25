@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4bb7017151507dd11bf9594aace9d04958a0cd8c
 
 ---
-# Compiler Error C2404
+# <a name="compiler-error-c2404"></a>Compiler Error C2404
 'identifier' : illegal register in 'context'  
   
  This register is invalid in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

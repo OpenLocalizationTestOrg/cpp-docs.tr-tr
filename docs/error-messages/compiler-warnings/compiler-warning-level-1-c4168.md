@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4275046ea1677da5ed3b2eb4206d8911bc518149
 
 ---
-# Compiler Warning (level 1) C4168
+# <a name="compiler-warning-level-1-c4168"></a>Compiler Warning (level 1) C4168
 compiler limit : out of debugger types, delete program database 'database' and rebuild  
   
  The program database file must be rebuilt to accommodate all types in the program.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

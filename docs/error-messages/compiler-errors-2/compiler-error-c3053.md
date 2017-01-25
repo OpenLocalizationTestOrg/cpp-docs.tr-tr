@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 23a1d2045dbc9aa20a92ccb424cb7f3d7509a76b
 
 ---
-# Compiler Error C3053
+# <a name="compiler-error-c3053"></a>Compiler Error C3053
 'symbol' : 'threadprivate' is only valid for global or static data items  
   
  Symbols passed to [threadprivate](../../parallel/openmp/reference/threadprivate.md) must either be global or static.  
@@ -76,6 +76,6 @@ void Test() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

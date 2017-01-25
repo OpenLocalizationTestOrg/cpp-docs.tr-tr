@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9086ec5d5d47df1418cc08d5f10bd7326192be1c
 
 ---
-# Compiler Error C3005
+# <a name="compiler-error-c3005"></a>Compiler Error C3005
 'error_text' : unexpected token encountered on OpenMP 'directive' directive  
   
  An OpenMP directive was ill formed.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

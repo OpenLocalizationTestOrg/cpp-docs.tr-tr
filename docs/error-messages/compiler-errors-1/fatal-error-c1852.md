@@ -39,18 +39,18 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9f74717ee3f129869428efc7082a0d922fc6090b
 
 ---
-# Fatal Error C1852
+# <a name="fatal-error-c1852"></a>Fatal Error C1852
 'filename' is not a valid precompiled header file  
   
  The file is not a precompiled header.  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  Invalid file specified with **/Yu** or **#pragma hdrstop**.  
   
 2.  The compiler assumes a file extension of .pch if you do not specify otherwise.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

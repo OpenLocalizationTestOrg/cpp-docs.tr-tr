@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ec8abc8972b6b361c9157d8ff094b417fe3e6d9f
 
 ---
-# Compiler Error C2941
+# <a name="compiler-error-c2941"></a>Compiler Error C2941
 'class' : type-class-id redefined as a local 'item'  
   
  You cannot use a generic or template class as an item.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

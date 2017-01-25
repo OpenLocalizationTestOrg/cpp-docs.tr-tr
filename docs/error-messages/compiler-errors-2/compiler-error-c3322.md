@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ebe5ad340808d0128eb6384de6d030d02a240043
 
 ---
-# Compiler Error C3322
+# <a name="compiler-error-c3322"></a>Compiler Error C3322
 'property': is not a valid property for attribute 'attribute'  
   
  An invalid or unrecognized property (or parameter) was passed to an attribute. Check the documentation for the attribute.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

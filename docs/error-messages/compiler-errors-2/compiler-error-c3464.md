@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fadbe79764fd34144572528fc9de03d18f744222
 
 ---
-# Compiler Error C3464
+# <a name="compiler-error-c3464"></a>Compiler Error C3464
 'type' a nested type cannot be forwarded  
   
  Type forwarding does not work on nested types.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -58,7 +58,7 @@ public:
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3464.  
   
 ```  
@@ -70,6 +70,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

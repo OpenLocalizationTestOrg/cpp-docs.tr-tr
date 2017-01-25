@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c812a1bbaa080f3699767746513b2c3893c8d76c
 
 ---
-# Compiler Error C2660
+# <a name="compiler-error-c2660"></a>Compiler Error C2660
 'function' : function does not take number parameters  
   
  The function is called with an incorrect number of parameters.  
@@ -50,7 +50,7 @@ ms.openlocfilehash: c812a1bbaa080f3699767746513b2c3893c8d76c
   
 -   Use the scope resolution operator (`::`) to tell the compiler to seek the function name in the global name space.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2660.  
   
 ```  
@@ -63,7 +63,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2660 can also occur if you attempt to directly call the Dispose method of a managed type. For more information, see [Destructors and finalizers](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers). The following sample generates C2660.  
   
 ```  
@@ -84,7 +84,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2660 will occur if a derived class hides a function.  
   
 ```  
@@ -114,7 +114,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2660 can occur if you invoke an indexed property incorrectly.  
   
 ```  
@@ -138,7 +138,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2660 can occur if you invoke an indexed property incorrectly.  
   
 ```  
@@ -160,7 +160,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2660 can occur if you define a new operator in a template class, but where the new operator creates an object whose type is other than the enclosing type.  
   
 ```  
@@ -192,6 +192,6 @@ void AAA() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

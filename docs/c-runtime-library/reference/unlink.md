@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7b1a3ceda88d7ece95f97bc6c69e4f8a2c87829b
 
 ---
-# unlink
+# <a name="unlink"></a>unlink
 This POSIX function is deprecated. Use the ISO C++ conformant [_unlink](../../c-runtime-library/reference/unlink-wunlink.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

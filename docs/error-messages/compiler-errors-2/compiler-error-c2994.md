@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5e6ed0a38dad8e3cec610d18740d977a028bfb50
 
 ---
-# Compiler Error C2994
+# <a name="compiler-error-c2994"></a>Compiler Error C2994
 unnamed class in template parameter list  
   
  You cannot use the `class` keyword as a template argument without specifying a class name.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

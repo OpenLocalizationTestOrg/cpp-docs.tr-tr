@@ -57,10 +57,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aff6e49d3ba041d0c08e3bbd443c420a78c83701
 
 ---
-# strnicmp, wcsnicmp
+# <a name="strnicmp-wcsnicmp"></a>strnicmp, wcsnicmp
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strnicmp, _wcsnicmp, _mbsnicmp, _strnicmp_l, _wcsnicmp_l, _mbsnicmp_l](../../c-runtime-library/reference/strnicmp-wcsnicmp-mbsnicmp-strnicmp-l-wcsnicmp-l-mbsnicmp-l.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

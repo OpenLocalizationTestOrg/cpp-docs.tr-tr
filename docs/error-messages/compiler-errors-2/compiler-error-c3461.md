@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ba5bc9277a5f182600d38fe2641b61f5f2d1329a
 
 ---
-# Compiler Error C3461
+# <a name="compiler-error-c3461"></a>Compiler Error C3461
 'type': only a managed type can be forwarded  
   
  Type forwarding can only occur on CLR types.  See [Classes and Structs](../../windows/classes-and-structs-cpp-component-extensions.md) for more information.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -55,7 +55,7 @@ ms.openlocfilehash: ba5bc9277a5f182600d38fe2641b61f5f2d1329a
 public ref class R {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3461.  
   
 ```  
@@ -68,6 +68,6 @@ class N {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

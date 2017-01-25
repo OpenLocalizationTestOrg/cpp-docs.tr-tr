@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0e31028ad61a03caa2cf97a4b17c78225e386adf
 
 ---
-# Compiler Warning (level 1) C4077
+# <a name="compiler-warning-level-1-c4077"></a>Compiler Warning (level 1) C4077
 unknown check_stack option  
   
  The old form of the **check_stack** pragma is used with an unknown argument. The argument must be `+`, `-`, `(on)`, `(off)`, or empty.  
   
  The compiler ignores the pragma and leaves the stack checking unchanged.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4077.cpp  
@@ -57,6 +57,6 @@ unknown check_stack option
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

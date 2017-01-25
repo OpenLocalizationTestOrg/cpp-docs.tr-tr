@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 53a542c913839c13e490c1a8513b1e95aca3b46e
 
 ---
-# Compiler Error C3044
+# <a name="compiler-error-c3044"></a>Compiler Error C3044
 'section' : only allowed directly nested under an OpenMP 'sections' directive  
   
  The compiler found a `section` directive was used incorrectly. For more information, see [sections](../../parallel/openmp/reference/sections-openmp.md).  
@@ -84,6 +84,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

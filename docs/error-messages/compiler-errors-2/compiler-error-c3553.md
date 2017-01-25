@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7a84d779ce01759e00c0f4af0958c272a4d41a66
 
 ---
-# Compiler Error C3553
+# <a name="compiler-error-c3553"></a>Compiler Error C3553
 decltype expects an expression not a type  
   
  The `decltype()` keyword requires an expression as an argument, not the name of a type. For example, the last statement in the following code fragment yields error C3553.  
@@ -51,6 +51,6 @@ decltype expects an expression not a type
  `decltype(int); // C3553`
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

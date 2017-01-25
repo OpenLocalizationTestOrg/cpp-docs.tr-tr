@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 23d91802b82ffb130b9aca5cb9b39984176db0f9
 
 ---
-# Compiler Error C3334
+# <a name="compiler-error-c3334"></a>Compiler Error C3334
 cannot #import corrupt type library  
   
  The library file in a `#import` statement is corrupt and can't be consumed by the compiler.  Corruption can come from bad generation of the module, disk corruption, or if the binary file was somehow edited and modified.  
@@ -47,6 +47,6 @@ cannot #import corrupt type library
  For more information, see [#import Directive](../../preprocessor/hash-import-directive-cpp.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

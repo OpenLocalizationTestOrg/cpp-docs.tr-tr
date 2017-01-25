@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: d95ead1fb57c0835180e5623af6ef84646e3dc15
 
 ---
-# Compiler Error C3351
+# <a name="compiler-error-c3351"></a>Compiler Error C3351
 'object' : delegate constructor: second argument must be address of a static member function or global function  
   
  The compiler expected the address of a function declared `static`.  
@@ -70,6 +70,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

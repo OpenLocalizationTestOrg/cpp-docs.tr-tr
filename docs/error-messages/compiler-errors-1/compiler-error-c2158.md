@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6552a5a0e4f5b80b73cc6c2125f98603bddbb50c
 
 ---
-# Compiler Error C2158
+# <a name="compiler-error-c2158"></a>Compiler Error C2158
 'type' : #pragma make_public directive is currently supported for native non-template types only  
   
  The [make_public](../../preprocessor/make-public.md) pragma can only be applied to a native, non-template type.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2158.  
   
 ```  
@@ -66,6 +66,6 @@ class D {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

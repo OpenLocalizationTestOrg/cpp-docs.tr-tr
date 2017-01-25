@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5251a2e045a9bd74594a6c6515796c0315c3f6b3
 
 ---
-# Compiler Error C2700
+# <a name="compiler-error-c2700"></a>Compiler Error C2700
 'identifier' : cannot be thrown (use /W4 for more info)  
   
  The object cannot be thrown. Compile with [/W4](../../build/reference/compiler-option-warning-level.md) for more diagnostic information.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

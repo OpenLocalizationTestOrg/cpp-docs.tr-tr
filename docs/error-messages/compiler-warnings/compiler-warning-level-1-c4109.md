@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 406b050d8a8cf7b32cd8073a8d1553dc893e5a3d
 
 ---
-# Compiler Warning (level 1) C4109
+# <a name="compiler-warning-level-1-c4109"></a>Compiler Warning (level 1) C4109
 unexpected identifier 'identifier'  
   
  The pragma containing the unexpected identifier is ignored.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4109.cpp  
@@ -53,6 +53,6 @@ unexpected identifier 'identifier'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

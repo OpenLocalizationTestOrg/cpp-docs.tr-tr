@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5eb23f6e2e707319b151b1a27dc87784f428bde8
 
 ---
-# Compiler Error C2110
+# <a name="compiler-error-c2110"></a>Compiler Error C2110
 '+' : cannot add two pointers  
   
  An attempt was made to add two pointer values using the plus ( `+` ) operator.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

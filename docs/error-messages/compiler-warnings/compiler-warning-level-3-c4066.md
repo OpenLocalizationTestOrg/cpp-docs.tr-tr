@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e8182f0cf841ce7be5c93f9401116c28fb0a0d0f
 
 ---
-# Compiler Warning (level 3) C4066
+# <a name="compiler-warning-level-3-c4066"></a>Compiler Warning (level 3) C4066
 characters beyond first in wide-character constant ignored  
   
  The compiler processes only the first character of a wide-character constant.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

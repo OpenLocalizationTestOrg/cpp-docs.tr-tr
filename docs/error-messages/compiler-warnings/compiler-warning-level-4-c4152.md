@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 445ddd0c79e1af6bb22788b1e33cf701676d506c
 
 ---
-# Compiler Warning (level 4) C4152
+# <a name="compiler-warning-level-4-c4152"></a>Compiler Warning (level 4) C4152
 non standard extension, function/data ptr conversion in expression  
   
  A function pointer is converted to or from a data pointer. This conversion is allowed under Microsoft extensions (/Ze) but not under ANSI C.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

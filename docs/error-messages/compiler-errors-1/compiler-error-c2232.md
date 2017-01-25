@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7ece4b1367724624339f892b5bf41db506e2177e
 
 ---
-# Compiler Error C2232
+# <a name="compiler-error-c2232"></a>Compiler Error C2232
 '–>' : left operand has 'class-key' type, use '.'  
   
  The operand to the left of the `->` operator is not a pointer. Use the period (.) operator for a class, structure, or union.  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

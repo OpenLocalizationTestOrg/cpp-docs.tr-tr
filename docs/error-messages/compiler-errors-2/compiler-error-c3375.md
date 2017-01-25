@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 57e9d7e2ac4d9672209813c5130697f145d06a7c
 
 ---
-# Compiler Error C3375
+# <a name="compiler-error-c3375"></a>Compiler Error C3375
 'function' : ambiguous delegate function  
   
  A delegate instantiation could have been to a static member function, or as an unbound delegate to an instance function, so the compiler issued this error.  
   
  For more information, see [delegate  (C++ Component Extensions)](../../windows/delegate-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3375.  
   
 ```  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

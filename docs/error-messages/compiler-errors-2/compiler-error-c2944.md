@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c33b4fce669b5ccb1ee77cc6b5ccfd16507e61ba
 
 ---
-# Compiler Error C2944
+# <a name="compiler-error-c2944"></a>Compiler Error C2944
 'class' : type-class-id redefined as a value argument of a template  
   
  You cannot use a generic or template class, instead of a symbol, as a template value argument.  
@@ -70,6 +70,6 @@ template <class T> struct X3 {};   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

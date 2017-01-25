@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6eb6a517d755a944fa76664e9ceb43c19465001c
 
 ---
-# Compiler Error C3022
+# <a name="compiler-error-c3022"></a>Compiler Error C3022
 'clause' : invalid schedule kind of 'value' on OpenMP 'directive' directive  
   
  An unsupported value was passed to a clause.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

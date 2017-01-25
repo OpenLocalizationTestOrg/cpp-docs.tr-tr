@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 71754f86c18bbff5a10c58b6eb9effae27505974
 
 ---
-# Compiler Error C2004
+# <a name="compiler-error-c2004"></a>Compiler Error C2004
 expected 'defined(id)'  
   
  An identifier must appear in the parentheses following the preprocessor keyword.  
   
  This error can also be generated as a result of compiler conformance work that was done for Visual Studio .NET 2003: missing parenthesis in preprocessor directive. If the closing parenthesis is missing from a preprocessor directive, the compiler will generate an error.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2004:  
   
 ```  
@@ -62,7 +62,7 @@ int main()
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  Possible resolution:  
   
 ```  
@@ -79,6 +79,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

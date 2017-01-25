@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4dd13653bcfeea3ceb79c77f0ea3e0b1873cdee6
 
 ---
-# Compiler Error C2160
+# <a name="compiler-error-c2160"></a>Compiler Error C2160
 '##' cannot occur at the beginning of a macro definition  
   
  A macro definition began with a token-pasting operator (##).  
@@ -54,6 +54,6 @@ ms.openlocfilehash: 4dd13653bcfeea3ceb79c77f0ea3e0b1873cdee6
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

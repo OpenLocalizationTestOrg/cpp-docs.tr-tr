@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 27768ce0a01c86ac1adb71def12c2c13e0873407
 
 ---
-# Compiler Error C2046
+# <a name="compiler-error-c2046"></a>Compiler Error C2046
 illegal case  
   
  The keyword `case` can appear only in a `switch` statement.  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

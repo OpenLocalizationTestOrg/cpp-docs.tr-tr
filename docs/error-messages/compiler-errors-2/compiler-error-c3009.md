@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8dff7d8055ea69e23bd038def7260c9b536c196f
 
 ---
-# Compiler Error C3009
+# <a name="compiler-error-c3009"></a>Compiler Error C3009
 'label' : jump into OpenMP structured block not allowed  
   
  Code cannot jump into or out of an OpenMP block.  
@@ -59,6 +59,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

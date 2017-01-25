@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4135189008a68a08ed27738475a1cf5ca8fbdc52
 
 ---
-# Compiler Warning (level 1) C4138
+# <a name="compiler-warning-level-1-c4138"></a>Compiler Warning (level 1) C4138
 '*/' found outside of comment  
   
  The closing-comment delimiter is not preceded by an opening-comment delimiter. The compiler assumes a space between the asterisk (**\***) and the forward slash (/).  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4138a.cpp  
@@ -71,6 +71,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5c3dc42cbd99c722aa758507d0575d98c9984f7f
 
 ---
-# Fatal Error C1068
+# <a name="fatal-error-c1068"></a>Fatal Error C1068
 cannot open file 'file'  
   
  Ensure that `file` is not in use by another program.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

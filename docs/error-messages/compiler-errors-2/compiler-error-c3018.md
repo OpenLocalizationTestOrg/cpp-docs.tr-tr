@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fe1d8ca187574d55d16aa2e8a479ac7812034775
 
 ---
-# Compiler Error C3018
+# <a name="compiler-error-c3018"></a>Compiler Error C3018
 'var1' : OpenMP 'for' test or increment must use index variable 'var2'  
   
  A `for` loop in an OpenMP statement must use the same variable for its test and increment as it uses for its index.  
@@ -71,6 +71,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

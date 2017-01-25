@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 897c51c3c1c5272b0dab7776d4d61dfb4598de09
 
 ---
-# Compiler Warning (level 4) C4053
+# <a name="compiler-warning-level-4-c4053"></a>Compiler Warning (level 4) C4053
 one void operand for '?:'  
   
  The `?:` operator is given an expression of type `void`. The value of the `void` operand is undefined.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

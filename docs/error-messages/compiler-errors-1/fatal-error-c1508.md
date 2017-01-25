@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1aa025ce7230505f720a864483bfbc7a311dffce
 
 ---
-# Fatal Error C1508
+# <a name="fatal-error-c1508"></a>Fatal Error C1508
 compiler limit : 'function' : more than 65535 argument bytes  
   
  The formal parameters to the function exceed the limit of 65535 bytes.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

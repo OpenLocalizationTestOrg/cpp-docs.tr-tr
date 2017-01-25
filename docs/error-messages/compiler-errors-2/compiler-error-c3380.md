@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: fbc75caa22d3c46b5a7a487662119a43b27eaf2b
 
 ---
-# Compiler Error C3380
+# <a name="compiler-error-c3380"></a>Compiler Error C3380
 'class' : invalid assembly access specifier - only 'public' or 'private' are allowed  
   
  When applied to a managed class or struct, the [public](../../cpp/public-cpp.md) and [private](../../cpp/private-cpp.md) keywords indicate whether the class will be exposed through assembly metadata. Only `public` or `private` can be applied to a class in a program compiled with [/clr](../../build/reference/clr-common-language-runtime-compilation.md).  
@@ -66,6 +66,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

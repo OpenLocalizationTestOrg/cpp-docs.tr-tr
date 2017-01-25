@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 36ab65ba06e0344f62077108c5065371c620a2db
 
 ---
-# Compiler Warning (level 1) C4122
+# <a name="compiler-warning-level-1-c4122"></a>Compiler Warning (level 1) C4122
 'function' : alloc_text applicable only to functions with C linkage  
   
  The **alloc_text** pragma applies only to functions declared with **extern c**. It cannot be used with external C++ functions.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 36ab65ba06e0344f62077108c5065371c620a2db
  The pragma is ignored.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 50ebdb6f446ddde88ea0c6ef043e4eaea4b47c45
 
 ---
-# Compiler Error C3384
+# <a name="compiler-error-c3384"></a>Compiler Error C3384
 'type_parameter' : the value constraint and the ref constraint are mutually exclusive  
   
  You cannot constrain a generic type to both `value class` and `ref class`.  
   
  See [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3384.  
   
 ```  
@@ -59,6 +59,6 @@ ref class List {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

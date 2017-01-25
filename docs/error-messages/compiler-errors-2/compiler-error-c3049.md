@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5fb6eece00bf52fee8298945d097938b0a291579
 
 ---
-# Compiler Error C3049
+# <a name="compiler-error-c3049"></a>Compiler Error C3049
 'arg' : invalid argument in OpenMP 'default' clause  
   
  An incorrect value was passed to a [default](../../parallel/openmp/reference/default-openmp.md) clause.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

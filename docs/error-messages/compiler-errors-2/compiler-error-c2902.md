@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 54c73cbb62e13aca3d263db7ea7b13436cf61028
 
 ---
-# Compiler Error C2902
+# <a name="compiler-error-c2902"></a>Compiler Error C2902
 'token' : unexpected token following 'template', identifier expected  
   
  The token following the keyword `template` was not an identifier.  
@@ -78,6 +78,6 @@ void f() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

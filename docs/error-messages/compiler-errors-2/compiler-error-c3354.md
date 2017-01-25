@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: bebeb383e77e4da16a24867731535d9fa36d6c5e
 
 ---
-# Compiler Error C3354
+# <a name="compiler-error-c3354"></a>Compiler Error C3354
 'function' : the function used to create a delegate cannot have return type 'type'  
   
  The following types are invalid as return types for a `delegate`:  
@@ -69,6 +69,6 @@ delegate VoidPfn func(); // C3354
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 118da86b2b96ee6eb10ae945b9bf2422f5d8bb59
 
 ---
-# Compiler Error C3004
+# <a name="compiler-error-c3004"></a>Compiler Error C3004
 'clause' : clause not valid on OpenMP 'directive' directive  
   
  An OpenMP clause was used on a directive for which it is not enabled.  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

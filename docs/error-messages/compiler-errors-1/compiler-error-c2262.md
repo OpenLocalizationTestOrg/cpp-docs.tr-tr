@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b33219972998978c8c1373c4bb70f4cbddd48db0
 
 ---
-# Compiler Error C2262
+# <a name="compiler-error-c2262"></a>Compiler Error C2262
 'attribute_specifiers' : InternalsVisibleTo declarations cannot have a version, culture, or processor architecture specified  
   
  The <xref:System.Runtime.CompilerServices.InternalsVisibleToAttribute> attribute was not specified correctly.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2262.  
   
 ```  
@@ -56,6 +56,6 @@ using namespace System::Runtime::CompilerServices;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

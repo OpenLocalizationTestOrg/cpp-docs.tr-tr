@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 35b1618b813b70ee011230bcaeb22dbe4b6d91f0
 
 ---
-# Compiler Error C2115
+# <a name="compiler-error-c2115"></a>Compiler Error C2115
 'identifier' : incompatible types  
   
  An expression contained incompatible types.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

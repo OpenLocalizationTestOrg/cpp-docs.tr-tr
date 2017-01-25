@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: dd2386049448af6bbf031b8568294ffae47cd7b5
 
 ---
-# Compiler Error C2107
+# <a name="compiler-error-c2107"></a>Compiler Error C2107
 illegal index, indirection not allowed  
   
  A subscript is applied to an expression that does not evaluate to a pointer.  
   
-## Example  
+## <a name="example"></a>Example  
  C2107 can occur if you incorrectly use the `this` pointer of a value type to access the type's default indexer. For more information, see [Semantics of the this pointer](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Semantics_of_the_this_pointer).  
   
  The following sample generates C2107.  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

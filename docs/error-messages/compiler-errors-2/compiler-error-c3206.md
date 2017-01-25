@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 69e6fcd77916af3defc29dfb12381d3491e478e6
 
 ---
-# Compiler Error C3206
+# <a name="compiler-error-c3206"></a>Compiler Error C3206
 'function' : invalid type argument for 'param', missing type argument list on class type 'typename'  
   
  A template function is defined as taking a template type argument. However, a template template argument was passed.  
@@ -168,6 +168,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

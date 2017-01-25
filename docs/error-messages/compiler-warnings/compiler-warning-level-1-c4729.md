@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: babe4bf05b93d92584cea952d6b70da008223260
 
 ---
-# Compiler Warning (Level 1) C4729
+# <a name="compiler-warning-level-1-c4729"></a>Compiler Warning (Level 1) C4729
 function too big for flow graph based warnings  
   
  This warning is generated when a function is too big to be compiled with reliable checking for situations that would generate a warning. This warning is only generated when the [/Od](../../build/reference/od-disable-debug.md) compiler option used.  
@@ -47,6 +47,6 @@ function too big for flow graph based warnings
  To resolve this warning, break the function into smaller functions.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

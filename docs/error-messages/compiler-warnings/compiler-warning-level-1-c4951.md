@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8317491a1649741c3322af3125fef80c0fb52f47
 
 ---
-# Compiler Warning (level 1) C4951
+# <a name="compiler-warning-level-1-c4951"></a>Compiler Warning (level 1) C4951
 'function' has been edited since profile data was collected, function profile data not used  
   
  A function has been edited in an input module to [/LTCG:PGUPDATE](../../build/reference/ltcg-link-time-code-generation.md), so that the profile data is now not valid. The input module was recompiled after **/LTCG:PGINSTRUMENT** and has a function (***function***) with a different flow of control than was in the module at the time of the **/LTCG:PGINSTRUMENT** operation.  
@@ -49,6 +49,6 @@ ms.openlocfilehash: 8317491a1649741c3322af3125fef80c0fb52f47
  This warning would be replaced with an error if **/LTCG:PGOPTIMIZE** had been used.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

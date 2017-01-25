@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b0953a828d34f3c87a74d8324eb7cee188faad59
 
 ---
-# Compiler Error C2995
+# <a name="compiler-error-c2995"></a>Compiler Error C2995
 'function' : function template has already been defined  
   
  Make sure that there is only one definition for each member function of a templated class.  
@@ -57,6 +57,6 @@ template <class T> void Test2(T x){}   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 223b1528e1806a2e3297ca6bc5c0632d362d06c5
 
 ---
-# Fatal Error C1091
+# <a name="fatal-error-c1091"></a>Fatal Error C1091
 compiler limit: string exceeds 'length' bytes in length  
   
  A string constant exceeded the current limit on the length of strings.  
@@ -47,6 +47,6 @@ compiler limit: string exceeds 'length' bytes in length
  You might want to split the static string into two (or more) variables and use [strcpy_s](../../c-runtime-library/reference/strcpy-s-wcscpy-s-mbscpy-s.md) to join the result as part of the declaration or during run time.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

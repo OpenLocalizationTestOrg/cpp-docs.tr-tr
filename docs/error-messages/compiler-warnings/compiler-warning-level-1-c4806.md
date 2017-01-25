@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 08748dd2e3e6e18dd9be95ec12712f09db8e1dc0
 
 ---
-# Compiler Warning (level 1) C4806
+# <a name="compiler-warning-level-1-c4806"></a>Compiler Warning (level 1) C4806
 'operation' : unsafe operation: no value of type 'type' promoted to type 'type' can equal the given constant  
   
  This message warns against code such as `b == 3`, where `b` has type `bool`. The promotion rules cause `bool` to be promoted to `int`. This is legal, but it can never be **true**. The following sample generates C4806:  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

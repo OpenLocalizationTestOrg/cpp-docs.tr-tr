@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ba870628a9d73c842e21696e23ed758ade3cce01
 
 ---
-# Compiler Error C3356
+# <a name="compiler-error-c3356"></a>Compiler Error C3356
 'attribute': cannot call a multicast attribute with a fully qualified name  
   
  An attribute that is processed by more than one process, for example, the compiler and ATL provider, was specified incorrectly.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

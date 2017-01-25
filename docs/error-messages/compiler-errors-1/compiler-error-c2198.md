@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ae144b72293229fe76ff980dd2420c11f7f546d0
 
 ---
-# Compiler Error C2198
+# <a name="compiler-error-c2198"></a>Compiler Error C2198
 'function' : too few arguments for call  
   
  The compiler found too few parameters for a call to the function, or an incorrect function declaration.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c3a5411475d898562b8cba62ddeffcaf1dfec095
 
 ---
-# Compiler Warning (level 1) C4350
+# <a name="compiler-warning-level-1-c4350"></a>Compiler Warning (level 1) C4350
 behavior change: 'member1' called instead of 'member2'  
   
  An rvalue cannot be bound to a non-const reference. In previous versions of Visual C++, it was possible to bind an rvalue to a non-const reference in a direct initialization. This code now gives a warning.  
@@ -80,6 +80,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

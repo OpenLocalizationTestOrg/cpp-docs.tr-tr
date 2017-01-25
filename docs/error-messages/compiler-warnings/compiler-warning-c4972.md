@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 12d046c1ade302412e7343a4c41661cb362e6104
 
 ---
-# Compiler Warning C4972
+# <a name="compiler-warning-c4972"></a>Compiler Warning C4972
 Directly modifying or treating the result of an unbox operation as an lvalue is unverifiable  
   
  Dereferencing a handle to a value type, also known as unboxing, and then assigning to it is not verifiable.  
   
  For more information, see [Boxing](../../windows/boxing-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4972.  
   
 ```  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

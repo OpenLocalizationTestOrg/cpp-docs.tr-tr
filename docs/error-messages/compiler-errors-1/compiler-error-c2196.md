@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0295107e91f5e12fb45f1ba7b8828662b8c2788e
 
 ---
-# Compiler Error C2196
+# <a name="compiler-error-c2196"></a>Compiler Error C2196
 case value 'value' already used.  
   
  A switch statement uses the same case value more than once.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

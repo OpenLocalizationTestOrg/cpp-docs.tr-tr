@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 67d67b9ff4e03684b621ea2cd6415ebd0da071a5
 
 ---
-# Compiler Warning (level 1) C4086
+# <a name="compiler-warning-level-1-c4086"></a>Compiler Warning (level 1) C4086
 expected pragma parameter to be '1', '2', '4', '8', or '16'  
   
  The pragma parameter does not have the required value (1, 2, 4, 8, or 16).  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4086.cpp  
@@ -53,6 +53,6 @@ expected pragma parameter to be '1', '2', '4', '8', or '16'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

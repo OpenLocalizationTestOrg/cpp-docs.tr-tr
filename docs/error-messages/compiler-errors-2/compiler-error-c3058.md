@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bc8e40687720aad9e3a4f1f14f85839a9476b14f
 
 ---
-# Compiler Error C3058
+# <a name="compiler-error-c3058"></a>Compiler Error C3058
 'symbol' : symbol not declared as 'threadprivate' before it is used in the 'copyin' clause  
   
  A symbol must first be declared [threadprivate](../../parallel/openmp/reference/threadprivate.md) before it can be used in a [copyin](../../parallel/openmp/reference/copyin.md) clause.  
@@ -75,6 +75,6 @@ void test() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

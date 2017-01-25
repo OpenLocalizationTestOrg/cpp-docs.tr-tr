@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a11001dfa401b89c604e685524befd2c7a3c89d2
 
 ---
-# Compiler Error C2388
+# <a name="compiler-error-c2388"></a>Compiler Error C2388
 'symbol' : a symbol cannot be declared with both __declspec(appdomain) and \__declspec(process)  
   
  The `appdomain` and `process``__declspec` modifiers cannot be used on the same symbol. The storage for a variable exists per process or per application domain.  
@@ -56,6 +56,6 @@ __declspec(appdomain) int i;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

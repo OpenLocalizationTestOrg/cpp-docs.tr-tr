@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9b876969bc78986c9660e04dd62e5c9e81dff939
 
 ---
-# Compiler Warning (level 1) C4997
+# <a name="compiler-warning-level-1-c4997"></a>Compiler Warning (level 1) C4997
 'class': coclass does not implement a COM interface or pseudo-interface  
   
  A class marked with the [coclass](../../windows/coclass.md) attribute did not implement an interface.  
@@ -68,6 +68,6 @@ struct C /*: I*/ {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

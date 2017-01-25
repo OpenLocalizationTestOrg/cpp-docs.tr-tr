@@ -37,7 +37,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ecef5b5628c733217a8dbfdcaf7fafb6b3ae55f4
 
 ---
-# Compiler Error C3873
+# <a name="compiler-error-c3873"></a>Compiler Error C3873
 'char': this character is not allowed as a first character of an identifier  
   
  The C++ compiler follows the C++11 standard on characters allowed in an identifier. Only certain ranges of characters and universal character names are allowed in an identifier. Additional restrictions apply to the initial character of an identifier. For more information and a list of allowed characters and universal character name ranges, see [Identifiers](../../cpp/identifiers-cpp.md).  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

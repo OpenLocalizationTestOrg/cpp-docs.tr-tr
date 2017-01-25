@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0766e60fb51a5f983e5617b5e470ac97a5b8e51a
 
 ---
-# Fatal Error C1005
+# <a name="fatal-error-c1005"></a>Fatal Error C1005
 string too big for buffer  
   
  A string in a compiler intermediate file overflowed a buffer.  
@@ -47,6 +47,6 @@ string too big for buffer
  You could get this error when the parameter that you pass to either the [/Fd](../../build/reference/fd-program-database-file-name.md) or [/Yl](../../build/reference/yl-inject-pch-reference-for-debug-library.md) compiler options is greater than 256 bytes.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

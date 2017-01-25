@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: eb19399a5682235f7c29eea3258b50eda9fbfa42
 
 ---
-# Compiler Error C2045
+# <a name="compiler-error-c2045"></a>Compiler Error C2045
 'identifier' : label redefined  
   
  The label appears before multiple statements in the same function.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

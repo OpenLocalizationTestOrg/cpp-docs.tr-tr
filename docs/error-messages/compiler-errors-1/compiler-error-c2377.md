@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e00ee6b58cd55a1f9daf270905d2bf3b79dd0182
 
 ---
-# Compiler Error C2377
+# <a name="compiler-error-c2377"></a>Compiler Error C2377
 'identifier' : redefinition; typedef cannot be overloaded with any other symbol  
   
  A `typedef` identifier is redefined.  
@@ -55,6 +55,6 @@ int j;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

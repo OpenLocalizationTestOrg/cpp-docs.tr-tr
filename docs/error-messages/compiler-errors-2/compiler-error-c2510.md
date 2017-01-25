@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 652494d8a266fe1f37c4c78363c6a312b3b05bae
 
 ---
-# Compiler Error C2510
+# <a name="compiler-error-c2510"></a>Compiler Error C2510
 'identifier' : left of '::' must be a class/struct/union  
   
  A class, structure, or union name must appear on the left side of the scope-resolution operator (`::`) operator.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

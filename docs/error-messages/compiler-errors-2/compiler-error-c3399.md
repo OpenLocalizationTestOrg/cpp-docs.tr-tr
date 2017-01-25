@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7886cad8949287ea5a6cf635c8e2ce259709c90a
 
 ---
-# Compiler Error C3399
+# <a name="compiler-error-c3399"></a>Compiler Error C3399
 'type' : cannot provide arguments when creating an instance of a generic parameter  
   
  When you specify the `gcnew()` constraint, you specify that the constraint type will have a parameterless constructor. Therefore, it is an error to attempt to instantiate that type and pass a parameter.  
   
  See [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3399.  
   
 ```  
@@ -61,6 +61,6 @@ void f() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

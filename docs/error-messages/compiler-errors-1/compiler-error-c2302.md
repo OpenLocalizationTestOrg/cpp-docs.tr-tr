@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8f8081cd0f8653deb4ee9a9f2eb6f1dd6bb0b9ee
 
 ---
-# Compiler Error C2302
+# <a name="compiler-error-c2302"></a>Compiler Error C2302
 left of '.~identifier' must have class/struct/union type  
   
  The expression to the left of the period (.) operator is not a class, structure, or union.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

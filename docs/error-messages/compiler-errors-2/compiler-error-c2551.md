@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f106b292fbb4fd8bcc8717b8dd00bef4ed31619a
 
 ---
-# Compiler Error C2551
+# <a name="compiler-error-c2551"></a>Compiler Error C2551
 'void *' type needs explicit cast  
   
  A `void` pointer is assigned to a nonvoid pointer by implicit conversion. You must use an explicit cast.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

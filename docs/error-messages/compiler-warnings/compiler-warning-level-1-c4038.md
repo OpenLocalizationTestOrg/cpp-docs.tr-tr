@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 560073920c1589a0a5f29ba9990f42c31ee0e21c
 
 ---
-# Compiler Warning (level 1) C4038
+# <a name="compiler-warning-level-1-c4038"></a>Compiler Warning (level 1) C4038
 'modifier' : illegal ambient class modifier  
   
  This modifier cannot be used for classes with **dllimport** or [dllexport](../../cpp/dllexport-dllimport.md) attributes.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 13ef4bca19de5b1dcda8fd0c22a15d43f00257b7
 
 ---
-# Compiler Error C3270
+# <a name="compiler-error-c3270"></a>Compiler Error C3270
 'field': the FieldOffset attribute can only be used in the context of StructLayout(Explicit), in which case it is required  
   
 A field was marked with **FieldOffset**, which is only allowed when **StructLayout(Explicit)** is in effect.  
@@ -63,6 +63,6 @@ public value struct MYUNION
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

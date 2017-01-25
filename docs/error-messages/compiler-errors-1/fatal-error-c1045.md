@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 86020fcd25a0cc382ff8978dcfd8f6994066176d
 
 ---
-# Fatal Error C1045
+# <a name="fatal-error-c1045"></a>Fatal Error C1045
 compiler limit : linkage specifications nested too deeply  
   
  Nested externals exceed the compiler limit. Nested externals are allowed with the external linkage type, such as `extern` "C++". Reduce the number of nested externals to resolve the error.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3d624f05535135c3188420076094b5580831ed84
 
 ---
-# Compiler Error C3202
+# <a name="compiler-error-c3202"></a>Compiler Error C3202
 'arg name' : invalid default argument for template parameter 'parameter', expected a class template  
   
  You passed an invalid default argument for a template parameter.  
@@ -64,6 +64,6 @@ class Y
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

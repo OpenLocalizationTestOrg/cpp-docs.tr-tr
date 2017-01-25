@@ -39,7 +39,7 @@ ms.sourcegitcommit: 6cad5222fb0d97594d5b13b5cf8903eb2934ee88
 ms.openlocfilehash: 3635ff0ba3280dcca3419caf85795bfaec7ff7ac
 
 ---
-# Fatal Error C1201
+# <a name="fatal-error-c1201"></a>Fatal Error C1201
 unable to continue after syntax error in class template definition  
   
  An unexpected error occurred while parsing a class template definition.  
@@ -47,6 +47,6 @@ unable to continue after syntax error in class template definition
  Fix any other errors and recompile. If that fails, note the circumstances of the error, try to isolate the problem and create a reproducible test case, then contact [Microsoft Product Support Services](/visualstudio/ide/talk-to-us).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

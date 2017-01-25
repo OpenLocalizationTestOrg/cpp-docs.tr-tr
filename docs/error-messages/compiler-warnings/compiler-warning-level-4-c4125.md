@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f0a47734e3e3dc176c38fcd5a223f402e509e939
 
 ---
-# Compiler Warning (level 4) C4125
+# <a name="compiler-warning-level-4-c4125"></a>Compiler Warning (level 4) C4125
 decimal digit terminates octal escape sequence  
   
  The compiler evaluates the octal number without the decimal digit and assumes the decimal digit is a character.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4125a.cpp  
@@ -67,6 +67,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a3a9941cc8dd73bc44c0199c29bf2ae916d0d290
 
 ---
-# Compiler Error C3465
+# <a name="compiler-error-c3465"></a>Compiler Error C3465
 to use type 'type' you must reference the assembly 'assembly'  
   
  Type forwarding will work for a client application until you recompile the client. When you recompile, you will need a reference for every assembly containing the definition of a type used in your client application.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample builds an assembly that contains the new location of a type.  
   
 ```  
@@ -58,7 +58,7 @@ public:
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample builds an assembly that used to contain the definition of the type, but now contains forwarding syntax for the type.  
   
 ```  
@@ -68,7 +68,7 @@ public:
 [ assembly:TypeForwardedTo(R::typeid) ];  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3465.  
   
 ```  
@@ -85,6 +85,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

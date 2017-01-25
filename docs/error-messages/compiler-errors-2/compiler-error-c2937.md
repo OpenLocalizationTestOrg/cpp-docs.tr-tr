@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8a07633e10651a3b6c570afb65b815cd0f66c28d
 
 ---
-# Compiler Error C2937
+# <a name="compiler-error-c2937"></a>Compiler Error C2937
 'class' : type-class-id redefined as a global typedef  
   
  You cannot use a generic or template class as a global `typedef`.  
@@ -67,6 +67,6 @@ typedef GC<int> xx;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

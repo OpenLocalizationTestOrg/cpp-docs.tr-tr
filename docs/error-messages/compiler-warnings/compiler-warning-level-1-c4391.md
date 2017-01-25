@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81b7e6ba142edb94dd77f4a63c42b245b61ccc45
 
 ---
-# Compiler Warning (level 1) C4391
+# <a name="compiler-warning-level-1-c4391"></a>Compiler Warning (level 1) C4391
 'signature' : incorrect return type for intrinsic function, expected 'type'  
   
  A function declaration for a compiler intrinsic had the wrong return type. The resulting image may not run correctly.  
@@ -72,6 +72,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

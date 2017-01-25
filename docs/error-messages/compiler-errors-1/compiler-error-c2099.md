@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cc82e0e603fd0ce28626247f073dbc493faf5b47
 
 ---
-# Compiler Error C2099
+# <a name="compiler-error-c2099"></a>Compiler Error C2099
 initializer is not a constant  
   
  This error is issued only by the C compiler and occurs only for non-automatic variables.  The compiler initializes non-automatic variables at the start of the program and the values they are initialized with must be constant.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2099.  
   
 ```  
@@ -54,7 +54,7 @@ int *p;
 j = *p;   // C2099 *p is not a constant  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2099 can also occur because the compiler is not able to perform constant folding on an expression under **/fp:strict** because the floating point precision environment settings (see [_controlfp_s](../../c-runtime-library/reference/controlfp-s.md) for more information) may differ from compile to run time.  
   
  When constant folding fails, the compiler invokes dynamic initialization, which is not allowed in C.  
@@ -73,6 +73,6 @@ float X2 = 1.0;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

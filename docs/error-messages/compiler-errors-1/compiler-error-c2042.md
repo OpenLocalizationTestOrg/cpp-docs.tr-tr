@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 80f030788026b11fa0df615fc75d4e2b67933946
 
 ---
-# Compiler Error C2042
+# <a name="compiler-error-c2042"></a>Compiler Error C2042
 signed/unsigned keywords mutually exclusive  
   
  The keywords `signed` and `unsigned` are used in a single declaration.  
@@ -61,6 +61,6 @@ signed int ii;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

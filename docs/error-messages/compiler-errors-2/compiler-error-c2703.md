@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5e6fcd17c973cffc67849c4436c606a905a583b2
 
 ---
-# Compiler Error C2703
+# <a name="compiler-error-c2703"></a>Compiler Error C2703
 illegal __leave statement  
   
  A `__leave` statement must be inside a `__try` block.  
@@ -59,6 +59,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

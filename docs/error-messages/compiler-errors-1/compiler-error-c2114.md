@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 668b258d196499e76469ba3a9ed4a2ed3f601c9a
 
 ---
-# Compiler Error C2114
+# <a name="compiler-error-c2114"></a>Compiler Error C2114
 'operator' : pointer on left; needs integral value on right  
   
  The left operand of `operator` was a pointer, so the right operand must be an integer value.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

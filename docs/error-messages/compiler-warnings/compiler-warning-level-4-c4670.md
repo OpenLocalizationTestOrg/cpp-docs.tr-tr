@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 35b35ee501626384f004993bbf9c7f20cc0449d4
 
 ---
-# Compiler Warning (level 4) C4670
+# <a name="compiler-warning-level-4-c4670"></a>Compiler Warning (level 4) C4670
 'identifier' : this base class is inaccessible  
   
  The specified base class of an object to be thrown in a **try** block is not accessible. The object cannot be instantiated if it is thrown. Check that the base class is inherited with the correct access specifier.  
@@ -70,6 +70,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

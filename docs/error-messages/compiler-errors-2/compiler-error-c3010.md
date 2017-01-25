@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f42c086d1148e59f50768c425dab35e35ba6aa68
 
 ---
-# Compiler Error C3010
+# <a name="compiler-error-c3010"></a>Compiler Error C3010
 'label' : jump out of OpenMP structured block not allowed  
   
  Code cannot jump into or out of an OpenMP block.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c55d202e48133d3125df69f20343775ccfee5917
 
 ---
-# Compiler Error C2911
+# <a name="compiler-error-c2911"></a>Compiler Error C2911
 'member' : cannot be declared or defined in the current scope  
   
  Inside a namespace, class, or function, you can only define a member of the same namespace, class, or function or a member that is enclosed by the same namespace, class, or function.  
@@ -70,6 +70,6 @@ namespace N {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

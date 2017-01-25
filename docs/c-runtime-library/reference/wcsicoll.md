@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3807414218d9b64c51b4c3aaed33c772a1a23a26
 
 ---
-# wcsicoll
+# <a name="wcsicoll"></a>wcsicoll
 This POSIX function is deprecated. Use the ISO C++ conformant [_wcsicoll](../../c-runtime-library/reference/stricoll-wcsicoll-mbsicoll-stricoll-l-wcsicoll-l-mbsicoll-l.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

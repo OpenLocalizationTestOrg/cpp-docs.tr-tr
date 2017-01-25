@@ -39,12 +39,12 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: ca99a22e6f91f44af58a1421d59151597017cddb
 
 ---
-# Compiler Warning (level 1) C4674
+# <a name="compiler-warning-level-1-c4674"></a>Compiler Warning (level 1) C4674
 'method' should be declared 'static' and have exactly one parameter  
   
 The signature of a conversion operator was not correct. The method is not considered a user-defined conversion. For more information on defining operators, see [User-Defined Operators (C++/CLI)](../../dotnet/user-defined-operators-cpp-cli.md) and [User-Defined Conversions (C++/CLI)](../../dotnet/user-defined-conversions-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4674.  
   
 ```  
@@ -59,6 +59,6 @@ ref class G {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

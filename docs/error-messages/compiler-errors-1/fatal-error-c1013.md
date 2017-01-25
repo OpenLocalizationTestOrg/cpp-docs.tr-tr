@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d3468fa161667aca9ab60ea9a5f60931718cd3a3
 
 ---
-# Fatal Error C1013
+# <a name="fatal-error-c1013"></a>Fatal Error C1013
 compiler limit : too many open parentheses  
   
  An expression contains too many levels of parentheses in a single expression. Simplify the expression or break it into multiple statements.  
@@ -47,6 +47,6 @@ compiler limit : too many open parentheses
  Prior to Visual C++ 6.0 Service Pack 3, the limit on nested parenthesis in a single expression was 59. Currently, the limit on nested parenthesis is 256.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

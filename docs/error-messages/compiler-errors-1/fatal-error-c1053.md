@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7d62625f09a2acb6c3727a23c7da9cd8ad03e40c
 
 ---
-# Fatal Error C1053
+# <a name="fatal-error-c1053"></a>Fatal Error C1053
 '\<identifier>' : function too large  
   
  The function is too large to compile.  
   
-### To fix by using the following possible solutions  
+### <a name="to-fix-by-using-the-following-possible-solutions"></a>To fix by using the following possible solutions  
   
 1.  Try compiling without optimizations.  
   
@@ -53,6 +53,6 @@ ms.openlocfilehash: 7d62625f09a2acb6c3727a23c7da9cd8ad03e40c
 3.  Reduce calls to inline functions.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

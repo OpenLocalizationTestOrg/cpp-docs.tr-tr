@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0204d184d0b0910120c5c40600b859deed32b20b
 
 ---
-# Compiler Error C3286
+# <a name="compiler-error-c3286"></a>Compiler Error C3286
 'specifier': an iteration variable cannot have any storage-class specifiers  
   
  See [(NOTINBUILD)Storage-Class Specifiers](http://msdn.microsoft.com/en-us/10b3d22d-cb40-450b-994b-08cf9a211b6c) for more information.  
   
  See [for each, in](../../dotnet/for-each-in.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3286.  
   
 ```  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

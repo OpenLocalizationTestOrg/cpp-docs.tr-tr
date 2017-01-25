@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 3d0563ea2fc9e444035ba2b1764e87fccf85e81e
 
 ---
-# Compiler Error C3275
+# <a name="compiler-error-c3275"></a>Compiler Error C3275
 'enum member' : cannot use this symbol without qualifier  
   
 When using managed code and when two or more enumerations contain an identifier with the same name, you must explicitly qualify references to the identifier.  
@@ -48,6 +48,6 @@ C3275 is only reachable using the obsolete compiler option **/clr:oldSyntax**.
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

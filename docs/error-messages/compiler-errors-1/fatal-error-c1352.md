@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: db8e3be196283a64e58f050918dd951332fb9546
 
 ---
-# Fatal Error C1352
+# <a name="fatal-error-c1352"></a>Fatal Error C1352
 Invalid or corrupt MSIL in function 'function' from module 'file'  
   
  A .netmodule was passed to the compiler, but the compiler detected corruption in the file.  Ask the person who produced the .netmodule to investigate.  
@@ -49,6 +49,6 @@ Invalid or corrupt MSIL in function 'function' from module 'file'
  For more information, see [.netmodule Files as Linker Input](../../build/reference/netmodule-files-as-linker-input.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

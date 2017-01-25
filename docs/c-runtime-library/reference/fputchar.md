@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f6a92013aa585ec9a27e157076b4e7b5ce997549
 
 ---
-# fputchar
+# <a name="fputchar"></a>fputchar
 This POSIX function is deprecated. Use the ISO C++ conformant [_fputchar](../../c-runtime-library/reference/fputchar-fputwchar.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cb967c3832d548450ff20e9c617764c20b039590
 
 ---
-# Compiler Error C3298
+# <a name="compiler-error-c3298"></a>Compiler Error C3298
 'constraint_1' : cannot use 'constraint_2' as a constraint because 'constraint_2' has the ref constraint and 'constraint_1' has the value constraint  
   
  You cannot specify mutually exclusive characteristics for a constraint. For example, a generic type parameter cannot be constrained to both a value type and a reference type.  
   
  For more information, see [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3298.  
   
 ```  
@@ -59,6 +59,6 @@ public ref struct R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: de3c83cf5caec858cc9f1e86e2192c868b25fa1c
 
 ---
-# Compiler Error C2365
+# <a name="compiler-error-c2365"></a>Compiler Error C2365
 'class member' : redefinition; previous definition was 'class member'  
   
  You attempted to redefine a class member.  
@@ -59,6 +59,6 @@ class C1 {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

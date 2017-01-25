@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: ac8458487d9ed500420f2e687f8eb7c37bf053da
 
 ---
-# Compiler Error C3246
+# <a name="compiler-error-c3246"></a>Compiler Error C3246
 'class' : cannot inherit from 'type' as it has been declared as 'sealed'  
   
 A class that is marked as [sealed](../../windows/sealed-cpp-component-extensions.md) cannot be the base class for any other classes.  
@@ -56,6 +56,6 @@ ref class Y : public X {}; // C3246
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

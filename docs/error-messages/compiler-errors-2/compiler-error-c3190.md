@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c7bde771a0448645aa260c3c7df5ab9f16fe8e80
 
 ---
-# Compiler Error C3190
+# <a name="compiler-error-c3190"></a>Compiler Error C3190
 'instantiation' with the provided template arguments is not the explicit instantiation of any member function of 'type'  
   
  The compiler detected an attempt to make an explicit function instantiation; however, the provided type arguments do not match any of the possible functions.  
@@ -83,6 +83,6 @@ template void X<float>::f2<int>(int,char);   // C3190
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

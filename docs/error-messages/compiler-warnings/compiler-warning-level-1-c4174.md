@@ -39,10 +39,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bd398599a9cc8efba793f6a87e3bafcd88755549
 
 ---
-# Compiler Warning (level 1) C4174
+# <a name="compiler-warning-level-1-c4174"></a>Compiler Warning (level 1) C4174
 'name' : not available as a #pragma component  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4174.cpp  
@@ -55,6 +55,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

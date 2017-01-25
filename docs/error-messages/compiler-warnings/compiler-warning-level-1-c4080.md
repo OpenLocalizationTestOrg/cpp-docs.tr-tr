@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b6925342af8863ce0459ff940282c921999b2d86
 
 ---
-# Compiler Warning (level 1) C4080
+# <a name="compiler-warning-level-1-c4080"></a>Compiler Warning (level 1) C4080
 expected identifier for segment name; found 'symbol'  
   
  The name of the segment in [#pragma alloc_text](../../preprocessor/alloc-text.md) must be a string or an identifier. The compiler ignores the pragma if a valid identifier is not found.  
@@ -64,6 +64,6 @@ void func(void) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

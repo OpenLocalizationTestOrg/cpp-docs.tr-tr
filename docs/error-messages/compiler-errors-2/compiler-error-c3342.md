@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5f758a9fcd61264d530610e64c7b46d30e97a44c
 
 ---
-# Compiler Error C3342
+# <a name="compiler-error-c3342"></a>Compiler Error C3342
 'attribute': ambiguous attribute  
   
  The compiler found more than one definition of an attribute.  
@@ -48,7 +48,7 @@ ms.openlocfilehash: 5f758a9fcd61264d530610e64c7b46d30e97a44c
   
  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3342.  
   
 ```  
@@ -70,6 +70,6 @@ public ref class Class4 {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

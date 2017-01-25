@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 47be5c5ad1d10933d1d4fcf81d2aa549c23b4e9e
 
 ---
-# Compiler Error C2059
+# <a name="compiler-error-c2059"></a>Compiler Error C2059
 syntax error : 'token'  
   
  The token caused a syntax error.  
@@ -158,6 +158,6 @@ template <typename X, typename AY> struct Container {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

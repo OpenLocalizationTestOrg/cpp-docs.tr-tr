@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2ce61109a2d428bbaa5fffdf4bd39de46d09a077
 
 ---
-# Compiler Error C2666
+# <a name="compiler-error-c2666"></a>Compiler Error C2666
 'identifier' : number overloads have similar conversions  
   
  An overloaded function or operator is ambiguous.   Formal parameter lists may be too similar for the compiler to resolve the ambiguity.  To resolve this error, explicitly cast one or more of the actual parameters.  
@@ -70,7 +70,7 @@ int main() {
   
  For code that is valid in both the Visual Studio .NET 2003 and Visual Studio .NET versions of Visual C++, call the class operator explicitly using function syntax.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C2666b.cpp  
@@ -127,7 +127,7 @@ int main()
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2666  
   
 ```  
@@ -156,6 +156,6 @@ class A
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

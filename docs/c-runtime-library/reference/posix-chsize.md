@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2822bcb3fb01b7f66b975e686ef5d54ceee2e5c8
 
 ---
-# chsize
+# <a name="chsize"></a>chsize
 This POSIX function is deprecated. Use the ISO C++ conformant [_chsize](../../c-runtime-library/reference/chsize.md) or security-enhanced [_chsize_s](../../c-runtime-library/reference/chsize-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

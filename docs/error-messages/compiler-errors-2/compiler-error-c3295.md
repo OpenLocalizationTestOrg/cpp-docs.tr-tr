@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 11040d3c99cdc790bc73ac2e525729813005f739
 
 ---
-# Compiler Error C3295
+# <a name="compiler-error-c3295"></a>Compiler Error C3295
 '#pragma pragma' can only be used at global or namespace scope  
   
  Some pragmas cannot be used in a function.  See [Pragma Directives and the __Pragma Keyword](../../preprocessor/pragma-directives-and-the-pragma-keyword.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3295.  
   
 ```  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

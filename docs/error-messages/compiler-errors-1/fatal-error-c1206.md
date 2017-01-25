@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 251de72a8b09316dd065ee98c4c9dac631189bd2
 
 ---
-# Fatal Error C1206
+# <a name="fatal-error-c1206"></a>Fatal Error C1206
 Per-appdomain data is not supported by the version of the runtime installed  
   
  Some features, such as per application domain data, are only supported by the common language runtime that supports the feature.  
@@ -49,6 +49,6 @@ Per-appdomain data is not supported by the version of the runtime installed
  See [appdomain](../../cpp/appdomain.md) for more information.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

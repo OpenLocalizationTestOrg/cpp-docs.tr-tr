@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d48e393668fbe04567a066d8a5053dd6fc8ee5e7
 
 ---
-# Compiler Warning (level 3) C4646
+# <a name="compiler-warning-level-3-c4646"></a>Compiler Warning (level 3) C4646
 function declared with __declspec(noreturn) has non-void return type  
   
  A function marked with the [noreturn](../../cpp/noreturn.md) `__declspec` modifier should have a [void](../../cpp/void-cpp.md) return type.  
@@ -55,6 +55,6 @@ int __declspec(noreturn) TestFunction()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

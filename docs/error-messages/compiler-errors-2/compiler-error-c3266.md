@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 3144021b946165e367a1981e8bf123c8f7514a45
 
 ---
-# Compiler Error C3266
+# <a name="compiler-error-c3266"></a>Compiler Error C3266
 'class' : a class-constructor must have a 'void' parameter list  
   
 Class-constructors in a class using /clr programming cannot take parameters.  
@@ -63,6 +63,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

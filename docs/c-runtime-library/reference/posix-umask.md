@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d2eac046bd7441fde14c8e3484da0d57c71fcdb6
 
 ---
-# umask
+# <a name="umask"></a>umask
 This POSIX function is deprecated. Use the ISO C++ conformant [_umask](../../c-runtime-library/reference/umask.md) or security-enhanced [_umask_s](../../c-runtime-library/reference/umask-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

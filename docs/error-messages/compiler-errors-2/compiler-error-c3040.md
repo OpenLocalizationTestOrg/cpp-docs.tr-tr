@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9530e85a51e3b7ecae4ecdcc4d86bf551ec5dc4b
 
 ---
-# Compiler Error C3040
+# <a name="compiler-error-c3040"></a>Compiler Error C3040
 'var' : type of variable in 'reduction' clause is incompatible with reduction operator 'operator'  
   
  A variable in a [reduction](../../parallel/openmp/reference/reduction.md) clause cannot be used with the reduction operator.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

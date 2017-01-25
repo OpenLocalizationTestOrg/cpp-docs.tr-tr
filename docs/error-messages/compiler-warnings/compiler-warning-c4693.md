@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0a2262d559f9771dc2ba4286e675de1bdea6c9ee
 
 ---
-# Compiler Warning C4693
+# <a name="compiler-warning-c4693"></a>Compiler Warning C4693
 'class': a sealed abstract class cannot have any instance members 'Test'  
   
  If a type is marked [sealed](../../windows/sealed-cpp-component-extensions.md) and [abstract](../../windows/abstract-cpp-component-extensions.md), it can only have static members.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4693.  
   
 ```  
@@ -58,6 +58,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

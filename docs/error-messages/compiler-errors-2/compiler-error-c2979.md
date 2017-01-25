@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 655570de1d87aa31a93d723abd6e68eb13b1f9cd
 
 ---
-# Compiler Error C2979
+# <a name="compiler-error-c2979"></a>Compiler Error C2979
 explicit specializations are not supported in generics  
   
  A generic class was declared incorrectly.  See [Generics](../../windows/generics-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2979.  
   
 ```  
@@ -58,6 +58,6 @@ ref class Utils2 {};   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

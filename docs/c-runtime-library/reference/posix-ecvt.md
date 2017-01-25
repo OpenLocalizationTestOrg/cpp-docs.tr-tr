@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: df22af848d6bf2a7ddbd4858b3f2aa4a745955e8
 
 ---
-# ecvt
+# <a name="ecvt"></a>ecvt
 This POSIX function is deprecated. Use the ISO C++ conformant [_ecvt](../../c-runtime-library/reference/ecvt.md) or security-enhanced [_ecvt_s](../../c-runtime-library/reference/ecvt-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

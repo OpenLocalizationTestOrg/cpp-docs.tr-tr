@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 63e8de3e1f2b7d4e4b97b8aaeb9e484f9b1de673
 
 ---
-# Compiler Warning (level 1) C4158
+# <a name="compiler-warning-level-1-c4158"></a>Compiler Warning (level 1) C4158
 assuming #pragma pointers_to_members(full_generality, inheritance)  
   
  A **#pragma pointers_to_members(***single&#124;multiple&#124;virtual***)** was issued without an accompanying **#pragma pointers_to_members(full_generality)**.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

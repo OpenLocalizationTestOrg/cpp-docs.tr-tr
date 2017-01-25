@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 077793fdc0b226cf10d4f51850da121095ed4fc7
 
 ---
-# Compiler Warning (level 3) C4645
+# <a name="compiler-warning-level-3-c4645"></a>Compiler Warning (level 3) C4645
 function declared with __declspec(noreturn) has a return statement  
   
  A [return](../../cpp/return-statement-in-program-termination-cpp.md) statement was found in a function that is marked with the [noreturn](../../cpp/noreturn.md) `__declspec` modifier. The `return` statement was ignored.  
@@ -58,6 +58,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

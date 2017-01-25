@@ -39,18 +39,18 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ad1013a90b2b3d6ad1f7148ea62c05ae505348d4
 
 ---
-# Compiler Warning (level 4) C4057
+# <a name="compiler-warning-level-4-c4057"></a>Compiler Warning (level 4) C4057
 'operator' : 'identifier1' indirection to slightly different base types from 'identifier2'  
   
  Two pointer expressions refer to different base types. The expressions are used without conversion.  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  Mixing signed and unsigned types.  
   
 2.  Mixing **short** and **long** types.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: be1615f3d8dedd467e5d41f9a87975d2f9c71afd
 
 ---
-# Compiler Error C2613
+# <a name="compiler-error-c2613"></a>Compiler Error C2613
 trailing ',' illegal in base class list  
   
  A comma appears after the last base in a base class list.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f0131ce92b2c927b61a786bd41eb8319dfeab8aa
 
 ---
-# Compiler Error C3034
+# <a name="compiler-error-c3034"></a>Compiler Error C3034
 OpenMP 'directive1' directive cannot be directly nested within 'directive2' directive  
   
  Some directives cannot be nested. To fix this error, you can merge the statements of both directives into the block of one directive, or you can construct consecutive directives.  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

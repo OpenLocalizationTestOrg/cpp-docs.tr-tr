@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f0cbd2cbc5595447e54c968f9838b74bb53c4a21
 
 ---
-# Compiler Error C3207
+# <a name="compiler-error-c3207"></a>Compiler Error C3207
 'function' : invalid template argument for 'arg', class template expected  
   
  A template function is defined as taking a template template argument. However, a template type argument was passed.  
@@ -65,6 +65,6 @@ void f1()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

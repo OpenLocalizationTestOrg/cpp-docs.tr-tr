@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6521cc391ccd8a435875b2d5a1a9aad595c75de4
 
 ---
-# Compiler Error C3224
+# <a name="compiler-error-c3224"></a>Compiler Error C3224
 'type' : no overloaded generic class takes 'number' generic type arguments  
   
  The compiler failed to find an appropriate overload.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2d9ff454204c269687c79d06b189019c65f16e32
 
 ---
-# Fatal Error C1007
+# <a name="fatal-error-c1007"></a>Fatal Error C1007
 unrecognized flag string in option  
   
  The command-line option contains an invalid string. Check the **CL** command line and environment variable for errors.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

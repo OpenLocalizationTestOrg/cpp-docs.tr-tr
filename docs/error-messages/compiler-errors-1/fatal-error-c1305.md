@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f494e3649d24f40d13c82ed893a860562cba8bcc
 
 ---
-# Fatal Error C1305
+# <a name="fatal-error-c1305"></a>Fatal Error C1305
 profile database 'pgd_file' is for a different architecture  
   
  A .pgd file that was generated from the /LTCG:PGINSTRUMENT operation for another platform was passed to [/LTCG:PGOPTIMIZE](../../build/reference/ltcg-link-time-code-generation.md) . [Profile-guided optimizations](../../build/reference/profile-guided-optimizations.md) are available for x86 and [!INCLUDE[vcprx64](../../assembler/inline/includes/vcprx64_md.md)] platforms. However, a .pgd file generated with a /LTCG:PGINSTRUMENT operation for one platform is not valid as input to a /LTCG:PGOPTIMIZE for a different platform.  
@@ -47,6 +47,6 @@ profile database 'pgd_file' is for a different architecture
  To resolve this error, only pass a .pgd file that is created with /LTCG:PGINSTRUMENT to /LTCG:PGOPTIMIZE on the same platform.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

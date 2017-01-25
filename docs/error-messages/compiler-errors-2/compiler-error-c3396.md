@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 300ae964d0b20d94cc1f8441579460447787ddd0
 
 ---
-# Compiler Error C3396
+# <a name="compiler-error-c3396"></a>Compiler Error C3396
 'attribute' : custom attribute not found in 'namespace'  
   
  C3396 indicates that you are not using an up-to-date common language runtime.  Reinstall your CLR to resolve.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

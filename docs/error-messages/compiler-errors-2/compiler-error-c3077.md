@@ -39,14 +39,14 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: c7647e3700036e360858fd616df330e6db964835
 
 ---
-# Compiler Error C3077
+# <a name="compiler-error-c3077"></a>Compiler Error C3077
 'finalizer' : a finalizer can only be a member of a reference type  
   
  You cannot declare a finalizer in a native or value type.  
   
  For more information, see [Destructors and finalizers in How to: Define and consume classes and structs (C++/CLI)](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3077.  
   
 ```  
@@ -63,6 +63,6 @@ protected:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

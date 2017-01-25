@@ -39,26 +39,26 @@ ms.sourcegitcommit: 6cad5222fb0d97594d5b13b5cf8903eb2934ee88
 ms.openlocfilehash: 2ac407b6e2ed17eb7a9c1f1232756e9977ed7511
 
 ---
-# Compiler Warning (level 1) C4657
+# <a name="compiler-warning-level-1-c4657"></a>Compiler Warning (level 1) C4657
 expression involves a data type that is new since the last build  
   
  You added or changed a data type, making it new to your source code since the last successful build. Edit and Continue does not support changes to existing data types.  
   
  This warning will always be followed by [Fatal Error C1092](../../error-messages/compiler-errors-1/fatal-error-c1092.md). For further information, see the [Supported Code Changes](/visualstudio/debugger/supported-code-changes-cpp).  
   
-### To remove this warning without ending the current debug session  
+### <a name="to-remove-this-warning-without-ending-the-current-debug-session"></a>To remove this warning without ending the current debug session  
   
 1.  Change the data type back to its state prior to the error.  
   
 2.  From the **Debug** menu, choose **Apply Code Changes**.  
   
-### To remove this error without changing your source code  
+### <a name="to-remove-this-error-without-changing-your-source-code"></a>To remove this error without changing your source code  
   
 1.  From the **Debug** menu, choose **Stop Debugging**.  
   
 2.  From the **Build** menu, choose **Build**.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

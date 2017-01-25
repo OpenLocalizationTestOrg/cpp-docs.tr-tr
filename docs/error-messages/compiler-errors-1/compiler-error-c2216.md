@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ffec06b1638f3ec7b53f64fb0bf04e7657b4b218
 
 ---
-# Compiler Error C2216
+# <a name="compiler-error-c2216"></a>Compiler Error C2216
 'keyword1' cannot be used with ' keyword2'  
   
  Two keywords that are mutually exclusive were used together.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2216.  
   
 ```  
@@ -56,7 +56,7 @@ ref struct Y1 {
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2216.  
   
 ```  
@@ -68,7 +68,7 @@ public ref class X {
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2216.  
   
 ```  
@@ -88,6 +88,6 @@ public ref struct R : I {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

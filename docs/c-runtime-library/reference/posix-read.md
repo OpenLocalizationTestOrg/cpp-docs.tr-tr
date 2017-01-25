@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b1df16ec24936dfc64a57b4da530ad5fe0f8b76e
 
 ---
-# read
+# <a name="read"></a>read
 This POSIX function is deprecated. Use the ISO C++ conformant [_read](../../c-runtime-library/reference/read.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

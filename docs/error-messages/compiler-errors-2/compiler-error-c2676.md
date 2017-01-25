@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b58a14d094aa75a93c13d87d02f1026accb1b283
 
 ---
-# Compiler Error C2676
+# <a name="compiler-error-c2676"></a>Compiler Error C2676
 binary 'operator' : 'type' does not define this operator or a conversion to a type acceptable to the predefined operator  
   
  To use the operator, you must overload it for the specified type or define a conversion to a type for which the operator is defined.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2676.  
   
 ```  
@@ -75,7 +75,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  C2676 can also occur if you attempt to do pointer arithmetic on the `this` pointer of a reference type.  
   
  The `this` pointer is of type handle in a reference type. For more information, see [Semantics of the this pointer](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Semantics_of_the_this_pointer).  
@@ -106,6 +106,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

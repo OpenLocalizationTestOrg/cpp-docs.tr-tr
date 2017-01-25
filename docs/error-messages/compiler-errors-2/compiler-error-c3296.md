@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 06f72f131cf7454b67915fad2a40c31bdf95079e
 
 ---
-# Compiler Error C3296
+# <a name="compiler-error-c3296"></a>Compiler Error C3296
 'property' : a property with this name already exists  
   
  The compiler encountered more than one property with the same name. Each property in a type must have a unique name.  
   
  For more information, see [property](../../windows/property-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3296.  
   
 ```  
@@ -63,6 +63,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

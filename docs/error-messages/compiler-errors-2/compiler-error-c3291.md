@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 203cdb1b2ca01d571cca1284bafe4440d7845e22
 
 ---
-# Compiler Error C3291
+# <a name="compiler-error-c3291"></a>Compiler Error C3291
 'default' : cannot be the name of a trivial property  
   
  A trivial property cannot be named `default`. See [property](../../windows/property-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3291.  
   
 ```  
@@ -57,6 +57,6 @@ ref struct C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

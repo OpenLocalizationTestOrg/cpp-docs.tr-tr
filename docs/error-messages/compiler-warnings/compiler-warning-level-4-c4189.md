@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aa0f1f0520bb5edacf6df4d5a7971b274dad0c21
 
 ---
-# Compiler Warning (level 4) C4189
+# <a name="compiler-warning-level-4-c4189"></a>Compiler Warning (level 4) C4189
 'identifier' : local variable is initialized but not referenced  
   
  A variable is declared and initialized but not used.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

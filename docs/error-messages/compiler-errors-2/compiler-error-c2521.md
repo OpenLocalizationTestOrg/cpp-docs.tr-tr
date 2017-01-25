@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9733bf79088086c4d79ee7f4158e569a9b47024c
 
 ---
-# Compiler Error C2521
+# <a name="compiler-error-c2521"></a>Compiler Error C2521
 function does not take any arguments  
   
  You attempted to use arguments with a destructor or finalizer.  
   
  For more information, see [Destructors and finalizers](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2521.  
   
 ```  
@@ -70,6 +70,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

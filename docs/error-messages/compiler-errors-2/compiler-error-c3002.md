@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ca2545768e72f270bd68b9ca60744c3e526882cb
 
 ---
-# Compiler Error C3002
+# <a name="compiler-error-c3002"></a>Compiler Error C3002
 'name1 name2' : multiple OpenMP directive names  
   
  Multiple directive names are not allowed.  
@@ -56,6 +56,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

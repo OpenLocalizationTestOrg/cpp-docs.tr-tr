@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 93f8a954035cdaacc9553d32343a91c9b50bb908
 
 ---
-# Compiler Error C3167
+# <a name="compiler-error-c3167"></a>Compiler Error C3167
 Unable to initialize .NET Framework: make sure it is installed  
   
  The .NET Framework is not installed on this computer; install the .NET Framework.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

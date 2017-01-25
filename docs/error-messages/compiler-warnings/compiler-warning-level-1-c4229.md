@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 854dbd186397102ff0caf2ce79773a61720f5a13
 
 ---
-# Compiler Warning (level 1) C4229
+# <a name="compiler-warning-level-1-c4229"></a>Compiler Warning (level 1) C4229
 anachronism used : modifiers on data are ignored  
   
  Using a Microsoft modifier such as `__cdecl` on a data declaration is an outdated practice.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4229.cpp  
@@ -53,6 +53,6 @@ int __cdecl counter;   // C4229 cdecl ignored
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

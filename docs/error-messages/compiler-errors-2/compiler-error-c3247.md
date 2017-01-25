@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5c44e4a7621772283f8d1ce2268f20c86c646ed6
 
 ---
-# Compiler Error C3247
+# <a name="compiler-error-c3247"></a>Compiler Error C3247
 'class1' : a coclass cannot inherit from another coclass 'class2'  
   
  A class marked with the [coclass](../../windows/coclass.md) attribute cannot inherit from another class marked with the `coclass` attribute.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2ac7a5a42bb606fc742166d599b2c5d7d3325eaa
 
 ---
-# Compiler Error C3012
+# <a name="compiler-error-c3012"></a>Compiler Error C3012
 'intrinsic' : intrinsic function not allowed directly within a parallel region  
   
  A [compiler intrinsic](../../intrinsics/compiler-intrinsics.md) function is not allowed in an `omp``parallel` region.  
@@ -72,6 +72,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

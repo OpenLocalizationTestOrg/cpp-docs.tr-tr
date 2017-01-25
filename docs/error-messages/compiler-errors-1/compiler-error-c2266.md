@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 981531157c2eacf135814edd20ce4d888d8c010a
 
 ---
-# Compiler Error C2266
+# <a name="compiler-error-c2266"></a>Compiler Error C2266
 'identifier' : reference to a non-constant bounded array is illegal  
   
  A reference is declared for an array with a nonconstant bound. The array must have constant bounds.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

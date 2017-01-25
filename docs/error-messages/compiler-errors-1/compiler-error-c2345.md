@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1d91449f533a9bf406dcdf88eb7161acadbb900c
 
 ---
-# Compiler Error C2345
+# <a name="compiler-error-c2345"></a>Compiler Error C2345
 align(value) : illegal alignment value  
   
  You passed a value to the [align](../../cpp/align-cpp.md) keyword that is outside the allowable range.  
@@ -54,6 +54,6 @@ __declspec(align(1)) int a;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

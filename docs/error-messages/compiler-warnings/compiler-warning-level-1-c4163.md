@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2bfe06b1eb7c05389194d628330515b64e3f8eb7
 
 ---
-# Compiler Warning (level 1) C4163
+# <a name="compiler-warning-level-1-c4163"></a>Compiler Warning (level 1) C4163
 'identifier' : not available as an intrinsic function  
   
  The specified function cannot be used as an [intrinsic](../../preprocessor/intrinsic.md) function. The compiler ignores the invalid function name.  
@@ -56,6 +56,6 @@ ms.openlocfilehash: 2bfe06b1eb7c05389194d628330515b64e3f8eb7
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

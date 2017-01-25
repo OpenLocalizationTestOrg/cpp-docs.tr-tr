@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fb6e7b5390406365d0b6d6a59218e31875a30c7b
 
 ---
-# Compiler Error C2290
+# <a name="compiler-error-c2290"></a>Compiler Error C2290
 C++ asm syntax ignored. Use __asm.  
   
  The `asm` syntax is reserved for future use.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

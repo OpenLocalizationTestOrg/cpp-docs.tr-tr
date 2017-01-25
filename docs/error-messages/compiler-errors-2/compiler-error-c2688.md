@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ad2db9fd2777e42feae812621738a5b2be7a6d8e
 
 ---
-# Compiler Error C2688
+# <a name="compiler-error-c2688"></a>Compiler Error C2688
 'C2::fgrv' : covariant returns with multiple or virtual inheritance not supported for varargs functions  
   
  Covariant return types are not supported in Visual C++ when a function contains variable arguments.  
@@ -68,6 +68,6 @@ struct C2 : C1 {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

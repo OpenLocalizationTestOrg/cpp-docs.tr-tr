@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d2e76c52ea1c24266940d07f04e9d962fc948d95
 
 ---
-# Compiler Warning (level 4) C4937
+# <a name="compiler-warning-level-4-c4937"></a>Compiler Warning (level 4) C4937
 'text1' and 'text2' are indistinguishable as arguments to 'directive'  
   
  Because of the way the compiler processes arguments to directives, names that have meaning to the compiler, such as keywords with multiple text representations (single and double underscore forms), cannot be distinguished.  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

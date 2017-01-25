@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a7f64683a8a09adfc8edadeb940aa8af815fe7e4
 
 ---
-# Compiler Error C3060
+# <a name="compiler-error-c3060"></a>Compiler Error C3060
 'member' : a friend function may not be defined inside a class using a qualified name (it may only be declared)  
   
  A friend function was defined using a qualified name, which is not allowed.  
@@ -64,6 +64,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

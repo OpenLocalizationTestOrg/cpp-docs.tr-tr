@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aebe75dc333d9b6325f729be6c47c61bb76d1ec9
 
 ---
-# Compiler Warning (level 1) C4688
+# <a name="compiler-warning-level-1-c4688"></a>Compiler Warning (level 1) C4688
 'constraint': constraint list contains assembly private type 'type'  
   
  A constraint list has an assembly private type, meaning it will not be available when the type is accessed from outside the assembly. For more information, see [Generics](../../windows/generics-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4688.  
   
 ```  
@@ -64,6 +64,6 @@ public ref struct N {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

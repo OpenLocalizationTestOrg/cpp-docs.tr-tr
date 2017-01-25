@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6f657da21a7756973b9f9febe823003ebfd68fd1
 
 ---
-# Compiler Warning (level 1) C4218
+# <a name="compiler-warning-level-1-c4218"></a>Compiler Warning (level 1) C4218
 nonstandard extension used : must specify at least a storage class or a type  
   
  With the default Microsoft extensions (/Ze), you can declare a variable without specifying a type or storage class. The default type is `int`.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4218.c  
@@ -59,6 +59,6 @@ int main()
  Such declarations are invalid under ANSI compatibility ([/Za](../../build/reference/za-ze-disable-language-extensions.md)).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

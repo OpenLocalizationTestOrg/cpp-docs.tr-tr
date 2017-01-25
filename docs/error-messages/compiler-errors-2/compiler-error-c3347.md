@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b727b400c52a7da4d1b20971b838715f83e74ee2
 
 ---
-# Compiler Error C3347
+# <a name="compiler-error-c3347"></a>Compiler Error C3347
 'arg': required argument is not specified in attribute idl_module  
   
  A required argument was not passed to the [idl_module](../../windows/idl-module.md) attribute.  
@@ -57,6 +57,6 @@ ms.openlocfilehash: b727b400c52a7da4d1b20971b838715f83e74ee2
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

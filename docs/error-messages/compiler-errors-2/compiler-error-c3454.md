@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b45943db1862454ffd5517cd334b2ca9e11d3fde
 
 ---
-# Compiler Error C3454
+# <a name="compiler-error-c3454"></a>Compiler Error C3454
 [attribute] not allowed on class declaration  
   
  A class must be defined for it to be an attribute.  
   
  For more information, see [attribute](../../windows/attribute.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3454.  
   
 ```  
@@ -62,6 +62,6 @@ ref class Attr2 {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

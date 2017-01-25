@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1390823ae8d53e559d4589f67e793a74d7bae2a4
 
 ---
-# gcvt
+# <a name="gcvt"></a>gcvt
 This POSIX function is deprecated. Use the ISO C++ conformant [_gcvt](../../c-runtime-library/reference/gcvt.md) or security-enhanced [_gcvt_s](../../c-runtime-library/reference/gcvt-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 0837d8f5e48ccf0de0ba8630801667da2ddb6bfa
 
 ---
-# Compiler Error C2259
+# <a name="compiler-error-c2259"></a>Compiler Error C2259
 'class' : cannot instantiate abstract class  
   
  Code declares an instance of an abstract class or structure.  
@@ -140,6 +140,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

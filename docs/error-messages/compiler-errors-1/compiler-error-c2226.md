@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 966c4272387fc2308f0ff9b55c2173607998e815
 
 ---
-# Compiler Error C2226
+# <a name="compiler-error-c2226"></a>Compiler Error C2226
 syntax error : unexpected type 'type'  
   
  A syntax error occurs before or in the type specifier.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

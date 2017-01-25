@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7c71a3e33833f8a28ceeeb6449c66ba4c9bf15eb
 
 ---
-# Compiler Error C2402
+# <a name="compiler-error-c2402"></a>Compiler Error C2402
 'identifier' : register must be index in 'context'  
   
  The register used in an indirect memory operand must be an index register in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

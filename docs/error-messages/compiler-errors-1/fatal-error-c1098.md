@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 912c84f06d801d9a7b8a448f48a665e826e631a3
 
 ---
-# Fatal Error C1098
+# <a name="fatal-error-c1098"></a>Fatal Error C1098
 Version mismatch with Edit and Continue engine  
   
  The debugger version you are using does not match the compiler used to create the executable. If recompiling does not fix the problem, you may need to reinstall Visual C++ to make sure you have the proper versions of the debugger and compiler.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

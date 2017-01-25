@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 39c30c3f6d2c923e585a4581164734c3aa63eae5
 
 ---
-# Fatal Error C1190
+# <a name="fatal-error-c1190"></a>Fatal Error C1190
 managed targeted code requires a '/clr' option  
   
  You are using CLR constructs but you did not specify **/clr**.  
@@ -56,6 +56,6 @@ ref class A {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

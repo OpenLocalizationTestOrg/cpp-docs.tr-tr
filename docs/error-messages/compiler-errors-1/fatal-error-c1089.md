@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 74267efdd56a09f897be7de64615f5fde1e23864
 
 ---
-# Fatal Error C1089
+# <a name="fatal-error-c1089"></a>Fatal Error C1089
 Cannot truncate filetype file: 'file': message  
   
  The compiler cannot shrink a file to zero length.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

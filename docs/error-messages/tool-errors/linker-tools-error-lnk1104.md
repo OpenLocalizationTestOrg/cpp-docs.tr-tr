@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bf097a5bd6eb63a21d1a6feebd87e5836b0db100
 
 ---
-# Linker Tools Error LNK1104
+# <a name="linker-tools-error-lnk1104"></a>Linker Tools Error LNK1104
 cannot open file 'filename'  
   
  The tool could not open the given file.  
@@ -73,6 +73,6 @@ cannot open file 'filename'
 -   Use [/OPT (Optimizations)](../../build/reference/opt-optimizations.md); doing transitive comdat elimination reads all the object files multiple times.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

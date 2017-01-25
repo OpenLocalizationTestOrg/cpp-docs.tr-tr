@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b56d2f7b63fe991c834ad492373e1c7fdb646230
 
 ---
-# Fatal Error C1211
+# <a name="fatal-error-c1211"></a>Fatal Error C1211
 The TypeForwardedTo Custom Attribute is not supported by the version of the runtime installed  
   
  C1211 occurs when you have a compiler for the current release, but a common language runtime from a previous release.  
@@ -51,6 +51,6 @@ The TypeForwardedTo Custom Attribute is not supported by the version of the runt
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

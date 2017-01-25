@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 865ac3098afb947fb80fd0a6dce94d69f25593c0
 
 ---
-# Compiler Warning (levels 1 and 4) C4115
+# <a name="compiler-warning-levels-1-and-4-c4115"></a>Compiler Warning (levels 1 and 4) C4115
 'type' : named type definition in parentheses  
   
  The given symbol is used to define a structure, union, or enumerated type inside a parenthetical expression. The scope of the definition may be unexpected.  
@@ -51,6 +51,6 @@ ms.openlocfilehash: 865ac3098afb947fb80fd0a6dce94d69f25593c0
  This is a level-1 warning with C++ programs and C programs compiled under ANSI compatibility (/Za). Otherwise, it is level 3.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

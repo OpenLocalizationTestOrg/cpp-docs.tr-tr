@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 62ed23d95c79ff4899d061d91b6bc6f329cdef62
 
 ---
-# Compiler Warning (level 4) C4690
+# <a name="compiler-warning-level-4-c4690"></a>Compiler Warning (level 4) C4690
 [ emitidl( pop ) ] : more pops than pushes  
   
  The [emitidl](../../windows/emitidl.md) attribute was popped one more time that it was pushed.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4690.  
   
 ```  
@@ -55,6 +55,6 @@ class x {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

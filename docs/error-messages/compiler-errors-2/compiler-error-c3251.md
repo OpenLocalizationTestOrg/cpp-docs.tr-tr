@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 45cc8b305af437205ee046d6d1ff8058e51a1743
 
 ---
-# Compiler Error C3251
+# <a name="compiler-error-c3251"></a>Compiler Error C3251
 cannot invoke base class method on a value type instance  
   
  The following error occurs because `GetClass` is a member of `Microsoft.Runtime.Object`, not of `Microsoft.Runtime.Integer4`.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

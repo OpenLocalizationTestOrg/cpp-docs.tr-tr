@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4893bce382e0d39ed2fb7e4b12efeea4cb81400b
 
 ---
-# Compiler Error C3239
+# <a name="compiler-error-c3239"></a>Compiler Error C3239
 'type' : pointer to interior/pin pointer is disallowed by the common language runtime  
   
  The compiler encountered an invalid type.  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

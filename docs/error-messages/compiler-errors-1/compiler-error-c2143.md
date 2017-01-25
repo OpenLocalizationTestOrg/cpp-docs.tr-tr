@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7dba4d513253535296e629fd5e7385e9d9b697b6
 
 ---
-# Compiler Error C2143
+# <a name="compiler-error-c2143"></a>Compiler Error C2143
 syntax error : missing 'token1' before 'token2'  
   
  The compiler expected a specific token (that is, a language element other than white space) and found another token instead.  
@@ -207,6 +207,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

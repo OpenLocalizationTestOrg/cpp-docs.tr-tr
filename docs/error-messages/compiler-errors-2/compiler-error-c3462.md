@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3a10766f318e96b86570d81b2321ee11dfb84671
 
 ---
-# Compiler Error C3462
+# <a name="compiler-error-c3462"></a>Compiler Error C3462
 'type': only an imported type can be forwarded  
   
  The TypeForwardedTo attribute must be applied to a type in referenced metadata.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -55,7 +55,7 @@ ms.openlocfilehash: 3a10766f318e96b86570d81b2321ee11dfb84671
 public ref class R {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3462.  
   
 ```  
@@ -68,6 +68,6 @@ ref class N {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

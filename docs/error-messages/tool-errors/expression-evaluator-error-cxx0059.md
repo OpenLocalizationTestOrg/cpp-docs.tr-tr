@@ -40,7 +40,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 65749422d7221b8bbcb03a8f4f1227338b30bd43
 
 ---
-# Expression Evaluator Error CXX0059
+# <a name="expression-evaluator-error-cxx0059"></a>Expression Evaluator Error CXX0059
 left operand is class not a function name  
   
  The left operand of a function call was a class name and could not be resolved to a function call. Omitting the name of a member function in an expression can cause this error.  
@@ -48,6 +48,6 @@ left operand is class not a function name
  This error is identical to CAN0059.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

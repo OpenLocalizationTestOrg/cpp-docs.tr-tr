@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 313bca979c0d3c63d897fd0cf3883e444d501db1
 
 ---
-# Compiler Error C3552
+# <a name="compiler-error-c3552"></a>Compiler Error C3552
 'typename': a late specified return type cannot contain 'auto'  
   
  If you use the `auto` keyword as a placeholder for the return type of a function, you must provide a late-specified return type. However, you cannot use another `auto` keyword to specify the late-specified return type. For example, the following code fragment yields error C3552.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 313bca979c0d3c63d897fd0cf3883e444d501db1
  `auto myFunction->auto; // C3552`
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

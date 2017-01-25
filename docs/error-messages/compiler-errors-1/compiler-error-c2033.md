@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f4116e9433bbfe130b4fbd1a47e18738d1a01e20
 
 ---
-# Compiler Error C2033
+# <a name="compiler-error-c2033"></a>Compiler Error C2033
 'identifier' : bit field cannot have indirection  
   
  The bit field was declared as a pointer, which is not allowed.  
@@ -64,6 +64,6 @@ struct S {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

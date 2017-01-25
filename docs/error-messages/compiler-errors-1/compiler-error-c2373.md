@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0e5b573a6371dcf75d02cff960fc2cbf31c12cc2
 
 ---
-# Compiler Error C2373
+# <a name="compiler-error-c2373"></a>Compiler Error C2373
 'identifier' : redefinition; different type modifiers  
   
  The identifier is already defined with a different type modifier.  
@@ -66,6 +66,6 @@ extern const int i;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

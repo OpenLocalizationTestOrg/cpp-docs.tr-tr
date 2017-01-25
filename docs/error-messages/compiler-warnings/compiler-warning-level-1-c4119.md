@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fa0b87fcf8d1d6c8c1964ee596317793ec2c7e89
 
 ---
-# Compiler Warning (level 1) C4119
+# <a name="compiler-warning-level-1-c4119"></a>Compiler Warning (level 1) C4119
 different bases 'base1' and 'base2' specified  
   
  Two based pointers are incompatible because they have different bases. The compiler cannot convert between them.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

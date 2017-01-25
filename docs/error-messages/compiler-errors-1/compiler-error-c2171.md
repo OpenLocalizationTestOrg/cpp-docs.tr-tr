@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: dd9b366f0a756aad9339bced6c96d8d77fd48989
 
 ---
-# Compiler Error C2171
+# <a name="compiler-error-c2171"></a>Compiler Error C2171
 'operator' : illegal on operands of type 'type'  
   
  A unary operator is used with an invalid operand type.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2171.  
   
 ```  
@@ -59,7 +59,7 @@ int main() {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2171.  
   
 ```  
@@ -85,6 +85,6 @@ private:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

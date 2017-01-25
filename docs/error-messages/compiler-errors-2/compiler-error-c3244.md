@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8f1390d49e942af16402fd0f133317cc4586e439
 
 ---
-# Compiler Error C3244
+# <a name="compiler-error-c3244"></a>Compiler Error C3244
 'method' : this method was introduced by 'interface' not by 'interface'  
   
  You tried to [explicitly override](../../cpp/explicit-overrides-cpp.md) a member that does not exist in the specified interface but does exist in another base class.  
@@ -70,6 +70,6 @@ void CX15::IX15A::g()   // C3244 occurs here
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

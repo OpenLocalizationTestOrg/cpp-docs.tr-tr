@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0211f83cc828051924c2ad9cd51d2938906abf0b
 
 ---
-# Compiler Error C2313
+# <a name="compiler-error-c2313"></a>Compiler Error C2313
 'type1' : is caught by reference ('type2') on line number  
   
  The exception type has two handlers. The type for the second catch is a reference to the type of the first.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

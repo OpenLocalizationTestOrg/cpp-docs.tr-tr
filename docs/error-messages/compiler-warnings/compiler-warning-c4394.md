@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2cc8215292de827ac673bc00aab33921c5876d5a
 
 ---
-# Compiler Warning C4394
+# <a name="compiler-warning-c4394"></a>Compiler Warning C4394
 'function' : per-appdomain symbol should not be marked with __declspec(dllexport)  
   
  A function marked with the [appdomain](../../cpp/appdomain.md)`__declspec` modifier is compiled to MSIL (not to native), and export tables ([export](../../windows/export.md)`__declspec` modifier) are not supported for managed functions.  
@@ -48,7 +48,7 @@ ms.openlocfilehash: 2cc8215292de827ac673bc00aab33921c5876d5a
   
  C4394 is always issued as an error.  You can turn off this warning with the `#pragma warning` or **/wd**; see [warning](../../preprocessor/warning.md) or [/w, /W0, /W1, /W2, /W3, /W4, /w1, /w2, /w3, /w4, /Wall, /wd, /we, /wo, /Wv, /WX (Warning Level)](../../build/reference/compiler-option-warning-level.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4394.  
   
 ```  
@@ -59,6 +59,6 @@ __declspec(dllexport) int g2 = 0;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

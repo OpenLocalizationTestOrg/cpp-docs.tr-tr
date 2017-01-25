@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c854b54f62f03c4eef8fe06fa557ad38904cde47
 
 ---
-# Compiler Error C2444
+# <a name="compiler-error-c2444"></a>Compiler Error C2444
 'identifier' : used ANSI prototype, found 'type', expected '{' or ';'  
   
  The function prototype is followed by a type.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: c854b54f62f03c4eef8fe06fa557ad38904cde47
  This error can be caused by a missing semicolon or curly brace.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 75fd2f4a76b4779f88bacd2f74eb0a824902890f
 
 ---
-# Compiler Warning (level 1) C4805
+# <a name="compiler-warning-level-1-c4805"></a>Compiler Warning (level 1) C4805
 'operation' : unsafe mix of type 'type' and type 'type' in operation  
   
  This warning is generated for comparison operations between [bool](../../cpp/bool-cpp.md) and [int](../../c-language/integer-types.md). The following sample generates C4805:  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

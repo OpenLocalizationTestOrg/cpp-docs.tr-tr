@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 537298872ebc2eab9f9a81ec43df2fc2f6483d71
 
 ---
-# Compiler Error C3017
+# <a name="compiler-error-c3017"></a>Compiler Error C3017
 termination test in OpenMP 'for' statement has improper form  
   
  A `for` loop in an OpenMP statement must be fully and explicitly specified.  
@@ -65,6 +65,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

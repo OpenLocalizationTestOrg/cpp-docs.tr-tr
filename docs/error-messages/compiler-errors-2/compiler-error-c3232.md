@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 89e383ba832eac80134ea133a4bbd7a6ee2217e7
 
 ---
-# Compiler Error C3232
+# <a name="compiler-error-c3232"></a>Compiler Error C3232
 'param' : a generic type parameter cannot be used in a qualified name  
   
  A generic type parameter was used incorrectly.  
@@ -56,6 +56,6 @@ ref class C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

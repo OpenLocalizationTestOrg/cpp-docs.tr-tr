@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 69df7b9501038f216493b265f7f56b9f2d475ed3
 
 ---
-# Compiler Error C3554
+# <a name="compiler-error-c3554"></a>Compiler Error C3554
 'decltype' cannot be combined with any other type-specifier  
   
  You cannot qualify the `decltype()` keyword with any type specifier. For example, the following code fragment yields error C3554.  
@@ -50,6 +50,6 @@ unsigned decltype(x); // C3554
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

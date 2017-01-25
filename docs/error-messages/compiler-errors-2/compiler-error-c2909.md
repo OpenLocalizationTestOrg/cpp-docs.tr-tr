@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b8542f4805ec5e3302c86510e6f303e6608ed5de
 
 ---
-# Compiler Error C2909
+# <a name="compiler-error-c2909"></a>Compiler Error C2909
 'identifier': explicit instantiation of function template requires return type  
   
  An explicit instantiation of a function template requires explicit specification of its return type. Implicit return type specification does not work.  
@@ -55,6 +55,6 @@ template int f<int>(int);   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6d935f373201831c2689b5dbbc072955afd30415
 
 ---
-# Compiler Error C3039
+# <a name="compiler-error-c3039"></a>Compiler Error C3039
 'var' : index variable in OpenMP 'for' statement cannot be a reduction variable  
   
  An index variable is implicitly private, so the variable cannot be used in a [reduction](../../parallel/openmp/reference/reduction.md) clause in the enclosing [parallel](../../parallel/openmp/reference/parallel.md) directive.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3039:  
   
 ```  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

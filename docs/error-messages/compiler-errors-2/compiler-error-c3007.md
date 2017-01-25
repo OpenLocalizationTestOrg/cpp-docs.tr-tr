@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7e4ffbea182349faeb827799e31863fdbdd42d75
 
 ---
-# Compiler Error C3007
+# <a name="compiler-error-c3007"></a>Compiler Error C3007
 'arg' : clause on OpenMP 'directive' directive does not take an argument  
   
  An OpenMP directive had an argument, but the directive does not take an argument.  
@@ -56,6 +56,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

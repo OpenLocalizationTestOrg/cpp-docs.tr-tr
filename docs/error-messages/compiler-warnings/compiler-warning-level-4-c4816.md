@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 536525ab3b15a1fc588313e7cdc5487465ee9c7f
 
 ---
-# Compiler Warning (level 4) C4816
+# <a name="compiler-warning-level-4-c4816"></a>Compiler Warning (level 4) C4816
 'param' : parameter has a zero-sized array which will be truncated (unless the object is passed by reference)  
   
  A parameter to an object with a zero-size array was not passed by reference. The array will not get copied when the object is passed.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4816:  
   
 ```  
@@ -82,6 +82,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9095d6db6f872135e26b24f1824919917bf0c146
 
 ---
-# Compiler Error C3369
+# <a name="compiler-error-c3369"></a>Compiler Error C3369
 'module name': idl_module already defined  
   
  The [idl_module](../../windows/idl-module.md) usage where you define the DLL can only occur once in a program.  
@@ -54,6 +54,6 @@ ms.openlocfilehash: 9095d6db6f872135e26b24f1824919917bf0c146
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

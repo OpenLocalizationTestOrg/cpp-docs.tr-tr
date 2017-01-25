@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a200da97c278b82ac84760a0dd90bba01c4e12c3
 
 ---
-# Compiler Error C3059
+# <a name="compiler-error-c3059"></a>Compiler Error C3059
 'var' : 'threadprivate' symbol cannot be used in the 'clause' clause  
   
  A [threadprivate](../../parallel/openmp/reference/threadprivate.md) symbol was used in a clause.  
@@ -78,6 +78,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

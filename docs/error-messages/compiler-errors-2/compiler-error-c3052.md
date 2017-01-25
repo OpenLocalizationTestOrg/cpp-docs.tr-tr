@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4aaef3557ee758bba09848b2c7bc1a860d880cd2
 
 ---
-# Compiler Error C3052
+# <a name="compiler-error-c3052"></a>Compiler Error C3052
 'var' : variable doesn't appear in a data-sharing clause under a default(none) clause  
   
  If [default(none)](../../parallel/openmp/reference/default-openmp.md) is used, any variable used in the structured block must be explicitly specified as either [shared](../../parallel/openmp/reference/shared-openmp.md) or [private](../../parallel/openmp/reference/private-openmp.md).  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

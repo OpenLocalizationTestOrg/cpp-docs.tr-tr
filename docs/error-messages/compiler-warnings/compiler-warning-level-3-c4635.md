@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a1ebd34ab1eff78dc731eb963554afb07119cd58
 
 ---
-# Compiler Warning (level 3) C4635
+# <a name="compiler-warning-level-3-c4635"></a>Compiler Warning (level 3) C4635
 XML document comment target: badly-formed XML: reason  
   
  The compiler found some problem with the XML tags.  Fix the problem and recompile  
@@ -63,6 +63,6 @@ public ref class Test {};
  The problem with this sample is that the end tag for \<summary> is poorly formed, and the compiler does not recognize it as the \<summary> end tag.  The \<member> tag is embedded in the .xdc file by the compiler in every /doc compilation.  So, the problem here is that the end tag \</member>, does not match the previous start tag that the compiler processed (\<summary>.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

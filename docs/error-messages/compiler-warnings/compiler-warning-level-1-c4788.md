@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ae06ee08751afaff627d4baab59c6cab8f4ae883
 
 ---
-# Compiler Warning (Level 1) C4788
+# <a name="compiler-warning-level-1-c4788"></a>Compiler Warning (Level 1) C4788
 'identifier' : identifier was truncated to 'number' characters  
   
  The compiler limits the maximum length allowed for a function name. When the compiler generates funclets for EH/SEH code, it forms the funclet name by prepending the function name with some text, for example "__catch", "\__unwind", or another string.  
@@ -62,6 +62,6 @@ new_class::f
  This warning only occurs in the [!INCLUDE[vcprx64](../../assembler/inline/includes/vcprx64_md.md)] compiler.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

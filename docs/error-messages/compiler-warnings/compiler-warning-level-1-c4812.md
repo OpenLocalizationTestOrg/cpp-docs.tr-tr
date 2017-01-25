@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 49172e1b6427e68954d45ced61597108728c210d
 
 ---
-# Compiler Warning (level 1) C4812
+# <a name="compiler-warning-level-1-c4812"></a>Compiler Warning (level 1) C4812
 obsolete declaration style: please use 'new_syntax' instead  
   
  In the current release of Visual C++, the explicit constructor specialization is still supported, but it may not be supported in a future release.  
@@ -64,6 +64,6 @@ MyClass<T*>::MyClass<T*>() {}   // C4812
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

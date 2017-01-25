@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 001bfd3eeefac3fd42d219e8cf972d4ef1e9fa19
 
 ---
-# Compiler Error C2408
+# <a name="compiler-error-c2408"></a>Compiler Error C2408
 illegal type on PTR operator in 'context'  
   
  The first parameter of the `PTR` operator is not a legal type specification.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

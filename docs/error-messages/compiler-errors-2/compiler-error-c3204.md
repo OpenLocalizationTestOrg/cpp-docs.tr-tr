@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f1a499c16a3a5ad3cd596bff2bfe12ff3ec63e34
 
 ---
-# Compiler Error C3204
+# <a name="compiler-error-c3204"></a>Compiler Error C3204
 '_alloca' cannot be called from within a catch block  
   
  This error occurs when you use a call to [_alloca](../../c-runtime-library/reference/alloca.md) from within a catch block.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3204:  
   
 ```  
@@ -65,6 +65,6 @@ void ShowError(void)
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

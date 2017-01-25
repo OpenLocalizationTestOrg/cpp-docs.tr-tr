@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2b10316c7f52e764657a0638aba43064e8df3a47
 
 ---
-# Compiler Error C3363
+# <a name="compiler-error-c3363"></a>Compiler Error C3363
 'type' : 'typeid' can only be applied to a type  
   
  The [typeid](../../windows/typeid-cpp-component-extensions.md) operator was used incorrectly.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3363.  
   
 ```  
@@ -56,6 +56,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

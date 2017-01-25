@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5a20f5ff851134e269469eb5298289cdacf63159
 
 ---
-# Compiler Error C2318
+# <a name="compiler-error-c2318"></a>Compiler Error C2318
 no try block associated with this catch handler  
   
  A `catch` handler is defined but not preceded by a `try` block.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

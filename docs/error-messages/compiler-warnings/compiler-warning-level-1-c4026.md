@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8d83dd06e4b79372c2921ec980864107c92aa39c
 
 ---
-# Compiler Warning (level 1) C4026
+# <a name="compiler-warning-level-1-c4026"></a>Compiler Warning (level 1) C4026
 function declared with formal parameter list  
   
  The function declaration has formal parameters, but the function definition does not. Subsequent calls to this function assume that the function takes no parameters.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

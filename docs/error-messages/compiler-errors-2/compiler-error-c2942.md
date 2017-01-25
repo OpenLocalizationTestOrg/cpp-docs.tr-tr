@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: dd5d9b6908b6af39f7d191d1a1d231d37716d6d1
 
 ---
-# Compiler Error C2942
+# <a name="compiler-error-c2942"></a>Compiler Error C2942
 'class' : type-class-id redefined as a formal argument of a function  
   
  You cannot use a generic or template class as a formal argument. You cannot pass an argument directly to the constructor of a generic or template class.  
@@ -72,6 +72,6 @@ void f(int GC2) {}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

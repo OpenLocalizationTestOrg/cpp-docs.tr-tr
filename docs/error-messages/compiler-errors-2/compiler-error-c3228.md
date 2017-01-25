@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 75ebcf855cd7bb81fc05662930cc61b900c8d2c9
 
 ---
-# Compiler Error C3228
+# <a name="compiler-error-c3228"></a>Compiler Error C3228
 'function' : generic type argument for 'param' cannot be 'type', it must be a valuetype or handle type  
   
  An incorrect type was passed as a generic type argument.  
@@ -72,6 +72,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

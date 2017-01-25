@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0f30ec0facbb13794135cba20331c1969007060f
 
 ---
-# Fatal Error C1903
+# <a name="fatal-error-c1903"></a>Fatal Error C1903
 unable to recover from previous error(s); stopping compilation  
   
  The compiler found too many errors to continue. Fix the errors and recompile.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

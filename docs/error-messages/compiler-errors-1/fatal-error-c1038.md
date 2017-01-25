@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f2d064206ddc3648e4dabd497f5216eca10a3d2b
 
 ---
-# Fatal Error C1038
+# <a name="fatal-error-c1038"></a>Fatal Error C1038
 compiler limit : function : control flow state too complex; simplify function  
   
  The function has more control-flow states than the compiler can handle. Simplify control flow or split the function into smaller functions.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

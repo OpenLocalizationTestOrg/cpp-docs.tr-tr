@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f164f6d7388766c8dfb083cbaaf4b2baae7848d7
 
 ---
-# Compiler Error C3285
+# <a name="compiler-error-c3285"></a>Compiler Error C3285
 for each statement cannot operate on variables of type 'type'  
   
  The `for each` statement repeats a group of embedded statements for each element in an array or an object collection.  
   
  See [for each, in](../../dotnet/for-each-in.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3285.  
   
 ```  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

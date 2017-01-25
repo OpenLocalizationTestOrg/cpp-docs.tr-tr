@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fe7277c93e15094a4b7efb15e578f58494c1611f
 
 ---
-# Compiler Warning (level 3) C4638
+# <a name="compiler-warning-level-3-c4638"></a>Compiler Warning (level 3) C4638
 XML document comment target: reference to unknown symbol 'symbol'  
   
  The compiler was unable to resolve a symbol (***symbol***). The symbol must be valid in the compilation.  
@@ -63,6 +63,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

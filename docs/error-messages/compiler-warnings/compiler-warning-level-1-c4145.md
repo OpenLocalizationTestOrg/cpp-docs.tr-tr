@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bab140f13f3244070a9f0b6511df99957f203186
 
 ---
-# Compiler Warning (level 1) C4145
+# <a name="compiler-warning-level-1-c4145"></a>Compiler Warning (level 1) C4145
 'expression1' : relational expression as switch expression; possible confusion with 'expression2'  
   
  A `switch` statement uses a relational expression as its control expression, which results in a Boolean value for the **case** statements. Did you mean *expression2*?  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4145:  
   
 ```  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

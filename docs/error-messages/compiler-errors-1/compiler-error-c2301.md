@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fc98817756906b6d2b993eb4cc1fb354ed188eba
 
 ---
-# Compiler Error C2301
+# <a name="compiler-error-c2301"></a>Compiler Error C2301
 left of '->~identifier' must point to class/struct/union  
   
  The expression to the left of the `->` operator does not evaluate to a pointer to a class, structure, or union.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,20 +39,20 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0f0d14f64e67661288b26616799784df4481cd48
 
 ---
-# Compiler Warning (level 1) C4041
+# <a name="compiler-warning-level-1-c4041"></a>Compiler Warning (level 1) C4041
 compiler limit : terminating browser output  
   
  Browser information exceeded the compiler limit.  
   
  This warning can be caused by compiling with [/FR](../../build/reference/fr-fr-create-dot-sbr-file.md) (browser information including local variables).  
   
-### To fix by using the following possible solutions  
+### <a name="to-fix-by-using-the-following-possible-solutions"></a>To fix by using the following possible solutions  
   
 1.  Compile with /Fr (browser information without local variables).  
   
 2.  Disable browser output (compile without /FR or /Fr).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

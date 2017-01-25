@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4202b0010acb09a81a7880766a1b128616ea638c
 
 ---
-# Compiler Error C3011
+# <a name="compiler-error-c3011"></a>Compiler Error C3011
 inline assembly not allowed directly within a parallel region  
   
  An `omp` parallel region cannot contain inline assembly instructions.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

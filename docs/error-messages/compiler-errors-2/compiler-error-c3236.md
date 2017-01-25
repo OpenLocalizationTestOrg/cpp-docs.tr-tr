@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c301394dc7c41ea3437e70c9a81fbee30d87ab22
 
 ---
-# Compiler Error C3236
+# <a name="compiler-error-c3236"></a>Compiler Error C3236
 explicit instantiation of a generic is not allowed  
   
  The compiler does not allow explicit instantiation of generic classes.  
@@ -65,6 +65,6 @@ public ref class X {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

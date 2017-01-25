@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 23c6633306bbfea2de1c3cdc2b8e5f19a92f5e5b
 
 ---
-# isatty
+# <a name="isatty"></a>isatty
 This POSIX function is deprecated. Use the ISO C++ conformant [_isatty](../../c-runtime-library/reference/isatty.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

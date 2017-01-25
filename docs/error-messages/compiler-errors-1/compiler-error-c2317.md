@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fd8c411025d3dd7c3d6de5fd118b678bff8e0ac9
 
 ---
-# Compiler Error C2317
+# <a name="compiler-error-c2317"></a>Compiler Error C2317
 'try' block starting on line 'number' has no catch handlers  
   
  A `try` block must have at least one catch handler.  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

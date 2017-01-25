@@ -39,18 +39,18 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bf556489f5f61ec87ca55fcc1b37c518ae948efe
 
 ---
-# Compiler Error C2241
+# <a name="compiler-error-c2241"></a>Compiler Error C2241
 'identifier' : member access is restricted  
   
  Code attempts to access a private or protected member.  
   
-### To fix by using the following possible solutions  
+### <a name="to-fix-by-using-the-following-possible-solutions"></a>To fix by using the following possible solutions  
   
 1.  Change the access level of the member.  
   
 2.  Declare the member a `friend` of the accessing function.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

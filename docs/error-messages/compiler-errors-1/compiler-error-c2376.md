@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 79f7c74b0805ac1fcac3fa3704d2857b798a5d29
 
 ---
-# Compiler Error C2376
+# <a name="compiler-error-c2376"></a>Compiler Error C2376
 'function' : redefinition; different based allocation  
   
  The function is already declared with a different based allocation.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

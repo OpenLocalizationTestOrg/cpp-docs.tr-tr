@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1b2c9b65001da22945eb44b74cd2515221554cd3
 
 ---
-# Compiler Error C3016
+# <a name="compiler-error-c3016"></a>Compiler Error C3016
 'var' : index variable in OpenMP 'for' statement must have signed integral type  
   
  The index variable in an OpenMP `for` statement must be a signed integral type.  
@@ -66,6 +66,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

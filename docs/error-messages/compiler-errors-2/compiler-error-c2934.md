@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ededdac01b36b48b05ce718f4345fe77068cb138
 
 ---
-# Compiler Error C2934
+# <a name="compiler-error-c2934"></a>Compiler Error C2934
 'class' : type-class-id redefined as a nested 'item' of 'identifier'  
   
  You cannot use a generic or template class as a nested item.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

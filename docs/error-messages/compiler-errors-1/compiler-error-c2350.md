@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 012e9142dd4aede4090e829c10ca77c680d7691f
 
 ---
-# Compiler Error C2350
+# <a name="compiler-error-c2350"></a>Compiler Error C2350
 'identifier' is not a static member  
   
  Nonstatic members of a class or structure cannot be defined.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

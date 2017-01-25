@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cf2d44f87dccc2c39a1b1a0f13a79926bc1c9717
 
 ---
-# Compiler Error C3460
+# <a name="compiler-error-c3460"></a>Compiler Error C3460
 'type': only a user-defined type can be forwarded  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -53,7 +53,7 @@ ms.openlocfilehash: cf2d44f87dccc2c39a1b1a0f13a79926bc1c9717
 public ref class R {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3460.  
   
 ```  
@@ -65,6 +65,6 @@ public ref class R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

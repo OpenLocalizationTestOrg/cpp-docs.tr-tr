@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: bdd58df09fbe0c4d442bca5d981d4d8e6b7da6f4
 
 ---
-# Compiler Warning (level 1) C4087
+# <a name="compiler-warning-level-1-c4087"></a>Compiler Warning (level 1) C4087
 'function' : declared with 'void' parameter list  
   
  The function declaration has no formal parameters, but the function call has actual parameters. Extra parameters are passed according to the calling convention of the function.  
   
  This warning is for the C compiler.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4087.c  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

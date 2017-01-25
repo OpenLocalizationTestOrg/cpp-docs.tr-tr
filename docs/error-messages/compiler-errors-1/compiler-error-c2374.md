@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c836e773d41a6dc1a9dc6359dff1a08f088a1f5d
 
 ---
-# Compiler Error C2374
+# <a name="compiler-error-c2374"></a>Compiler Error C2374
 'identifier' : redefinition; multiple initialization  
   
  The identifier is initialized more than once.  
@@ -55,6 +55,6 @@ int j = 1;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

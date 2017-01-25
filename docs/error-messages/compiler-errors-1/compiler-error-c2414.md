@@ -39,16 +39,16 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6c9fdb6fbacce97cc967b9f10f4c9550f6958400
 
 ---
-# Compiler Error C2414
+# <a name="compiler-error-c2414"></a>Compiler Error C2414
 illegal number of operands  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  The opcode does not support the number of operands used. Check an assembly-language reference manual to determine the correct number of operands.  
   
 2.  A newer processor supports the instruction with a different number of operands. Adjust the [/arch (Minimum CPU Architecture)](../../build/reference/arch-minimum-cpu-architecture.md) option to use the later processor.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

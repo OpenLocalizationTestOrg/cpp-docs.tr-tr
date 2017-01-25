@@ -39,14 +39,14 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 8f7a25ee2cb8b36c8e56edf4edb2bf152d6bfd9e
 
 ---
-# Compiler Error C3421
+# <a name="compiler-error-c3421"></a>Compiler Error C3421
 'type' : you cannot call the finalizer for this class as it is either inaccessible or it does not exist  
   
  A finalizer is implicitly private, so it cannot be called from outside its enclosing type.  
   
  For more information, see [Destructors and finalizers in How to: Define and consume classes and structs (C++/CLI)](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3421.  
   
 ```  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

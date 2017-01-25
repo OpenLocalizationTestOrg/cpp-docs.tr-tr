@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fa25da8a402607b4128ca4b90d3e3e6ed9074cfb
 
 ---
-# Compiler Error C2181
+# <a name="compiler-error-c2181"></a>Compiler Error C2181
 illegal else without matching if  
   
  Each `else` must have a matching `if`.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

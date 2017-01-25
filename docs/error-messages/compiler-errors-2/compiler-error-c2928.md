@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cda04e73987f8b5bbe6ddb0f63f7b5d4c4fb00a1
 
 ---
-# Compiler Error C2928
+# <a name="compiler-error-c2928"></a>Compiler Error C2928
 explicit instantiation; 'identifier' is not a function or static data member of template-class 'class'  
   
  You cannot explicitly instantiate a member of `class` that is not a function or `static` variable.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a8eac43fd6f8f94567e3317f0d246638b61ca5cc
 
 ---
-# Compiler Warning (level 1) C4807
+# <a name="compiler-warning-level-1-c4807"></a>Compiler Warning (level 1) C4807
 'operation' : unsafe mix of type 'type' and signed bitfield of type 'type'  
   
  This warning is generated when comparing a one-bit signed bit field to a `bool` variable. Because a one-bit, signed bit field can only contain the values -1 or 0, it is dangerous to compare it to `bool`. No warnings are generated about mixing `bool` and one-bit, unsigned bitfields since they are identical to `bool` and can only hold 0 or 1.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4807:  
   
 ```  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

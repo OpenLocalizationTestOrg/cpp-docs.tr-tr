@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d4bae05574324b204d5bf8ef6e439167c23b81a9
 
 ---
-# Compiler Error C2204
+# <a name="compiler-error-c2204"></a>Compiler Error C2204
 'type' : type definition found within parentheses  
   
  The type is defined as an operand or in prototype scope.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

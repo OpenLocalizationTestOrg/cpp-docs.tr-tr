@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ac5c4e6950b8887d6b9cf00d1a95b5241c9e829f
 
 ---
-# Compiler Error C2557
+# <a name="compiler-error-c2557"></a>Compiler Error C2557
 'identifier' : private and protected members cannot be initialized without a constructor  
   
  Only members and friends can assign a value to a private or protected member. Nonpublic members should be initialized in the class constructor.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

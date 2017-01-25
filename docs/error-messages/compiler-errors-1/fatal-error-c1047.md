@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5b23d0dd38806e613f0066002cc73b143956225c
 
 ---
-# Fatal Error C1047
+# <a name="fatal-error-c1047"></a>Fatal Error C1047
 The object or library file 'file' was created with an older compiler than other objects; rebuild old objects and libraries  
   
  C1047 is caused when object files or libraries built with **/LTCG** are linked together, but where those object files or libraries are built with different versions of the Visual C++ toolset.  
@@ -49,6 +49,6 @@ The object or library file 'file' was created with an older compiler than other 
  To resolve C1047, rebuild all object files or libraries.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

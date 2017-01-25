@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cd6bac405f7b06ccac920d61b35dae37571d65c8
 
 ---
-# Compiler Error C3287
+# <a name="compiler-error-c3287"></a>Compiler Error C3287
 the type 'type' (return type of GetEnumerator) must have a suitable public MoveNext member function and public Current property  
   
  User-defined collection classes must contain definitions for `MoveNext` and `Current`.  
   
  See [How to: Iterate Over a User-Defined Collection with for each](../../dotnet/how-to-iterate-over-a-user-defined-collection-with-for-each.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3287.  
   
 ```  
@@ -89,6 +89,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ac375b85d926169d3ba8b4c63880e3ff6eb7d007
 
 ---
-# Compiler Error C3455
+# <a name="compiler-error-c3455"></a>Compiler Error C3455
 'attribute': none of the attribute constructors matched the arguments  
   
  An invalid value was used to declare an attribute.  See [attribute](../../windows/attribute.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3455.  
   
 ```  
@@ -61,6 +61,6 @@ ref struct MyAttr {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

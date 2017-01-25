@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 88eb849cff4eb32db7f7355b276eaefbc7a49ffd
 
 ---
-# Compiler Error C3385
+# <a name="compiler-error-c3385"></a>Compiler Error C3385
 'class::function' : a function that has a DllImport Custom attribute cannot return an instance of a class  
   
  A function defined as being in a .dll file specified with the `DllImport` attribute cannot return an instance of a class.  
@@ -62,6 +62,6 @@ public ref struct Wrap {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9bdd82fa8af900f818c68d6d217f18d3a9583f68
 
 ---
-# Compiler Error C2177
+# <a name="compiler-error-c2177"></a>Compiler Error C2177
 constant too big  
   
  A constant value is too large for the variable type it is assigned.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

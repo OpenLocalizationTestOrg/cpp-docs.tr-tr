@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 02b0a1f9a337edcd77897f17e6bb0dad9ba2c332
 
 ---
-# Compiler Error C2320
+# <a name="compiler-error-c2320"></a>Compiler Error C2320
 expected ':' to follow access specifier 'specifier'  
   
  The keyword `public`, `protected`, or `private` must be followed by a colon.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

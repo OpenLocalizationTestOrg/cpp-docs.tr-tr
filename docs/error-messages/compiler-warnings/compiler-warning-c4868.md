@@ -23,7 +23,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 26031e1ac6f39d745a772e1becf3f817213a59d8
 
 ---
-# Compiler Warning C4868
+# <a name="compiler-warning-c4868"></a>Compiler Warning C4868
 'file(line_number)' compiler may not enforce left-to-right evaluation order in braced initializer list  
   
  The elements of a braced initializer list are to be evaluated in left-to-right order. There are two cases in which the compiler is unable to guarantee this order: the first is when some of the elements are objects passed by value; the second is  when compiling with `/clr` and some of the elements are fields of objects or are array elements. When the compiler can't guarantee left-to-right evaluation it emits warning C4868.  
@@ -36,7 +36,7 @@ ms.openlocfilehash: 26031e1ac6f39d745a772e1becf3f817213a59d8
   
  If the order of evaluation must be left-to-right, consider if it's possible to pass the elements by (const) reference instead. A change such as this eliminates the warning in the following code sample.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4868.  
   
 ```  
@@ -78,6 +78,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

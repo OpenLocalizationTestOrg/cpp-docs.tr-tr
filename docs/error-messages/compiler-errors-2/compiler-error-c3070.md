@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8b310cd69f1c8102b4317a15cf2b073760477032
 
 ---
-# Compiler Error C3070
+# <a name="compiler-error-c3070"></a>Compiler Error C3070
 'property': property does not have a 'set' method  
   
  A property's set accessor method was not defined. For more information, see [property](../../windows/property-cpp-component-extensions.md).  
@@ -90,6 +90,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: aac572ff02f999b695416363edda1c8cea40e834
 
 ---
-# Compiler Error C2028
+# <a name="compiler-error-c2028"></a>Compiler Error C2028
 struct/union member must be inside a struct/union  
   
  Structure or union members must be declared within the structure or union.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

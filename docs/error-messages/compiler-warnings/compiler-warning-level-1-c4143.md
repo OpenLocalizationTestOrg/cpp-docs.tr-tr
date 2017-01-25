@@ -40,12 +40,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2f28de0ee7f2155e9827cf86aa294f8c5182aa3e
 
 ---
-# Compiler Warning (level 1) C4143
+# <a name="compiler-warning-level-1-c4143"></a>Compiler Warning (level 1) C4143
 pragma 'same_seg' not supported; use __based allocation  
   
  The **#pragma same_seg** is no longer supported. Use the [__based](../../cpp/based-pointers-cpp.md) keyword instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

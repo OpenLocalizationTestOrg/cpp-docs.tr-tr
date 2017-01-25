@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 45288d0b3c2d51ed355bf948874da3f97ced6d4f
 
 ---
-# Compiler Error C2157
+# <a name="compiler-error-c2157"></a>Compiler Error C2157
 'function' : must be declared before use in pragma list  
   
  The function name is not declared before being referenced in the list of functions for an [alloc_text](../../preprocessor/alloc-text.md) pragma.  
@@ -57,6 +57,6 @@ extern "C" void func();
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 73a52a016c432df91ccb0cec55c30653ee398d86
 
 ---
-# Compiler Error C2709
+# <a name="compiler-error-c2709"></a>Compiler Error C2709
 'identifier' : formal parameter's length in bytes differs from previous declaration  
   
  The signature in a call to the specified function differs from the prototype.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

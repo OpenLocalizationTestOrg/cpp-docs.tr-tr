@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 86308db486fd4618bb01f9ab10231935a25e9ffd
 
 ---
-# rmdir
+# <a name="rmdir"></a>rmdir
 This POSIX function is deprecated. Use the ISO C++ conformant [_rmdir](../../c-runtime-library/reference/rmdir-wrmdir.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

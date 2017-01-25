@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 125b70aea5dc0f0ed097338a387c98f45575aaba
 
 ---
-# Compiler Error C3397
+# <a name="compiler-error-c3397"></a>Compiler Error C3397
 Aggregate initialization is not allowed in default arguments  
   
  An array was declared incorrectly.  See [Arrays](../../windows/arrays-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3397.  
   
 ```  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

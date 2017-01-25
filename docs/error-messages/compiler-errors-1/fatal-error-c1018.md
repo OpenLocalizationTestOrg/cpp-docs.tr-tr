@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e03ac2cee42522f4b546e6c5c3753733cf833192
 
 ---
-# Fatal Error C1018
+# <a name="fatal-error-c1018"></a>Fatal Error C1018
 unexpected #elif  
   
  The `#elif` directive appears outside an `#if`, `#ifdef`, or `#ifndef` construct. Use `#elif` only within one of these constructs.  
@@ -66,6 +66,6 @@ int main() {}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

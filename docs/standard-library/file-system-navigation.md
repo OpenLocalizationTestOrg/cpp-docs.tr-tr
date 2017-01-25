@@ -35,10 +35,10 @@ ms.sourcegitcommit: 85c900f2263ae1c1089478badc85388e3b5e8548
 ms.openlocfilehash: f1fd47b22c11b7de3f4644942ea5dcba8b9424b3
 
 ---
-# File System Navigation
+# <a name="file-system-navigation"></a>File System Navigation
 The \<filesystem> header implements the C++ File System Technical Specification ISO/IEC TS 18822:2015 (Final draft: [ISO/IEC JTC 1/SC 22/WG 21 N4100](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4100.pdf)) and has types and functions that enable you to write platform-independent code for navigating the file system. Because it is cross-platform, it contains APIs that are not relevant for Windows systems. For example, this means that `is_fifo(const path&)` always returns `false` on Windows. The header is based on a draft Technical Specification that was not voted into the C++17 standard as of Visual Studio 2015 RTM. Its members are found in the `std::experimental::filesystem` namespace.  
   
-## Overview  
+## <a name="overview"></a>Overview  
  Use the \<filesystem> APIs for the following tasks:  
   
 -   iterate over files and directories under a specified path  
@@ -53,9 +53,9 @@ The \<filesystem> header implements the C++ File System Technical Specification 
   
  For more information about File IO using the Standard Library, see [iostream Programming](../standard-library/iostream-programming.md).  
   
-## Paths  
+## <a name="paths"></a>Paths  
   
-### Constructing and composing paths  
+### <a name="constructing-and-composing-paths"></a>Constructing and composing paths  
  Paths in Windows (since XP) are stored natively in Unicode. The [path](../standard-library/path-class.md) class automatically performs all necessary string conversions. It accepts arguments of both wide and narrow character arrays, as well as `std::string` and `std::wstring` types formatted as UTF8 or UTF16. The `path` class also automatically normalizes path separators. You can use a single forward slash as a directory separator in constructor arguments. This enables you to use the same strings to store paths in both Windows and UNIX environments:  
   
 ```cpp  
@@ -81,7 +81,7 @@ myRoot /= path("SubDirRoot");
 // C:/FileSystemTest/SubDirRoot  
 ```  
   
-### Examining paths  
+### <a name="examining-paths"></a>Examining paths  
  The path class has several methods that return information about various parts of the path itself, as distinct from the file system entity it might refer to. You can get the root, the relative path, the file name, the file extension, and more. You can iterate over a path object to examine all the folders in the hierarchy. The following example shows how to iterate over a path (not the directory it refers to), and to retrieve information about its parts.  
   
 ```cpp  
@@ -148,7 +148,7 @@ stem() = File2
 extension() = .txt  
 ```  
   
-### Comparing paths  
+### <a name="comparing-paths"></a>Comparing paths  
  The `path` class overloads the same comparison operators as `std::string` and `std::wstring`. When you compare two paths, you are performing a string comparison after the separators have been normalized. If a trailing slash (or backslash) is missing it is not added and affects the comparison. The following example demonstrates how path values compare:  
   
 ```cpp  
@@ -194,7 +194,7 @@ C:\Documents\2014\ <D:\Documents\2013\Reports\: true
   
  To run this code, paste it into the full example above and uncomment the line that calls it in main.  
   
-### Converting between path and string types  
+### <a name="converting-between-path-and-string-types"></a>Converting between path and string types  
  A `path` object is implicitly convertible to `std::wstring` or `std::string`. This means you can pass a path to functions such as [wofstream::open](../standard-library/basic-ofstream-class.md#basic_ofstream__open), as shown in this example:  
   
 ```cpp  
@@ -210,13 +210,13 @@ wchar_t* p = L"C:/test";
     myFile.close 
 ```  
   
-## Iterating directories and files  
+## <a name="iterating-directories-and-files"></a>Iterating directories and files  
  The \<filesystem> header provides the [directory_iterator](../standard-library/directory-iterator-class.md) type to iterate over single directories, and the [recursive_directory_iterator](../standard-library/recursive-directory-iterator-class.md) class to iterate recursively over a directory and its subdirectories. After you construct an iterator by passing it a `path` object, the iterator points to the first directory_entry in the path. Create the end iterator by calling the default constructor.  
   
  When iterating through a directory, there are several kinds of items you might encounter, including but not limited to directories, files, symbolic links, and socket files. The `directory_iterator` returns its items as [directory_entry](../standard-library/directory-entry-class.md)
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

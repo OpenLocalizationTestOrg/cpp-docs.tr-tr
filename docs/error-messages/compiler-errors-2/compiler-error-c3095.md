@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 81084047cd5bd45b358a76cbfae55e88f0cdd998
 
 ---
-# Compiler Error C3095
+# <a name="compiler-error-c3095"></a>Compiler Error C3095
 'attribute': attribute cannot be repeated  
   
  Some attributes are declared such that, multiple occurrences of the attribute cannot be applied to a target.  
   
  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3095.  
   
 ```  
@@ -78,6 +78,6 @@ ref class B {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

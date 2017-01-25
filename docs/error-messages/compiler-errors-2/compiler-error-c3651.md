@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 91c2528bb922c271f9d607d0de4a7d0c95913022
 
 ---
-# Compiler Error C3651
+# <a name="compiler-error-c3651"></a>Compiler Error C3651
 'member' : cannot be used as an explicit override, must be a member of a base class  
   
  An explicit override was specified, but the function being overridden was in a type that is not a base type.  
@@ -69,6 +69,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6074a5a9828e261dab5484f0244afed7bfefab1f
 
 ---
-# Compiler Error C2013
+# <a name="compiler-error-c2013"></a>Compiler Error C2013
 missing '>'  
   
  An `#include` directive lacks a closing angle bracket. Add the closing bracket to resolve the error.  
@@ -60,6 +60,6 @@ missing '>'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

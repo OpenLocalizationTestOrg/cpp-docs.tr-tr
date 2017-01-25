@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8d47444d2cc59496428f806b4fd478a0f76916b6
 
 ---
-# Compiler Error C3097
+# <a name="compiler-error-c3097"></a>Compiler Error C3097
 'attribute': attribute must be scoped with 'assembly:' or 'module:'  
   
  A global attribute was used incorrectly.  
   
  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3097.  
   
 ```  
@@ -69,6 +69,6 @@ public ref class MyClass {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

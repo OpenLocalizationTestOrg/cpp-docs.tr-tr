@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2b29e9ec659d03cbfa45f04601c2a6bcdfd071f3
 
 ---
-# Compiler Warning (level 4) C4130
+# <a name="compiler-warning-level-4-c4130"></a>Compiler Warning (level 4) C4130
 'operator' : logical operation on address of string constant  
   
  Using the operator with the address of a string literal produces unexpected code.  
@@ -64,6 +64,6 @@ int main()
  To compare strings, use the `strcmp` function.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

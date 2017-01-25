@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3554fdcb999a0588749fe5718b52c1435b0abf97
 
 ---
-# Fatal Error C1037
+# <a name="fatal-error-c1037"></a>Fatal Error C1037
 cannot open object file filename  
   
  The object file specified by [/Fo](../../build/reference/fo-object-file-name.md) cannot be opened.  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  Invalid filename.  
   
@@ -57,6 +57,6 @@ cannot open object file filename
  In Visual C++ .NET (version 1300 of the compiler), there is a bug that requires the user locale to be set correctly when the file name (or directory path to the file name) contains MBCS characters. Setting the system locale is not sufficient; the user locale must be set to process MBCS characters.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

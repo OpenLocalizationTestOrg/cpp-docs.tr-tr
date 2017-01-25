@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 79b2d44cdb55237f190195cd063b34d0b55d7293
 
 ---
-# Compiler Error C3279
+# <a name="compiler-error-c3279"></a>Compiler Error C3279
 partial and explicit specializations as well as explicit instantiations of class templates declared in the cli namespace are disallowed  
   
  The `cli` namespace is defined by Microsoft and contains pseudo-templates. The Visual C++ compiler does not allow user-defined, partial and explicit specializations, and explicit instantiations of class templates in this namespace.  
@@ -56,6 +56,6 @@ namespace cli {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

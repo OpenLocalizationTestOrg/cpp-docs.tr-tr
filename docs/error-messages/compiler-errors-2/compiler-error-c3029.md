@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0476e551f78505381eb7ab1f90233acf7cb670d6
 
 ---
-# Compiler Error C3029
+# <a name="compiler-error-c3029"></a>Compiler Error C3029
 'symbol' : can only appear once in data-sharing clauses in an OpenMP directive  
   
  A symbol was used more than once in one or more clauses in a directive. The symbol can only be used once in the directive.  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

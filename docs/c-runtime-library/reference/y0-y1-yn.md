@@ -60,10 +60,10 @@ ms.sourcegitcommit: cea70fc053d385aad1ded4adf20fe0f8dbc82489
 ms.openlocfilehash: e559ca138f4fc63e1881b72607c9a4637e79bbc2
 
 ---
-# y0, y1, yn
+# <a name="y0-y1-yn"></a>y0, y1, yn
 These POSIX functions are deprecated. Use the ISO C++ conformant [Bessel Functions: _j0, _j1, _jn, _y0, _y1, _yn](../../c-runtime-library/reference/bessel-functions-j0-j1-jn-y0-y1-yn.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

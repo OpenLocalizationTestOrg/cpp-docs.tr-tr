@@ -39,14 +39,14 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 8c7d1df695aa54e350902929ee8ea57be2101058
 
 ---
-# Compiler Error C3367
+# <a name="compiler-error-c3367"></a>Compiler Error C3367
 'static_member_function' : cannot use static function to create an unbound delegate  
   
 When you call an unbound delegate, you must pass an instance of an object. Since a static member function is called through the class name, you can only instantiate an unbound delegate with an instance member function.  
   
 For more information about unbound delegates, see [How to: Define and Use Delegates (C++/CLI)](../../dotnet/how-to-define-and-use-delegates-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3367.  
   
 ```cpp  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

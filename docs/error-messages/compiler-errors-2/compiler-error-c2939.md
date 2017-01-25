@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 23052248db35c29a58fed295792d73a315de8c4a
 
 ---
-# Compiler Error C2939
+# <a name="compiler-error-c2939"></a>Compiler Error C2939
 'class' : type-class-id redefined as a local data variable  
   
  You cannot use a generic or template class as a local data variable.  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

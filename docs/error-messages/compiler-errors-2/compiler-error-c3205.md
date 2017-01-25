@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 368997af54b7fff2d057a8a94dfca86e2eda5762
 
 ---
-# Compiler Error C3205
+# <a name="compiler-error-c3205"></a>Compiler Error C3205
 argument list for template parameter 'parameter' is missing  
   
 A [template](../../cpp/templates-cpp.md) parameter is missing.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3205:  
   
 ```cpp  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

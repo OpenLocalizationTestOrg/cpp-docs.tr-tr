@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b4aa6a641df075dc6599870b2562364e187938ee
 
 ---
-# Compiler Warning (level 4) C4725
+# <a name="compiler-warning-level-4-c4725"></a>Compiler Warning (level 4) C4725
 instruction may be inaccurate on some Pentiums  
   
  Your code contains an inline assembly instruction that may not produce accurate results on some Pentium microprocessors.  
@@ -64,6 +64,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

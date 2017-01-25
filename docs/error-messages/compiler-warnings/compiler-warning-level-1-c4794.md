@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9e929445b378d5307dd2de39c11bf77d07ced9c5
 
 ---
-# Compiler Warning (level 1) C4794
+# <a name="compiler-warning-level-1-c4794"></a>Compiler Warning (level 1) C4794
 segment of thread local storage variable 'variable' changed from 'section name' to '.tls$'  
   
  You used [#pragma data_seg](../../preprocessor/data-seg.md) to put a tls variable in a section not starting with .tls$.  
   
  The .tls$*x* section will exist in the object file where [__declspec(thread)](../../cpp/thread.md) variables are defined. A .tls section in the EXE or DLL will result from these sections.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4794:  
   
 ```  
@@ -61,6 +61,6 @@ __declspec(thread) int j;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

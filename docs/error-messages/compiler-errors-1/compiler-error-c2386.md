@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5e026dc50ab2a58d74512f4da5390c9783dd2939
 
 ---
-# Compiler Error C2386
+# <a name="compiler-error-c2386"></a>Compiler Error C2386
 'symbol' : a symbol with this name already exists in the current scope  
   
  You tried to create a namespace alias, but the name you chose already exists.  
@@ -57,6 +57,6 @@ namespace i = A;   // C2386, i already exists
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

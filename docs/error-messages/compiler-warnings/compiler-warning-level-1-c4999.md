@@ -39,12 +39,12 @@ ms.sourcegitcommit: 6cad5222fb0d97594d5b13b5cf8903eb2934ee88
 ms.openlocfilehash: d538af7b123ee4efff83cf0fe04b883c906a2507
 
 ---
-# Compiler Warning (level 1) C4999
+# <a name="compiler-warning-level-1-c4999"></a>Compiler Warning (level 1) C4999
 UNKNOWN WARNING From the Help menu choose the Technical Support command or open the Technical Support help file for more information  
   
  Note the circumstances of the error, try to isolate the problem and create a reproducible test case, then contact [Microsoft Product Support Services](/visualstudio/ide/talk-to-us).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

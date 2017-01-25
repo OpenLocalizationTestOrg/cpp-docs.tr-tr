@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 41411db4e90c4c4ef756a095240a3a8840368893
 
 ---
-# Compiler Error C3371
+# <a name="compiler-error-c3371"></a>Compiler Error C3371
 'idl_module': only the 'name' property is allowed here  
   
  [idl_module](../../windows/idl-module.md) usage directly on a function declaration cannot have any parameters other than name.  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

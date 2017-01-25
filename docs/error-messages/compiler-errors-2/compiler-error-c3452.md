@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1f39a9182f15b2814235877038068f9f13838c11
 
 ---
-# Compiler Error C3452
+# <a name="compiler-error-c3452"></a>Compiler Error C3452
 list argument member not constant  
   
  An argument was passed to an attribute that expected a constant, a value that can be evaluated at compile time.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3452.  
   
 ```  
@@ -57,6 +57,6 @@ int i;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4ea4b6bd34661b95394fa588f17eb4a0c06c15be
 
 ---
-# Compiler Error C3043
+# <a name="compiler-error-c3043"></a>Compiler Error C3043
 OpenMP 'critical' directive cannot be nested in 'critical' directive with same name  
   
  A [critical](../../parallel/openmp/reference/critical.md) directive cannot be nested in a `critical` directive that uses the same name.  
@@ -74,6 +74,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

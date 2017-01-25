@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1a1eb626acf283c6e934bb1f0c6c5bdb28485c94
 
 ---
-# Compiler Error C3665
+# <a name="compiler-error-c3665"></a>Compiler Error C3665
 'destructor' : override specifier 'keyword' not allowed on a destructor/finalizer  
   
  A keyword was used that is not allowed on a destructor or finalizer.  
@@ -63,6 +63,6 @@ public ref struct S : R {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

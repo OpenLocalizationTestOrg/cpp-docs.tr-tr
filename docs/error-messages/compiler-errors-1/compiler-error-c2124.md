@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 613a0452428ab8ed26ea52f526c0afd30e12350a
 
 ---
-# Compiler Error C2124
+# <a name="compiler-error-c2124"></a>Compiler Error C2124
 divide or mod by zero  
   
  A constant expression has a zero denominator. To resolve the error, do not divide by zero.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

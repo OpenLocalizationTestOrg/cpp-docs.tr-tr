@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d9aff323a1c00edb6646a6cd4b6125cc69a9418f
 
 ---
-# Compiler Error C3038
+# <a name="compiler-error-c3038"></a>Compiler Error C3038
 'var' : variable in 'private' clause cannot be a reduction variable in enclosing context  
   
  Variables that appear in the [reduction](../../parallel/openmp/reference/reduction.md) clause of a parallel directive cannot be specified in a [private](../../parallel/openmp/reference/private-openmp.md) clause on a work-sharing directive that binds to the parallel construct.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

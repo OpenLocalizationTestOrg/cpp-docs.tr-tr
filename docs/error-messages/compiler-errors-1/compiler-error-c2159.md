@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 166a4295171190176ebbe30e5fab3bd4761ffd3b
 
 ---
-# Compiler Error C2159
+# <a name="compiler-error-c2159"></a>Compiler Error C2159
 more than one storage class specified  
   
  A declaration contains more than one storage class.  
@@ -54,6 +54,6 @@ extern static int i;   // C2159
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 36f75f16fce5eac275bf3de5e847a7c1ce49b7ea
 
 ---
-# Compiler Error C2047
+# <a name="compiler-error-c2047"></a>Compiler Error C2047
 illegal default  
   
  The keyword `default` can appear only in a `switch` statement.  
@@ -74,6 +74,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

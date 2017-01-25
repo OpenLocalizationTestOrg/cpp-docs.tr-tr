@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 773bd08a6a1b8791fbb55ef7a74766d410aa85d9
 
 ---
-# Compiler Warning (level 4) C4932
+# <a name="compiler-warning-level-4-c4932"></a>Compiler Warning (level 4) C4932
 __identifier(identifier) and \__identifier(identifier) are indistinguishable  
   
  The compiler is unable to distinguish between **_finally** and `__finally` or `__try` and **_try** as a parameter passed to [__identifier](../../windows/identifier-cpp-cli.md). You should not attempt to use them both as identifiers in the same program, as it will result in a [C2374](../../error-messages/compiler-errors-1/compiler-error-c2374.md) error.  
@@ -56,6 +56,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

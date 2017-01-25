@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4ac56f3dc083c77b39c086c906faef3dc28c5a69
 
 ---
-# Fatal Error C1086
+# <a name="fatal-error-c1086"></a>Fatal Error C1086
 Cannot seek filetype file: 'file': message  
   
  The compiler cannot complete an I/O operation.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

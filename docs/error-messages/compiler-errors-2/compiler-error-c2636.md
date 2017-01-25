@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4b8cec991868b3b5af88c42ab9e14a6ce0ca8c76
 
 ---
-# Compiler Error C2636
+# <a name="compiler-error-c2636"></a>Compiler Error C2636
 'identifier' : pointer to reference member is illegal  
   
  A pointer to a reference member was declared.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

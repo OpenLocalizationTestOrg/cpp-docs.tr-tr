@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7ba778957aa0e4a33cf8f03e78de550f54327b3e
 
 ---
-# Compiler Error C2074
+# <a name="compiler-error-c2074"></a>Compiler Error C2074
 'identifier' : 'class-key' initialization needs curly braces  
   
  There were no curly braces around the specified class, structure, or union initializer.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

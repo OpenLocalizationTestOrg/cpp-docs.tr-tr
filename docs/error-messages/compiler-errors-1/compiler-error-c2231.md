@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b6afdcd1ad563f3bc258c68d61254c3621077ea1
 
 ---
-# Compiler Error C2231
+# <a name="compiler-error-c2231"></a>Compiler Error C2231
 '.' : left operand points to 'class-key', use '–>'  
   
  The operand to the left of the member-selection operation (.) is a pointer instead of a class, structure, or union.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

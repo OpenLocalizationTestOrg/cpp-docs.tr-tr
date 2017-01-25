@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1923e8ef0f3c35b7cba0deed33191969d1e8abc0
 
 ---
-# Fatal Error C1108
+# <a name="fatal-error-c1108"></a>Fatal Error C1108
 unable to find DLL: 'dll'  
   
  The specified DLL (***dll***) could not be found in the path.  
@@ -47,6 +47,6 @@ unable to find DLL: 'dll'
  To resolve this error, reinstall Visual C++ or copy the appropriate .dll file from the installation CD to your computer.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

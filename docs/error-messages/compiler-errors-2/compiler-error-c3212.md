@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 796665c4e15bfd70e79c79aac1df1c0edc523b1f
 
 ---
-# Compiler Error C3212
+# <a name="compiler-error-c3212"></a>Compiler Error C3212
 'specialization' : an explicit specialization of a template member must be a member of an explicit specialization  
   
  An explicit specialization was ill formed.  
@@ -81,6 +81,6 @@ struct S<int>::S1<int> {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

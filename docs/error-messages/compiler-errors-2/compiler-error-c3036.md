@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d59948ea752891a6874aeae4af1723df97f3cb28
 
 ---
-# Compiler Error C3036
+# <a name="compiler-error-c3036"></a>Compiler Error C3036
 'operator' : invalid operator token in OpenMP 'reduction' clause  
   
  A [reduction](../../parallel/openmp/reference/reduction.md) clause was not specified correctly.  
@@ -61,6 +61,6 @@ void test1(int first, int last) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

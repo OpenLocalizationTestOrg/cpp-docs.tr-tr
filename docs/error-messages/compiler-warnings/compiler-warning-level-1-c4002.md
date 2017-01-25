@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 983935ef0e48f94cee3ff08186f27502ea48a7d7
 
 ---
-# Compiler Warning (level 1) C4002
+# <a name="compiler-warning-level-1-c4002"></a>Compiler Warning (level 1) C4002
 too many actual parameters for macro 'identifier'  
   
  The number of actual parameters in the macro exceeds the number of formal parameters in the macro definition. The preprocessor collects the extra parameters but ignores them during macro expansion.  
@@ -79,6 +79,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

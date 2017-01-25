@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 34cccdb5c07a08e35fc8f6c1f6d36ff190f8118a
 
 ---
-# Compiler Error C2977
+# <a name="compiler-error-c2977"></a>Compiler Error C2977
 'identifier' : too many type arguments  
   
  A generic or template has too many actual arguments. Check the generic or template declaration to find the correct number of parameters.  
@@ -80,6 +80,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

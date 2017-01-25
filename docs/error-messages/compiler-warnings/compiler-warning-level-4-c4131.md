@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4bc0d1262026998e79e365e9d47fba0186636f00
 
 ---
-# Compiler Warning (level 4) C4131
+# <a name="compiler-warning-level-4-c4131"></a>Compiler Warning (level 4) C4131
 'function' : uses old-style declarator  
   
  The specified function declaration is not in prototype form.  
@@ -65,6 +65,6 @@ void addrec( char *name, int id )
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

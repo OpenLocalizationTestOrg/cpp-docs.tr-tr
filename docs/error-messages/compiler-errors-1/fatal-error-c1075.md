@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: dbeffccb4b073b0471c3f478e6b4abdbe5726580
 
 ---
-# Fatal Error C1075
+# <a name="fatal-error-c1075"></a>Fatal Error C1075
 the left token was unmatched at the end of the file  
   
  The compiler expected matching *token* before it reached the end of file.  
@@ -47,6 +47,6 @@ the left token was unmatched at the end of the file
  This error can be caused by an unmatched bracket, brace, or other paired character.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

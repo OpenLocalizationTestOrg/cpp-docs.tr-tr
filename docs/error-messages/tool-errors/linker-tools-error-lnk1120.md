@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 91931be0b2f7d47533a3dca2c28183232ffe2d41
 
 ---
-# Linker Tools Error LNK1120
+# <a name="linker-tools-error-lnk1120"></a>Linker Tools Error LNK1120
 number unresolved externals  
   
  Error LNK1120 gives you a count (`number`) of unresolved externals for this link operation. The conditions that cause unresolved externals are described with error [LNK2001](../../error-messages/tool-errors/linker-tools-error-lnk2001.md), which precedes this error message, once for each unresolved external.  
@@ -47,6 +47,6 @@ number unresolved externals
  To resolve this error, correct all of the LNK2001 errors that precede it in the build output. For more information, see [Linker Tools Error LNK2001](../../error-messages/tool-errors/linker-tools-error-lnk2001.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

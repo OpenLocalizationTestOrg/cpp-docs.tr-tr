@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7696ff2ce82b97f176ef4139b179441de34d8430
 
 ---
-# access (CRT)
+# <a name="access-crt"></a>access (CRT)
 This POSIX function is deprecated. Use the ISO C++ conformant [_access](../../c-runtime-library/reference/access-waccess.md) or security-enhanced [_access_s](../../c-runtime-library/reference/access-s-waccess-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

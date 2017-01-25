@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ab93ebc874c40b0be93d7fe0ed67fb2948a3bc6b
 
 ---
-# Compiler Error C2368
+# <a name="compiler-error-c2368"></a>Compiler Error C2368
 'identifier' : redefinition; different allocation specifiers  
   
  The declaration and definition of the symbol specify different `__declspec` attributes.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

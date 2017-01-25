@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 37c3d99a912fbd6ab001ef40972057c9985c02ab
 
 ---
-# Compiler Warning (level 1) C4185
+# <a name="compiler-warning-level-1-c4185"></a>Compiler Warning (level 1) C4185
 ignoring unknown #import attribute 'attribute'  
   
  The attribute is not a valid attribute of `#import`. It is ignored.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4185.cpp  
@@ -53,6 +53,6 @@ ignoring unknown #import attribute 'attribute'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

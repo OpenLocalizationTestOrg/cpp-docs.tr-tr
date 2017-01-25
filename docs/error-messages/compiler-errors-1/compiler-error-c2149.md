@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6c1b6422ae01f77729fba3a4d6c39df0257a9c8c
 
 ---
-# Compiler Error C2149
+# <a name="compiler-error-c2149"></a>Compiler Error C2149
 'identifier' : named bit field cannot have zero width  
   
  Bit fields can have zero width only if unnamed.  
@@ -56,6 +56,6 @@ struct C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

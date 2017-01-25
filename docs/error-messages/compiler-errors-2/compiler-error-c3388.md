@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 730f22acacd6cee7841c622bb27ef09d47c20f00
 
 ---
-# Compiler Error C3388
+# <a name="compiler-error-c3388"></a>Compiler Error C3388
 'type' : not allowed as a constraint, assuming 'ref class' to continue parsing  
   
  A constraint was specified on a generic type, but the constraint was not specified correctly. See [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3388.  
   
 ```  
@@ -63,6 +63,6 @@ ref class D {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

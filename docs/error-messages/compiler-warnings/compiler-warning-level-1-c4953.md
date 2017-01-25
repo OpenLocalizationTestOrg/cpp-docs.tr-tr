@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: be8e32bd07da47d79e974d979eb19466c5b19416
 
 ---
-# Compiler Warning (level 1) C4953
+# <a name="compiler-warning-level-1-c4953"></a>Compiler Warning (level 1) C4953
 Inlinee 'function' has been edited since profile data was collected, profile data not used  
   
  When using [/LTCG:PGUPDATE](../../build/reference/ltcg-link-time-code-generation.md), the compiler detected an input module that was recompiled after `/LTCG:PGINSTRUMENT` and has a function (***function***) that was edited and where existing test runs identified the function as a candidate for inlining. However, as a result of recompiling the module, the function will no longer be a candidate for inlining.  
@@ -49,6 +49,6 @@ Inlinee 'function' has been edited since profile data was collected, profile dat
  This warning would be replaced with an error if `/LTCG:PGOPTIMIZE` had been used.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

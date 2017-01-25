@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 294335656366b3c3ee1be990ccd97002ccf48f7b
 
 ---
-# Compiler Error C2113
+# <a name="compiler-error-c2113"></a>Compiler Error C2113
 '-' : pointer can only be subtracted from another pointer  
   
  The right operand in a subtraction operation was a pointer, but the left operand was not.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

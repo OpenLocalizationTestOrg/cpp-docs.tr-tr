@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8583c793d7511e354b9a32864b8b6a41f830f273
 
 ---
-# Compiler Warning (level 1) C4155
+# <a name="compiler-warning-level-1-c4155"></a>Compiler Warning (level 1) C4155
 deletion of an array expression without using the array form of 'delete'  
   
  The array form of **delete** should be used to delete an array. This warning occurs only under ANSI-compatibility (/Za).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4155:  
   
 ```  
@@ -66,6 +66,6 @@ int main(void)
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 7af83ef00419f4eacadd8801259204bd33ede5fc
 
 ---
-# Compiler Error C3418
+# <a name="compiler-error-c3418"></a>Compiler Error C3418
 access specifier 'specifier' is not supported  
   
 A CLR access specifier was specified incorrectly.  For more information, see Type visibility and Member visibility in [How to: Define and Consume Classes and Structs (C++/CLI)](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C3418.  
   
 ```cpp  
@@ -62,6 +62,6 @@ internal:   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

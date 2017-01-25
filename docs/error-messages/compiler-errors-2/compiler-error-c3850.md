@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 24dc7cef2205aac4e9ab4001127b6fefc3256b6e
 
 ---
-# Compiler Error C3850
+# <a name="compiler-error-c3850"></a>Compiler Error C3850
 'char': a universal-character-name specifies an invalid character  
   
  Characters represented as universal character names must represent valid Unicode code points in the range 0-10FFFF. A universal character name cannot contain a value in the Unicode surrogate range, D800-DFFF, or an encoded surrogate pair. The compiler generates the surrogate pair from a valid code point automatically.  
@@ -48,7 +48,7 @@ ms.openlocfilehash: 24dc7cef2205aac4e9ab4001127b6fefc3256b6e
   
  In code compiled as C++, a universal character name may use any valid Unicode code point in a string or character literal. Outside of a literal, a universal character name may not represent a control character in the ranges 0000-001F or 007F-009F, both inclusive, or a member of the basic source character set.  For more information, see [Character Sets](../../cpp/character-sets2.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3850, and shows how to fix it:  
   
 ```cpp  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

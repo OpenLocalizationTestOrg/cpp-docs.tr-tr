@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 274f91fc147e39c9aa2121f20e85945759742a35
 
 ---
-# Compiler Warning C4961
+# <a name="compiler-warning-c4961"></a>Compiler Warning C4961
 No profile data was merged into '.pgd file', profile-guided optimizations disabled  
   
  No profile data (.pgc files) were available, so profile-guided optimizations cannot take place.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

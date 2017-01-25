@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b5b6c2a2a040f419edee39e10c54362771d9ad65
 
 ---
-# Compiler Warning (level 4) C4238
+# <a name="compiler-warning-level-4-c4238"></a>Compiler Warning (level 4) C4238
 nonstandard extension used : class rvalue used as lvalue  
   
  For compatibility with previous versions of Visual C++, Microsoft extensions (**/Ze**) allow you to use a class type as an rvalue in a context that implicitly or explicitly takes its address. In some cases, such as the example below, this can be dangerous.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4238.cpp  
@@ -59,6 +59,6 @@ C * pC = &C();   // C4238
  This usage causes an error under ANSI compatibility ([/Za](../../build/reference/za-ze-disable-language-extensions.md)).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

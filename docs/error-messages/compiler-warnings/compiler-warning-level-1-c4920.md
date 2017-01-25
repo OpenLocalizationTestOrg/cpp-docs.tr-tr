@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d492bf7abb90ec0b842a9f2e51ee6b91a0768d9a
 
 ---
-# Compiler Warning (level 1) C4920
+# <a name="compiler-warning-level-1-c4920"></a>Compiler Warning (level 1) C4920
 enum enum member member=value already seen in enum enum as member=value  
   
  If a .tlb that you pass to #import has the same symbol defined in two or more enums, this warning indicates that subsequent identical symbols are ignored and will be commented out in the .tlh file.  
@@ -71,6 +71,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e1702502d012f11c66d10fe41b57f2be0a0031de
 
 ---
-# Compiler Error C2917
+# <a name="compiler-error-c2917"></a>Compiler Error C2917
 'name' : invalid template-parameter  
   
  A template parameter list contains an identifier that was not a template parameter.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2917.  
   
 ```  
@@ -60,6 +60,6 @@ template<class T*> void Vector<T>::sort() {}   // C2917
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

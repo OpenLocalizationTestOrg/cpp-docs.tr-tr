@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ccaf8fc49d843978d7bafd85fd4f5a8d31054a70
 
 ---
-# Compiler Error C2043
+# <a name="compiler-error-c2043"></a>Compiler Error C2043
 illegal break  
   
  A [break](../../cpp/break-statement-cpp.md) is legal only within a `do`, `for`, `while`, or `switch` statement.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

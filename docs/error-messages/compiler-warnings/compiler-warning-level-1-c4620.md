@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 15234d1d74954dad0989c454171a2d1ea8cc9efc
 
 ---
-# Compiler Warning (level 1) C4620
+# <a name="compiler-warning-level-1-c4620"></a>Compiler Warning (level 1) C4620
 no postfix form of 'operator ++' found for type 'type', using prefix form  
   
  There is no postfix increment operator defined for the given type. The compiler used the overloaded prefix operator.  
@@ -82,6 +82,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

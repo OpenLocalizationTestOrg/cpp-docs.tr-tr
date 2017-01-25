@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ed8ef921c567fa97cc6f0fd98327e91df73be9d6
 
 ---
-# Compiler Warning (level 1) C4120
+# <a name="compiler-warning-level-1-c4120"></a>Compiler Warning (level 1) C4120
 based/unbased mismatch  
   
  The compiler cannot convert between the two pointers because one is based and the other is not.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

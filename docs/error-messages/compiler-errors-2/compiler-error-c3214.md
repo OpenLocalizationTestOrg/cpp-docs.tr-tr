@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8f5398ac0985fbb991957a9a2b2bea9b98abd812
 
 ---
-# Compiler Error C3214
+# <a name="compiler-error-c3214"></a>Compiler Error C3214
 'type' : invalid type argument for generic parameter 'param' of generic 'generic_type', does not meet constraint 'constraint'  
   
  The type was specified for an instantiation of a generic class that does not meet the generic class's constraint.  
@@ -64,6 +64,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

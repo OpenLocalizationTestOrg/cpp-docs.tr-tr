@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: edea758c567f74202c12f7ee1391fb3f12faa980
 
 ---
-# Compiler Error C3467
+# <a name="compiler-error-c3467"></a>Compiler Error C3467
 'type' : this type has already been forwarded  
   
  The compiler found more than one forward type declaration for the same type. Only one declaration per type is allowed.  
   
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component.  
   
 ```  
@@ -55,7 +55,7 @@ ms.openlocfilehash: edea758c567f74202c12f7ee1391fb3f12faa980
 public ref class R {};  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3467.  
   
 ```  
@@ -67,6 +67,6 @@ public ref class R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,10 +39,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 769b2dc92076c00897abba473440d4fc6e9231cb
 
 ---
-# Compiler Warning (level 1) C4117
+# <a name="compiler-warning-level-1-c4117"></a>Compiler Warning (level 1) C4117
 macro name 'name' is reserved; 'Command' ignored  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  Trying to define or undefine a predefined macro.  
   
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

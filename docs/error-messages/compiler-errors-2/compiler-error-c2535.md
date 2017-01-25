@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9427ba49fba329d99df5f3d266b344b7f4992472
 
 ---
-# Compiler Error C2535
+# <a name="compiler-error-c2535"></a>Compiler Error C2535
 'identifier' : member function already defined or declared  
   
  This error could be caused by using the same formal parameter list in more than one definition or declaration of an overloaded function.  
@@ -61,6 +61,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e7d60ddf2d0e5480baaa189dfea037d016368490
 
 ---
-# Compiler Error C3233
+# <a name="compiler-error-c3233"></a>Compiler Error C3233
 'type' : generic type parameter already constrained  
   
  It is not valid to constrain a generic parameter in more than one `where` clause.  
@@ -60,6 +60,6 @@ ref class E {};   // C3233
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

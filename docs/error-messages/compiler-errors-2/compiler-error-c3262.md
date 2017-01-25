@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: fbb97c94a077f101c196628b74ef147f1ffa451a
 
 ---
-# Compiler Error C3262
+# <a name="compiler-error-c3262"></a>Compiler Error C3262
 invalid array indexing: '#' dimension(s) specified for '#'-dimensional 'array type'  
   
 An array was improperly subscripted. The number of indices may not match the number of dimensions in the array.  
@@ -86,6 +86,6 @@ int main() {
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

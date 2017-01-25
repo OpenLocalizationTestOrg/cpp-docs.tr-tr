@@ -39,18 +39,18 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a66a253397934820dbbf77bd329c1f05a68989c5
 
 ---
-# Compiler Error C2415
+# <a name="compiler-error-c2415"></a>Compiler Error C2415
 improper operand type  
   
  The opcode does not use operands of this type.  
   
-### To fix by checking the following possible causes  
+### <a name="to-fix-by-checking-the-following-possible-causes"></a>To fix by checking the following possible causes  
   
 1.  The opcode does not support the number of operands used. Check an assembly-language reference manual to determine the correct number of operands.  
   
 2.  A newer processor supports the instruction with additional types. Adjust the [/arch (Minimum CPU Architecture)](../../build/reference/arch-minimum-cpu-architecture.md) option to use the later processor.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

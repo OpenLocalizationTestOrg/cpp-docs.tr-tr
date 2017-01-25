@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 46407c9bec80eadd23a3465234478503f96db77a
 
 ---
-# Compiler Error C3213
+# <a name="compiler-error-c3213"></a>Compiler Error C3213
 base class 'base_type' is less accessible than 'derived_type'  
   
  A type that will be visible from an assembly must use publicly visible base classes.  
@@ -71,6 +71,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

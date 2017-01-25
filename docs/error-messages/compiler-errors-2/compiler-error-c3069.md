@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 6cb151dcb6f96ec897eea5cea126ed23f68d147c
 
 ---
-# Compiler Error C3069
+# <a name="compiler-error-c3069"></a>Compiler Error C3069
 'operator': not allowed for enumeration type  
   
  An operator is not supported for CLR enumerations.  For more information, see [How to: Define and consume enums in C++/CLI](../../dotnet/how-to-define-and-consume-enums-in-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3069:  
   
 ```  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

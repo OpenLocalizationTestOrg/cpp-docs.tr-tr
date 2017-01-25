@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 866ea66038f8d6b786a1392f6b47831eb1cdb7a6
 
 ---
-# Compiler Warning (level 1) C4180
+# <a name="compiler-warning-level-1-c4180"></a>Compiler Warning (level 1) C4180
 qualifier applied to function type has no meaning; ignored  
   
  A qualifier, such as **const**, is applied to a function type defined by `typedef`.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4180.cpp  
@@ -57,6 +57,6 @@ const FuncType f;   // C4180
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

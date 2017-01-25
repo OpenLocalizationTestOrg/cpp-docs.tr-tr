@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 23b9d24fde38495818665ea520f2f0d63b85e1b8
 
 ---
-# Fatal Error C1020
+# <a name="fatal-error-c1020"></a>Fatal Error C1020
 unexpected #endif  
   
  The `#endif` directive has no matching `#if`, `#ifdef`, or `#ifndef` directive. Be sure each `#endif` has a matching directive.  
@@ -61,6 +61,6 @@ unexpected #endif
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

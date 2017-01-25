@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 25d41ac2445fe8ec93385d4cf4f159e0149ae7b6
 
 ---
-# Compiler Error C3381
+# <a name="compiler-error-c3381"></a>Compiler Error C3381
 'assembly' : assembly access specifiers are only available in code compiled with a /clr option  
   
  Native types can be visible outside the assembly, but you can only specify assembly access for native types in a **/clr** compilation.  
   
  For more information, see [Type visibility](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Type_visibility) and [/clr (Common Language Runtime Compilation)](../../build/reference/clr-common-language-runtime-compilation.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3381.  
   
 ```  
@@ -56,6 +56,6 @@ public class A {};   // C3381
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

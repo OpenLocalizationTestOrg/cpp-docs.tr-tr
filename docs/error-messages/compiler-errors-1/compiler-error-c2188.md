@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 19ba9a628d3431f0fb84f4ce56c8bf36b5a04a21
 
 ---
-# Compiler Error C2188
+# <a name="compiler-error-c2188"></a>Compiler Error C2188
 'number' : too big for wide character  
   
  The number exceeds the size limit for the wide-character type. Choose a larger type.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

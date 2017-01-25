@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a398f8060fe2df9ea46f5ba804303f0afee077ee
 
 ---
-# Compiler Error C3370
+# <a name="compiler-error-c3370"></a>Compiler Error C3370
 'idl_module name': idl_module not yet defined  
   
  Before you can use [idl_module](../../windows/idl-module.md) to specify an entry point in a DLL, you must first use `idl_module` to specify the DLL name.  
@@ -60,6 +60,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

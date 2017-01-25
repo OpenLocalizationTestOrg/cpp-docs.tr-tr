@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 680ff228c7fc45e845401da3f0ab35701f992cd8
 
 ---
-# Compiler Error C3013
+# <a name="compiler-error-c3013"></a>Compiler Error C3013
 'clause' : clause may only appear once on OpenMP 'directive' directive  
   
  A clause appeared twice on the same directive. Delete one occurrence of the clause.  
@@ -64,6 +64,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

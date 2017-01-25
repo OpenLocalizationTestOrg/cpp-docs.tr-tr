@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 12b971db957ee5bd916eff94026c546d69d533c7
 
 ---
-# swab
+# <a name="swab"></a>swab
 This POSIX function is deprecated. Use the ISO C++ conformant [_swab](../../c-runtime-library/reference/swab.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

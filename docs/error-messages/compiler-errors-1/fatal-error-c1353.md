@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c4c101ee8806ff0be61586e2756b3409afcf3030
 
 ---
-# Fatal Error C1353
+# <a name="fatal-error-c1353"></a>Fatal Error C1353
 metadata operation failed: runtime not installed or version mismatch  
   
  Reinstall your CLR or Visual Studio.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

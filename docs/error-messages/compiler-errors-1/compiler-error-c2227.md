@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d77758d254a4450968b62bc132ee211974a9e842
 
 ---
-# Compiler Error C2227
+# <a name="compiler-error-c2227"></a>Compiler Error C2227
 left of '->member' must point to class/struct/union/generic type  
   
  The operand to the left of `->` is not a pointer to a class, structure, or union.  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 755aea84083f3e93a0d35c34ba4ce84876e9e689
 
 ---
-# Compiler Error C2419
+# <a name="compiler-error-c2419"></a>Compiler Error C2419
 mod by zero in 'context'  
   
  The parameter to the right of the `MOD` operator is zero in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b1c560fe549ba96032a7fff8091a4a37ac2df351
 
 ---
-# open
+# <a name="open"></a>open
 This POSIX function is deprecated. Use the ISO C++ conformant [_open](../../c-runtime-library/reference/open-wopen.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

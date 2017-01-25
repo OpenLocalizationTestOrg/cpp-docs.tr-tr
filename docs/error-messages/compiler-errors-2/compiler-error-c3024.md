@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 56879f8a36d5d2cdc3a177c1f446b7c07dbcc2b0
 
 ---
-# Compiler Error C3024
+# <a name="compiler-error-c3024"></a>Compiler Error C3024
 'schedule(runtime)' : chunk_size expression is not allowed  
   
  A value cannot be passed to the run-time parameter of the schedule clause.  
@@ -64,6 +64,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 544e0cd0491aa974ad2722db11749846ee002cc5
 
 ---
-# Compiler Warning (level 4) C4062
+# <a name="compiler-warning-level-4-c4062"></a>Compiler Warning (level 4) C4062
 enumerator 'identifier' in switch of enum 'enumeration' is not handled  
   
  The enumerate has no associated handler in a `switch` statement, and there is no **default** label.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

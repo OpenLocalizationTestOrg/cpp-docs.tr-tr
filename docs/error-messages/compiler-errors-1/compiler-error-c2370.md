@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6b2dba34d9acfc0ca29c552efe65c903ffbd1030
 
 ---
-# Compiler Error C2370
+# <a name="compiler-error-c2370"></a>Compiler Error C2370
 'identifier' : redefinition; different storage class  
   
  The identifier is already declared with a different storage class.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2370:  
   
 ```  
@@ -55,7 +55,7 @@ static int i;   // C2370
 int i;   // OK  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2370:  
   
 ```  
@@ -67,6 +67,6 @@ int tls_i;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -57,10 +57,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0ad99503cb592ff40998bc08f859dba185b81985
 
 ---
-# dup, dup2
+# <a name="dup-dup2"></a>dup, dup2
 These POSIX functions are deprecated. Use the ISO C++ conformant [_dup, _dup2](../../c-runtime-library/reference/dup-dup2.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

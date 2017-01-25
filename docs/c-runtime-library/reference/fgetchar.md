@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3082c567d4ad9a54bb80989a3eec2afdc0da5d37
 
 ---
-# fgetchar
+# <a name="fgetchar"></a>fgetchar
 This POSIX function is deprecated. Use the ISO C++ conformant [_fgetchar](../../c-runtime-library/reference/fgetchar-fgetwchar.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

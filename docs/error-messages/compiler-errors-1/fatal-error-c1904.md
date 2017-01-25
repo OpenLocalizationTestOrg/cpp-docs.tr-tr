@@ -39,7 +39,7 @@ ms.sourcegitcommit: 6cad5222fb0d97594d5b13b5cf8903eb2934ee88
 ms.openlocfilehash: 994729ca02158fd2291fab5421fc091a3ad8fc56
 
 ---
-# Fatal Error C1904
+# <a name="fatal-error-c1904"></a>Fatal Error C1904
 bad provider interaction: 'file'  
   
  This error indicates the failure of an attribute provider.  
@@ -47,6 +47,6 @@ bad provider interaction: 'file'
  Note the circumstances of the error, try to isolate the problem and create a reproducible test case, then contact [Talk to Us](/visualstudio/ide/talk-to-us).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

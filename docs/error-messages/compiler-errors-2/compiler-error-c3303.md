@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a1cbaf2ef562ca9a41928f1f2720e81b54fe16d1
 
 ---
-# Compiler Error C3303
+# <a name="compiler-error-c3303"></a>Compiler Error C3303
 'attribute': attribute can only be used on 'usage'  
   
  An attempt was made to use an attribute where it is not valid.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

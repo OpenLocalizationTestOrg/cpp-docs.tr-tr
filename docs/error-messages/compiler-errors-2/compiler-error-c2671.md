@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cb7651b8ddb8eb67d5caa7b4dddd3dffdf4d416d
 
 ---
-# Compiler Error C2671
+# <a name="compiler-error-c2671"></a>Compiler Error C2671
 'function' : static member functions do not have 'this' pointers  
   
  A `static` member function tried to access `this`.  
@@ -54,6 +54,6 @@ struct S {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

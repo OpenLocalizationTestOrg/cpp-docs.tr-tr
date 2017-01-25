@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 357ecf494d6f2f48b6605120bee3343ab22087f8
 
 ---
-# Compiler Error C3457
+# <a name="compiler-error-c3457"></a>Compiler Error C3457
 'attribute': attribute does not support unnamed arguments  
   
  Source annotation attributes, unlike CLR custom attribute or compiler attributes, only support named arguments.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3457.  
   
 ```  
@@ -54,6 +54,6 @@ ms.openlocfilehash: 357ecf494d6f2f48b6605120bee3343ab22087f8
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

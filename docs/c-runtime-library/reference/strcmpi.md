@@ -55,10 +55,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c189e4ee4ad57c37308a77ba873dbe3937aebc19
 
 ---
-# strcmpi
+# <a name="strcmpi"></a>strcmpi
 This POSIX function is deprecated. Use the ISO C++ conformant [_stricmp](../../c-runtime-library/reference/stricmp-wcsicmp-mbsicmp-stricmp-l-wcsicmp-l-mbsicmp-l.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

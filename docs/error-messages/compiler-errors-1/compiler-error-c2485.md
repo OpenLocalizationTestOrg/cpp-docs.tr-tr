@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ebcf806823ec0ead88437a3ddfb08e026a246975
 
 ---
-# Compiler Error C2485
+# <a name="compiler-error-c2485"></a>Compiler Error C2485
 'identifier' : unrecognized extended attribute  
   
  The declaration attribute is not valid.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

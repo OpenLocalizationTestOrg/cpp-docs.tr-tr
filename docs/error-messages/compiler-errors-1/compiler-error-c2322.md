@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6e36487ea2583829f1c143b2152316255852a0f4
 
 ---
-# Compiler Error C2322
+# <a name="compiler-error-c2322"></a>Compiler Error C2322
 'identifier' : address of dllimport 'dllimport' is not static  
   
  A nonstatic value is given as the address of a function declared with `dllimport`.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

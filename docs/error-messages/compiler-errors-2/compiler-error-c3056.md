@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b3d8f49c518921bc41c5adf568d9fcdf1a190344
 
 ---
-# Compiler Error C3056
+# <a name="compiler-error-c3056"></a>Compiler Error C3056
 'symbol' : symbol is not in the same scope with 'threadprivate' directive  
   
  A symbol used in a [threadprivate](../../parallel/openmp/reference/threadprivate.md) clause must be in the same scope as the `threadprivate` clause.  
@@ -75,6 +75,6 @@ void test() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 207639194e90d39894e20041cb08a45cc60b56bf
 
 ---
-# Compiler Error C3290
+# <a name="compiler-error-c3290"></a>Compiler Error C3290
 'type' : a trivial property cannot have reference type  
   
  A property was declared incorrectly. When you declare a trivial property, the compiler creates a variable that the property will update, and it is not possible to have a tracking reference variable in a class.  
   
  See [property](../../windows/property-cpp-component-extensions.md) and [Tracking Reference Operator](../../windows/tracking-reference-operator-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3290.  
   
 ```  
@@ -77,6 +77,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

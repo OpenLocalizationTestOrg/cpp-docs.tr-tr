@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9d1a0b64d06c54b80874010cdc26d758274897d2
 
 ---
-# Compiler Error C2936
+# <a name="compiler-error-c2936"></a>Compiler Error C2936
 'class' : type-class-id redefined as a global data variable  
   
  You cannot use a generic or template class as a global data variable.  
@@ -74,6 +74,6 @@ int GC2;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: eab70da8b0e2a615c2ff689135eeac848d5d0a0f
 
 ---
-# Compiler Error C3216
+# <a name="compiler-error-c3216"></a>Compiler Error C3216
 constraint must be a generic parameter, not 'type'  
   
  A constraint was ill formed.  
@@ -71,6 +71,6 @@ ref class C {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

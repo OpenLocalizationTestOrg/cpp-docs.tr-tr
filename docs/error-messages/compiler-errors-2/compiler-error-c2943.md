@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7434e9399c968e89e076b364abb7ce755a1d70a0
 
 ---
-# Compiler Error C2943
+# <a name="compiler-error-c2943"></a>Compiler Error C2943
 'class' : type-class-id redefined as a type argument of a template  
   
  You cannot use a generic or template class, instead of a symbol, as a generic or template type argument.  
@@ -57,6 +57,6 @@ template<class T >  class MyList;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

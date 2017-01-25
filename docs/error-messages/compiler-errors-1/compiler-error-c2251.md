@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: adc9116da47fb99e778eea5d5133187829fe7f61
 
 ---
-# Compiler Error C2251
+# <a name="compiler-error-c2251"></a>Compiler Error C2251
 namespace 'namespace' does not have a member 'member' - Did you mean 'member'?  
   
  The compiler was not able to find an identifier in the specified namespace.  
@@ -62,6 +62,6 @@ void A::B::f1() {}   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

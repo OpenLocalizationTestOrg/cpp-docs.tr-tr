@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 36c569ee49fa8509468dc51ef47b42207c8da45a
 
 ---
-# Linker Tools Error LNK2013
+# <a name="linker-tools-error-lnk2013"></a>Linker Tools Error LNK2013
 fixup type fixup overflow. Target 'symbol name' is out of range  
   
  The linker cannot fit the necessary address or offset into the given instruction because the target symbol is too far away from the instruction's location.  
@@ -55,6 +55,6 @@ fixup type fixup overflow. Target 'symbol name' is out of range
  Use `DUMPBIN /SYMBOLS`, to see if a function is static.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

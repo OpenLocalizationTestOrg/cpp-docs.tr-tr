@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7af04b52fec1416e1b938e7d208968b8141bdde4
 
 ---
-# Fatal Error C1310
+# <a name="fatal-error-c1310"></a>Fatal Error C1310
 profile guided optimizations are not available with OpenMP  
   
  You will not be able to link with [/LTCG:PGI](../../build/reference/ltcg-link-time-code-generation.md) any module that was compiled with [/GL](../../build/reference/gl-whole-program-optimization.md).  
@@ -64,6 +64,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

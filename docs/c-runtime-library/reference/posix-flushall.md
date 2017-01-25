@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 05a2d26a9599c8c401587233b48057d5deab205c
 
 ---
-# flushall
+# <a name="flushall"></a>flushall
 This POSIX function is deprecated. Use the ISO C++ conformant [_flushall](../../c-runtime-library/reference/flushall.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

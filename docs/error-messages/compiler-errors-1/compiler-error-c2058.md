@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d54f53b8a5bf91850a0bb0f6edb84ea8f262cacb
 
 ---
-# Compiler Error C2058
+# <a name="compiler-error-c2058"></a>Compiler Error C2058
 constant expression is not integral  
   
  The context requires an integer constant expression.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

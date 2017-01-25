@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e2ef3798259a10b09f74a2ad92f8084a65deafd8
 
 ---
-# Compiler Error C3299
+# <a name="compiler-error-c3299"></a>Compiler Error C3299
 'member_function' : cannot specify constraints, they are inherited from the base method  
   
  When overriding a generic member function, you cannot specify constraint clauses (repeating the constraints implies that the constraints are not inherited).  
@@ -48,7 +48,7 @@ ms.openlocfilehash: e2ef3798259a10b09f74a2ad92f8084a65deafd8
   
  For more information, see [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3299.  
   
 ```  
@@ -68,6 +68,6 @@ public ref struct S : R {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

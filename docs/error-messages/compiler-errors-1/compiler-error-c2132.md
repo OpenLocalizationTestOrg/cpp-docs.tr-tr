@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3e5240eb7f4814c3e8cb49678dc5b523cdb5e791
 
 ---
-# Compiler Error C2132
+# <a name="compiler-error-c2132"></a>Compiler Error C2132
 syntax error : unexpected identifier  
   
  An identifier appears in an unsupported context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

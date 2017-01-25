@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d5e4a37818aaa8607e2e7812975d377dc82718d0
 
 ---
-# Compiler Warning (level 1) C4912
+# <a name="compiler-warning-level-1-c4912"></a>Compiler Warning (level 1) C4912
 'attribute': attribute has undefined behavior on a nested UDT  
   
  Attributes that apply to nested UDTs (user-defined type, which could be a typedef, union, or struct) may be ignored.  
@@ -68,6 +68,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

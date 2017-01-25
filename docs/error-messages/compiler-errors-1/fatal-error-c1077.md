@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b449edf838cfc9c24b79f9f1e64504e51ef0dbf8
 
 ---
-# Fatal Error C1077
+# <a name="fatal-error-c1077"></a>Fatal Error C1077
 compiler limit : cannot have more than number command line options  
   
  The number of command-line options exceeds the internal limit.  
@@ -47,6 +47,6 @@ compiler limit : cannot have more than number command line options
  There may be too many symbols defined with [/D](../../build/reference/d-preprocessor-definitions.md). (Place the definitions in a header file instead.)
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

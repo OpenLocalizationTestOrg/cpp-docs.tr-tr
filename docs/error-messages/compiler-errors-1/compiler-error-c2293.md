@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c5ff743e572c92c47231563f2c2b35ba5fca03f6
 
 ---
-# Compiler Error C2293
+# <a name="compiler-error-c2293"></a>Compiler Error C2293
 'identifier': illegal to have a member variable as a __based specifier  
   
  Specifiers for `__based` modifier must be nonmember pointers.  
@@ -57,6 +57,6 @@ class A {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

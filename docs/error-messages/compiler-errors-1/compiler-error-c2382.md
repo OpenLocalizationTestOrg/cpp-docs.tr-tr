@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 28107642008aba7d71365306eae4646fb3f01318
 
 ---
-# Compiler Error C2382
+# <a name="compiler-error-c2382"></a>Compiler Error C2382
 'function' : redefinition; different exception specifications  
   
  Under [/Za](../../build/reference/za-ze-disable-language-extensions.md), this error indicates that a function overload was attempted only on the [exception specification](../../cpp/exception-specifications-throw-cpp.md).  
@@ -55,6 +55,6 @@ void f2(void) throw(char) {}   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

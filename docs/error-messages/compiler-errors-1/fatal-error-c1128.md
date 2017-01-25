@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7c70243c6fe3acf50e46c6bdf0880ed713b4b16c
 
 ---
-# Fatal Error C1128
+# <a name="fatal-error-c1128"></a>Fatal Error C1128
 number of sections exceeded object file format limit : compile with /bigobj  
   
  An .obj file exceeded the number of allowable sections, a COFF object file format limitation.  
@@ -57,6 +57,6 @@ number of sections exceeded object file format limit : compile with /bigobj
  When porting code, C1128 will likely appear first when using the x64 compiler, and much later with the x86 compiler. x64 will have at least 4 sections associated with each function compiled **/Gy** or inlined from templates or class-inline: code, pdata, and debug info, and possibly xdata.  X86 won’t have the pdata.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

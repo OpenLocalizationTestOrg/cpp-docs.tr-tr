@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 040cffdd84d34ec7e0896ab6db1aa16c07caf39e
 
 ---
-# Compiler Warning C4958
+# <a name="compiler-warning-c4958"></a>Compiler Warning C4958
 'operation' : pointer arithmetic is not verifiable  
   
  Using pointer arithmetic will produce an unverifiable image.  
@@ -79,6 +79,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

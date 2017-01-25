@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 0edf7e6174ae652b7c1cff1a7888b0cc69018524
 
 ---
-# Compiler Warning (level 4) C4235
+# <a name="compiler-warning-level-4-c4235"></a>Compiler Warning (level 4) C4235
 nonstandard extension used : 'keyword' keyword not supported on this architecture  
   
  The compiler does not support the keyword you used.  
@@ -53,6 +53,6 @@ nonstandard extension used : 'keyword' keyword not supported on this architectur
  in your source code file.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

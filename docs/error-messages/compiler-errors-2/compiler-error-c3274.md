@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8a09f1421a32714a04c49a849162290884e53391
 
 ---
-# Compiler Error C3274
+# <a name="compiler-error-c3274"></a>Compiler Error C3274
 __finally/finally without matching try  
   
  A [__finally](../../cpp/try-finally-statement.md) or [finally](../../dotnet/finally.md) statement was found without a matching `try`. To resolve this, either delete the `__finally` statement or add a `try` statement for the `__finally`.  
@@ -79,6 +79,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

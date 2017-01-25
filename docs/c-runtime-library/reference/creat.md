@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1528b6c4521e61342c321e1c6132c625175571aa
 
 ---
-# creat
+# <a name="creat"></a>creat
 This POSIX function is deprecated. Use the ISO C++ conformant [_creat](../../c-runtime-library/reference/creat-wcreat.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

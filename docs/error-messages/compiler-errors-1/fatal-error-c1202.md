@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 70c82c5b149a143270ece3c50afc00a7089114d6
 
 ---
-# Fatal Error C1202
+# <a name="fatal-error-c1202"></a>Fatal Error C1202
 recursive type or function dependency context too complex  
   
  A template definition was recursive or exceeded complexity limits.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C1202.  
   
 ```  
@@ -60,7 +60,7 @@ public:
 Factorial<7> facSeven;  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  Possible resolution.  
   
 ```  
@@ -86,6 +86,6 @@ Factorial<7> facSeven;
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

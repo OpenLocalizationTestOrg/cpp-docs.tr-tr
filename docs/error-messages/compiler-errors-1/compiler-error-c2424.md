@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d4ecf66ef359caf0fabde60b04e6af45746517db
 
 ---
-# Compiler Error C2424
+# <a name="compiler-error-c2424"></a>Compiler Error C2424
 'token' : improper expression in 'context'  
   
  The token forms part of an incorrect expression in this context.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

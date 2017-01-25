@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1a236e8c086a4f6de375d097bf82d39e88d1e0c5
 
 ---
-# Fatal Error C1035
+# <a name="fatal-error-c1035"></a>Fatal Error C1035
 expression too complex; simplify expression  
   
  The compiler could not generate code for a complex expression. Split the expression into simpler expressions and recompile.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

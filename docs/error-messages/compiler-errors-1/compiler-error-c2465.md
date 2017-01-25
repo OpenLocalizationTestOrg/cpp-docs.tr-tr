@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9aa6ef2f74a602640e673eb7364709633b76b729
 
 ---
-# Compiler Error C2465
+# <a name="compiler-error-c2465"></a>Compiler Error C2465
 cannot define an anonymous type inside parentheses  
   
  An anonymous structure, union, or enumerated type is defined inside a parenthetical expression. This is invalid in C++ because the definition is meaningless in function scope.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

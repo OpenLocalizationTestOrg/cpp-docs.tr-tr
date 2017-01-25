@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ce1cad522a81ad5773a08acca240f6b08af4cc65
 
 ---
-# Fatal Error C1008
+# <a name="fatal-error-c1008"></a>Fatal Error C1008
 no input file specified  
   
  The compiler was not given a C or C++ source file to compile. Check the **CL** command line and environment variable for filename specifications.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

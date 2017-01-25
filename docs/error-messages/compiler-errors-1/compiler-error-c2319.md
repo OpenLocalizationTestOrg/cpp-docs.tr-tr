@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a1d8809b8c002983c0f0ce74dc710ba5a2d0edda
 
 ---
-# Compiler Error C2319
+# <a name="compiler-error-c2319"></a>Compiler Error C2319
 'try/catch' must be followed by a compound statement. Missing '{'  
   
  A `try` or `catch` block is not found following the `try` or `catch` statement. The block must be enclosed in curly braces.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

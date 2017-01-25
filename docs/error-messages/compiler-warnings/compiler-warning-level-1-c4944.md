@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f8c6e857bf9b77cfcf0f0f0e511e71f7b9ecaa60
 
 ---
-# Compiler Warning (level 1) C4944
+# <a name="compiler-warning-level-1-c4944"></a>Compiler Warning (level 1) C4944
 'symbol' : cannot import symbol from 'assembly1': as 'symbol' already exists in the current scope  
   
  A symbol was defined in a source code file and then a #using statement referenced an assembly that also defined the symbol. The symbol in the assembly is ignored.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample creates a component with a type called ClassA.  
   
 ```  
@@ -56,7 +56,7 @@ public class ClassA {
 }  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following samples generate C4944.  
   
 ```  
@@ -77,6 +77,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

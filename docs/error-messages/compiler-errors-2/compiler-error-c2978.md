@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e6b0a081587c0195674fa418da6dbc00c443c5bf
 
 ---
-# Compiler Error C2978
+# <a name="compiler-error-c2978"></a>Compiler Error C2978
 syntax error : expected 'keyword1' or 'keyword2'; found type 'keyword3'; non-type parameters are not supported in generics  
   
  A generic class was declared incorrectly. See [Generics](../../windows/generics-cpp-component-extensions.md)for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2978.  
   
 ```  
@@ -66,6 +66,6 @@ ref class Utils2 {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e2852e333db82852aa1a9eb083b4a89e0cf8a10d
 
 ---
-# Compiler Error C3087
+# <a name="compiler-error-c3087"></a>Compiler Error C3087
 'named_argument': call of 'attribute' already initializes this member  
   
  A named argument was specified in the same attribute block as an unnamed argument for the same value. Specify only a named or unnamed argument.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3087.  
   
 ```  
@@ -56,6 +56,6 @@ ms.openlocfilehash: e2852e333db82852aa1a9eb083b4a89e0cf8a10d
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

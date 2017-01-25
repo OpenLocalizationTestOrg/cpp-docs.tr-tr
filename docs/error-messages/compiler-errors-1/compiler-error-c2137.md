@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6131bc526ed35de545c7d49771ad505dcdbc27fe
 
 ---
-# Compiler Error C2137
+# <a name="compiler-error-c2137"></a>Compiler Error C2137
 empty character constant  
   
  The empty character constant ( ' ' ) is not permitted.  
@@ -55,6 +55,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

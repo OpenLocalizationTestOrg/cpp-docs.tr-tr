@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 007d7f3b7e5de79d8e8fd239eb169bd25ce9660f
 
 ---
-# Compiler Error C2931
+# <a name="compiler-error-c2931"></a>Compiler Error C2931
 'class' : type-class-id redefined as a member function of 'identifier'  
   
  You cannot use a generic or template class as a member function of another class.  
@@ -76,6 +76,6 @@ struct MyStruct {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

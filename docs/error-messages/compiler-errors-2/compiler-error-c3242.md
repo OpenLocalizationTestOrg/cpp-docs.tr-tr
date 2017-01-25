@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5b219656f1635100b8c71f83157e097d45bdc89a
 
 ---
-# Compiler Error C3242
+# <a name="compiler-error-c3242"></a>Compiler Error C3242
 'function' : you can only explicitly override virtual functions  
   
  You tried to explicitly override a nonvirtual method.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

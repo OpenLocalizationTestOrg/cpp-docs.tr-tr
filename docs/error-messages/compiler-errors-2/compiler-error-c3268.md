@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6c7f8e5bff69303be0075895276349c685f046cc
 
 ---
-# Compiler Error C3268
+# <a name="compiler-error-c3268"></a>Compiler Error C3268
 'function' : a generic function or a member-function of a generic class cannot have a variable parameter list  
   
  See [Generics](../../windows/generics-cpp-component-extensions.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3268.  
   
 ```  
@@ -62,6 +62,6 @@ ref struct MyStruct { void Test(...){} };   // C3268
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

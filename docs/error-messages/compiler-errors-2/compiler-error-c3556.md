@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6bb39630cd62895d855b466eefce80d70a2a30bc
 
 ---
-# Compiler Error C3556
+# <a name="compiler-error-c3556"></a>Compiler Error C3556
 'expression': incorrect argument to 'decltype'  
   
  The compiler cannot deduce the type of the expression that is the argument to the `decltype(``expression``)` type specifier. In the following code example, the compiler cannot deduce the type of the `myFunction` argument because `myFunction` is overloaded.  
@@ -51,6 +51,6 @@ decltype(myFunction); // C3556
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

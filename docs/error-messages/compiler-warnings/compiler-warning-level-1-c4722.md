@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4f479a8bfecb7b1b61878589150e3320e12a222a
 
 ---
-# Compiler Warning (level 1) C4722
+# <a name="compiler-warning-level-1-c4722"></a>Compiler Warning (level 1) C4722
 'function' : destructor never returns, potential memory leak  
   
  The flow of control terminates in a destructor. The thread or the entire program will terminate and allocated resources may not be released.  Furthermore, if a destructor will be called for stack unwinding during exception processing, the behavior of executable is undefined.  
   
  To resolve, remove the function call that causes the destructor to not return.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4722:  
   
 ```  
@@ -69,6 +69,6 @@ void Test(){
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

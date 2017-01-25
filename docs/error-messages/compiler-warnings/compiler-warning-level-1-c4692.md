@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4a8cb36d73a5031ca120439deb9d04515c84fa2b
 
 ---
-# Compiler Warning (level 1) C4692
+# <a name="compiler-warning-level-1-c4692"></a>Compiler Warning (level 1) C4692
 'function': signature of non-private member contains assembly private native type 'native_type'  
   
  A type that is visible outside the assembly contains a member function whose signature contains a native type that is not visible outside the assembly. Therefore, the member function should not be called if its containing type is instantiated outside the assembly.  
@@ -48,7 +48,7 @@ ms.openlocfilehash: 4a8cb36d73a5031ca120439deb9d04515c84fa2b
   
  This warning is off by default. For more information, see [Compiler Warnings That Are Off by Default](../../preprocessor/compiler-warnings-that-are-off-by-default.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4692.  
   
 ```  
@@ -65,6 +65,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

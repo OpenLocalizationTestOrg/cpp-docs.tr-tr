@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9e3e5dbc1eb59ecb0fc5d0a93153a02a1bc1c3f3
 
 ---
-# Compiler Error C2044
+# <a name="compiler-error-c2044"></a>Compiler Error C2044
 illegal continue  
   
  A [continue](../../cpp/continue-statement-cpp.md) is legal only within a `do`, `for`, or `while` statement.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: acfd9949f6bd30eb6cda037f71ed5c3105ccec43
 
 ---
-# Compiler Error C2186
+# <a name="compiler-error-c2186"></a>Compiler Error C2186
 'operator' : illegal operand of type 'void'  
   
  The operator has a `void` operand.  
@@ -56,6 +56,6 @@ int j = 2 + func2();   // OK both operands are type int
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

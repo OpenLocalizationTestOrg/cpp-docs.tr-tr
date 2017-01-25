@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 39ba8a3b669cd341783b796a12edd7ecb5da351b
 
 ---
-# Compiler Warning (level 1) C4685
+# <a name="compiler-warning-level-1-c4685"></a>Compiler Warning (level 1) C4685
 expecting '> >' found '>>' when parsing template parameters  
   
  A template definition was not terminated correctly.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

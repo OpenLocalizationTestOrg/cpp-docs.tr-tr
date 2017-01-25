@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 04c7c70da86a4d73945ad5a8d59f09ee1312491c
 
 ---
-# Compiler Error C3048
+# <a name="compiler-error-c3048"></a>Compiler Error C3048
 Expression following '#pragma omp atomic' has improper form  
   
  An atomic directive was incorrectly specified.  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

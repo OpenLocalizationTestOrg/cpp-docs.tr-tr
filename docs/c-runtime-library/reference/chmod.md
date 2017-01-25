@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f9e64fa2beeb44cc680503f488e44535e3567d73
 
 ---
-# chmod
+# <a name="chmod"></a>chmod
 This POSIX function is deprecated. Use the ISO C++ conformant [_chmod](../../c-runtime-library/reference/chmod-wchmod.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

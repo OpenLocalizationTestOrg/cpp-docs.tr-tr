@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c804d5c31879563bb03d8918e30c7c607de51c67
 
 ---
-# Compiler Error C3031
+# <a name="compiler-error-c3031"></a>Compiler Error C3031
 'var' : variable in 'reduction' clause must have scalar arithmetic type  
   
  A variable of the wrong type was passed to a reduction clause.  
@@ -69,6 +69,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 554bded967e701ee544b1da0a9ca3ed7faa0c862
 
 ---
-# Compiler Error C3223
+# <a name="compiler-error-c3223"></a>Compiler Error C3223
 'property' : you cannot apply 'typeid' to a property  
   
  You cannot apply [typeid](../../windows/typeid-cpp-component-extensions.md) to a property.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3223.  
   
 ```  
@@ -61,6 +61,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

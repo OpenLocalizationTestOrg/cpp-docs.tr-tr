@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b5b47177f34af37d033b0d6933bb5b58b3b07106
 
 ---
-# Compiler Error C3219
+# <a name="compiler-error-c3219"></a>Compiler Error C3219
 'param' : generic parameter cannot be constrained by multiple non-interfaces : 'class'  
   
  It is not valid to constrain a generic parameter by two or more managed classes.  
@@ -72,6 +72,6 @@ ref class E {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

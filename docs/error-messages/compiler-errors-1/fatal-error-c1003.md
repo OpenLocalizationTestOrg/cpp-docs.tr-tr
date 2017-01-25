@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 773dbff0fe4d96ff3b5b5e9bc4c601093a6ae443
 
 ---
-# Fatal Error C1003
+# <a name="fatal-error-c1003"></a>Fatal Error C1003
 error count exceeds number; stopping compilation  
   
  Errors in the program are too numerous to allow recovery. The compiler must terminate.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

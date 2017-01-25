@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ac75ef043bcf7bc2f34785e89370a64820254201
 
 ---
-# write
+# <a name="write"></a>write
 This POSIX function is deprecated. Use the ISO C++ conformant [_write](../../c-runtime-library/reference/write.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

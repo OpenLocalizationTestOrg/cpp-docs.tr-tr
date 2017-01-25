@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 83ef6009245b4f940976c6a12a11d4d44870b4fc
 
 ---
-# Compiler Error C2371
+# <a name="compiler-error-c2371"></a>Compiler Error C2371
 'identifier' : redefinition; different basic types  
   
  The identifier is already declared.  
@@ -56,6 +56,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

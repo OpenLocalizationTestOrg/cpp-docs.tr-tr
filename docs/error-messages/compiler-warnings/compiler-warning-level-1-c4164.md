@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 343ee46243190bafef72bdbe92f765a678f61f55
 
 ---
-# Compiler Warning (level 1) C4164
+# <a name="compiler-warning-level-1-c4164"></a>Compiler Warning (level 1) C4164
 'identifier' : intrinsic function not declared  
   
  The specified intrinsic function is not declared; you may need to #include the appropriate header file.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

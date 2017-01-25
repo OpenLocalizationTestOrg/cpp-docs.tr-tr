@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 18ecd10f3a689a672eee3f04386a2a4425bfc8bd
 
 ---
-# Fatal Error C1022
+# <a name="fatal-error-c1022"></a>Fatal Error C1022
 expected #endif  
   
  An `#if`, `#ifdef`, or `#ifndef` directive has no matching `#endif` directive. Be sure each `#if`, `#ifdef`, or `#ifndef` has a matching `#endif`.  
@@ -68,6 +68,6 @@ expected #endif
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

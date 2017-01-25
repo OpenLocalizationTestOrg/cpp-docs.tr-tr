@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4090464570e7b949d21da5e5ac851e5a873ae549
 
 ---
-# Compiler Error C2904
+# <a name="compiler-error-c2904"></a>Compiler Error C2904
 'identifier' : name already used for a template in the current scope  
   
  Check the code for duplicate names.  
@@ -54,6 +54,6 @@ template<class T> class X{};  // C2904
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

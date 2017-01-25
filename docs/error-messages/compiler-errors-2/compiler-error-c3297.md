@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: dcdcee9235e0007c4d7a6d662b455d98a1cb55da
 
 ---
-# Compiler Error C3297
+# <a name="compiler-error-c3297"></a>Compiler Error C3297
 'constraint_2' : cannot use 'constraint_1' as a constraint because 'constraint_1' has the value constraint  
   
  Value classes are sealed. If a constraint is a value class, another constraint can never derive from it.  
   
  For more information, see [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3297.  
   
 ```  
@@ -59,6 +59,6 @@ public ref struct R {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4861a5e11f3ae6734889f370d123c476f01f0db8
 
 ---
-# Compiler Error C2108
+# <a name="compiler-error-c2108"></a>Compiler Error C2108
 subscript is not of integral type  
   
  The array subscript is a noninteger expression.  
   
-## Example  
+## <a name="example"></a>Example  
  C2108 can occur if you incorrectly use the `this` pointer of a value type to access the type's default indexer. For more information, see [Semantics of the this pointer](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Semantics_of_the_this_pointer).  
   
  The following sample generates C2108.  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

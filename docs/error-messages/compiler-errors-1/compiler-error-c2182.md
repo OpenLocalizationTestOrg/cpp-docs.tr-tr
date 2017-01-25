@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 22f3a5801816a0dcd3bf4f480fb5251cb3ed7b94
 
 ---
-# Compiler Error C2182
+# <a name="compiler-error-c2182"></a>Compiler Error C2182
 'identifier' : illegal use of type 'void'  
   
  A variable is declared type `void`.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

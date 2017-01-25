@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d300c6df624cf1fe3a4145585272b6b5e54af377
 
 ---
-# Compiler Error C3284
+# <a name="compiler-error-c3284"></a>Compiler Error C3284
 the constraints for generic parameter 'parameter' of function 'function' must match the constraints for generic parameter 'parameter' of function 'function'  
   
  A virtual generic function must use the same constraints as a virtual function with the same name and set of arguments in the base class.  
@@ -72,6 +72,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 18a6ac7583fb39fe1fc5066983460494105b7860
 
 ---
-# Compiler Error C3408
+# <a name="compiler-error-c3408"></a>Compiler Error C3408
 'attribute': attribute is not allowed on template definitions  
   
  Attributes cannot be applied to template definitions.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3408.  
   
 ```  
@@ -90,6 +90,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

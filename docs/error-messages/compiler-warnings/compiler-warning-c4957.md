@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3182fca791157382a1d03e98d0040ab6f7603e74
 
 ---
-# Compiler Warning C4957
+# <a name="compiler-warning-c4957"></a>Compiler Warning C4957
 'cast' : explicit cast from 'cast_from' to 'cast_to' is not verifiable  
   
  A cast will result in an unverifiable image.  
@@ -65,6 +65,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 4ac033535632e94a365aa8dafd849f2ab28a3af7
 ms.openlocfilehash: 08eb5385924ee4a01a942274b8c4ec10060b12c4
 
 ---
-# Compiler Warning (level 1) C4947
+# <a name="compiler-warning-level-1-c4947"></a>Compiler Warning (level 1) C4947
 'type_or_member' : marked as obsolete  
   
 A member or type was marked as obsolete with the <xref:System.ObsoleteAttribute> class.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C4947:  
   
 ```cpp  
@@ -85,6 +85,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

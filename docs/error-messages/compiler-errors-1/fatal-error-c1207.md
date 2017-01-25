@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 91cb6522bc3dc5e8700db12cbfc170aeddcb74c2
 
 ---
-# Fatal Error C1207
+# <a name="fatal-error-c1207"></a>Fatal Error C1207
 Managed templates not supported by the version of the runtime installed  
   
  C1207 occurs when you have a compiler for the current release, but a common language runtime from a previous release.  
@@ -49,6 +49,6 @@ Managed templates not supported by the version of the runtime installed
  To resolve C1207 install the common language runtime version that is intended for use with your compiler.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

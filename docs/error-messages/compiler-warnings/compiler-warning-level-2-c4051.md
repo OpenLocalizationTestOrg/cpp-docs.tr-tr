@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2520ac15f587c14f6e8708e4e8c434d6aa5f5abb
 
 ---
-# Compiler Warning (level 2) C4051
+# <a name="compiler-warning-level-2-c4051"></a>Compiler Warning (level 2) C4051
 type conversion; possible loss of data  
   
  An expression contains two data items with different base types. Converting one type causes the data item to be truncated.  
@@ -47,6 +47,6 @@ type conversion; possible loss of data
  This warning may be fixed if you cast the data items to the appropriate type.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

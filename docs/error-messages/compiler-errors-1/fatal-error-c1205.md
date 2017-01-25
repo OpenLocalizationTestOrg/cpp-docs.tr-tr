@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9a1efad1c8ec9c6740dce70455a5d9d56dd7360f
 
 ---
-# Fatal Error C1205
+# <a name="fatal-error-c1205"></a>Fatal Error C1205
 Generics are not supported by the version of the runtime installed  
   
  The version of the common language runtime that the compiler is using is not a version of the runtime supported by the current compiler.  For example, the generics feature requires a runtime that is matched to the compiler.  
@@ -47,6 +47,6 @@ Generics are not supported by the version of the runtime installed
  Your path specification may need to be modified.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

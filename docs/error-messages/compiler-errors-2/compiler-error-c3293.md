@@ -39,12 +39,12 @@ ms.sourcegitcommit: 65e7a7bd56096fbeec61b651ab494d82edef9c90
 ms.openlocfilehash: 43695cc21fa63403f9aa2b8dd83af27c00d483de
 
 ---
-# Compiler Error C3293
+# <a name="compiler-error-c3293"></a>Compiler Error C3293
 'accessor': use 'default' to access the default property (indexer) for class 'type'  
   
  An indexed property was accessed incorrectly.  See [How to: Use Properties in C++/CLI](../../dotnet/how-to-use-properties-in-cpp-cli.md) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3293.  
   
 ```  
@@ -73,6 +73,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

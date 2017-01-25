@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 876530ff687289200275bd6dd21a522fd9986b56
 
 ---
-# Compiler Error C2656
+# <a name="compiler-error-c2656"></a>Compiler Error C2656
 'function' : function not allowed as a bit field  
   
  A function is declared as a member of a bit field.  
@@ -47,6 +47,6 @@ ms.openlocfilehash: 876530ff687289200275bd6dd21a522fd9986b56
  This error can be caused by a syntax error in a constructor initializer list.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

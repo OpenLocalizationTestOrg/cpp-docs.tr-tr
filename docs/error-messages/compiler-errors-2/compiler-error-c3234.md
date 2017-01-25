@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: acba87fff71431ed69b4d6c7af33842545be6150
 
 ---
-# Compiler Error C3234
+# <a name="compiler-error-c3234"></a>Compiler Error C3234
 a generic class may not derive from a generic type parameter  
   
  A generic class cannot inherit from a generic type parameter.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3234.  
   
 ```  
@@ -57,6 +57,6 @@ public ref class C : T {};   // C3234
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 244f0991b95da59fcb4d08f6c077285881534fd0
 
 ---
-# Compiler Error C2300
+# <a name="compiler-error-c2300"></a>Compiler Error C2300
 'identifier' : class does not have a destructor called '~identifier'  
   
  The class does not have a destructor with the required name.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ace0480dab6ee1e02d418f06857400b8b27ec7ab
 
 ---
-# Compiler Warning (level 1) C4167
+# <a name="compiler-warning-level-1-c4167"></a>Compiler Warning (level 1) C4167
 function : only available as an intrinsic function  
   
  The **#pragma function** tries to force the compiler to use a conventional call to a function that must be used in intrinsic form. The pragma is ignored.  
   
  To avoid this warning, remove the **#pragma function**.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4167.cpp  
@@ -57,6 +57,6 @@ int main(){}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

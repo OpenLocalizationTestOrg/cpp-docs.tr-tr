@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: e32f622a3460e198c28d15f2a7cbfdc13f25e4cb
 
 ---
-# Compiler Error C2197
+# <a name="compiler-error-c2197"></a>Compiler Error C2197
 'function' : too many arguments for call  
   
  The compiler detected too many parameters for a call to the function, or an incorrect function declaration.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

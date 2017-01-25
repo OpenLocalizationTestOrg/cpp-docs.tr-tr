@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3c30e7165b4c396b720d3bda028cb1240ab605a7
 
 ---
-# getw
+# <a name="getw"></a>getw
 This POSIX function is deprecated. Use the ISO C++ conformant [_getw](../../c-runtime-library/reference/getw.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

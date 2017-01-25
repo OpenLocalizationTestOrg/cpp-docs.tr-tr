@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6573bc4024e2f2038410c4bf83ce21d4075cac69
 
 ---
-# Compiler Error C2101
+# <a name="compiler-error-c2101"></a>Compiler Error C2101
 '&' on constant  
   
  The address-of operator ( `&` ) must have an l-value as operand.  
@@ -56,6 +56,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

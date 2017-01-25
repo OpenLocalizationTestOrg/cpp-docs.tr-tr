@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cf5e7ef5d519c3d81ff4b1802b28332dc6c331d9
 
 ---
-# Compiler Error C2935
+# <a name="compiler-error-c2935"></a>Compiler Error C2935
 'class' : type-class-id redefined as a global function  
   
  You cannot use a generic or template class as a global function.  
@@ -72,6 +72,6 @@ void GC() {}   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

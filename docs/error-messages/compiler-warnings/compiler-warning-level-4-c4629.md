@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cf2899b004bf13b3b4a8fad8c2c1e1e0fd6be34c
 
 ---
-# Compiler Warning (level 4) C4629
+# <a name="compiler-warning-level-4-c4629"></a>Compiler Warning (level 4) C4629
 digraph used, character sequence 'digraph' interpreted as token 'char' (insert a space between the two characters if this is not what you intended)  
   
  Under [/Za](../../build/reference/za-ze-disable-language-extensions.md), the compiler warns when it detects a digraph.  
@@ -55,6 +55,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

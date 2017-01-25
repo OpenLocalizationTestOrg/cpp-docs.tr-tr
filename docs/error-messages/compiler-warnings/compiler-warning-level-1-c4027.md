@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 77b4eceb0bfcbbef8995105d4a5083cb3fc0325e
 
 ---
-# Compiler Warning (level 1) C4027
+# <a name="compiler-warning-level-1-c4027"></a>Compiler Warning (level 1) C4027
 function declared without formal parameter list  
   
  The function declaration no formal parameters, but there are formal parameters in the function definition or actual parameters in a call. Subsequent calls to this function assume that the function takes actual parameters of the types found in the function definition or call.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

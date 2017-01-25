@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 82e67365f5a6ac4c2d5f7a3430925ecb97848bd7
 
 ---
-# Compiler Error C3046
+# <a name="compiler-error-c3046"></a>Compiler Error C3046
 Missing structured block in an OpenMP '#pragma omp sections' region  
   
  A [sections](../../parallel/openmp/reference/sections-openmp.md) directive has an empty code block.  
@@ -74,6 +74,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

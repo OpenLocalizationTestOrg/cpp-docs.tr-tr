@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ce8a7d1240e0f04265784c2c923c60f9136e5115
 
 ---
-# Compiler Warning (level 1) C4176
+# <a name="compiler-warning-level-1-c4176"></a>Compiler Warning (level 1) C4176
 'subcomponent' : unknown subcomponent for #pragma component browser  
   
  The **component** pragma contains an invalid subcomponent. To exclude references to a particular name, you must use the **references** option before the name.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4176.cpp  
@@ -54,6 +54,6 @@ ms.openlocfilehash: ce8a7d1240e0f04265784c2c923c60f9136e5115
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

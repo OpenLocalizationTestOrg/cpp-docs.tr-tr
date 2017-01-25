@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5b8947e87420432801b97ac6ea05251bba38f5bb
 
 ---
-# Compiler Error C2474
+# <a name="compiler-error-c2474"></a>Compiler Error C2474
 'keyword' : missing an adjacent semicolon, could be either keyword or identifier.  
   
  The compiler expected to find a semicolon, and was unable to determine your intent. Add the semicolon to resolve this error.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2474.  
   
 ```  
@@ -69,6 +69,6 @@ ref class E {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

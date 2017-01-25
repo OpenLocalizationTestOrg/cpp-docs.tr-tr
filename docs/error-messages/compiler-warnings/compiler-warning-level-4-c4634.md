@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: af8555307346dce78f59b55ec3429305206ff2da
 
 ---
-# Compiler Warning (level 4) C4634
+# <a name="compiler-warning-level-4-c4634"></a>Compiler Warning (level 4) C4634
 XML document comment: cannot be applied:  reason  
   
  XML documentation tags can not be applied to all C++ constructs.  For example, you cannot add a documentation comment to a namespace or template.  
   
  For more information, see [XML Documentation](../../ide/xml-documentation-visual-cpp.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4634.  
   
 ```  
@@ -58,7 +58,7 @@ namespace hello {
 };  
 ```  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4634.  
   
 ```  
@@ -70,6 +70,6 @@ class MyClass  {};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

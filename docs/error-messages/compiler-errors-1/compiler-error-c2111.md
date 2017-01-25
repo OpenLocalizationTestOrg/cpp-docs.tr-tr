@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c13794a88bd7e78b0ba7b9616164ecf734f95c67
 
 ---
-# Compiler Error C2111
+# <a name="compiler-error-c2111"></a>Compiler Error C2111
 '+' : pointer addition requires integral operand  
   
  An attempt was made to add a nonintegral value to a pointer using the plus ( `+` ) operator.  
@@ -58,6 +58,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

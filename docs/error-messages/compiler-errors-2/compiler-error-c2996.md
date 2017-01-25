@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ae2cc927f91c6f4f79624cf995b7ea1b364ec536
 
 ---
-# Compiler Error C2996
+# <a name="compiler-error-c2996"></a>Compiler Error C2996
 'function' : recursive function template definition  
   
  A function definition attempts to instantiate its root templated class. Recursive template instantiations are not allowed.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

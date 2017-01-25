@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9ba2f53173a09bd1196bb278b5d0cb4f72adc054
 
 ---
-# Compiler Error C2242
+# <a name="compiler-error-c2242"></a>Compiler Error C2242
 typedef name cannot follow class/struct/union  
   
  A `typedef` name appears at the end of a qualified name.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

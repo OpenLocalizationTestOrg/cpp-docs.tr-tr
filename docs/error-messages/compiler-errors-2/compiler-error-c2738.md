@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5561c0705b0dd0952ca9c473aece82d00407def5
 
 ---
-# Compiler Error C2738
+# <a name="compiler-error-c2738"></a>Compiler Error C2738
 'declaration' : is ambiguous or is not a member of 'type'  
   
  A function was declared incorrectly.  
@@ -66,6 +66,6 @@ A::operator int() {   // C2738
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

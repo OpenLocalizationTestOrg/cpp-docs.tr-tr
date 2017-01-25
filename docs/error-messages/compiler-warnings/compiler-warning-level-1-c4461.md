@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 944171004dc2781bffb9b34d8b9a0fd6178398d8
 
 ---
-# Compiler Warning (level 1) C4461
+# <a name="compiler-warning-level-1-c4461"></a>Compiler Warning (level 1) C4461
 'type' : this class has a finalizer 'finalizer' but no destructor 'dtor'  
   
  The presence of a finalizer in a type implies resources to delete. Unless a finalizer is explicitly called from the type's destructor, the common language runtime determines when to run the finalizer, after your object goes out of scope.  
@@ -48,7 +48,7 @@ ms.openlocfilehash: 944171004dc2781bffb9b34d8b9a0fd6178398d8
   
  For more information, see [Destructors and finalizers](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Destructors_and_finalizers).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C4461.  
   
 ```  
@@ -70,6 +70,6 @@ ref struct B {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

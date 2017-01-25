@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 017e0f42e4e29b07600b5502362b4a60bdf906d9
 
 ---
-# Compiler Error C3248
+# <a name="compiler-error-c3248"></a>Compiler Error C3248
 'function1': function declared as '__sealed' cannot be overridden by 'function2'  
   
 A derived class tried to override a **__sealed** virtual method.  
@@ -48,6 +48,6 @@ C3248 is only reachable using the obsolete compiler option **/clr:oldSyntax**.
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 33ce10051ed3519401513fd655a4eb8065b4c768
 
 ---
-# Compiler Warning C4956
+# <a name="compiler-warning-c4956"></a>Compiler Warning C4956
 'type' : this type is not verifiable  
   
  This warning is generated when [/clr:safe](../../build/reference/clr-common-language-runtime-compilation.md) is specified and your code contains a type that is not verifiable.  
@@ -57,6 +57,6 @@ int* p;   // C4956
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

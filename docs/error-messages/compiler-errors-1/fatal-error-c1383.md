@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4e88d0556ad6d1316346fe821ec6d6e0f077e176
 
 ---
-# Fatal Error C1383
+# <a name="fatal-error-c1383"></a>Fatal Error C1383
 compiler option /GL is incompatible with the installed version of common language runtime  
   
  C1383 occurs when you are using a previous version of the common language runtime with a newer compiler, and when you compile with **/clr** and **/GL.**  
@@ -49,6 +49,6 @@ compiler option /GL is incompatible with the installed version of common languag
  For more information, see [/clr (Common Language Runtime Compilation)](../../build/reference/clr-common-language-runtime-compilation.md) and [/GL (Whole Program Optimization)](../../build/reference/gl-whole-program-optimization.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

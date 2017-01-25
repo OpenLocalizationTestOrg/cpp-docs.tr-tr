@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c0953ba56b0f58540648b9a3c31452c14415ee9d
 
 ---
-# Compiler Error C2665
+# <a name="compiler-error-c2665"></a>Compiler Error C2665
 'function' : none of the number1 overloads can convert parameter number2 from type 'type'  
   
  A parameter of the overloaded function cannot be converted to the required type.  Possible resolutions:  
@@ -48,7 +48,7 @@ ms.openlocfilehash: c0953ba56b0f58540648b9a3c31452c14415ee9d
   
 -   Use explicit conversion.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2665.  
   
 ```  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

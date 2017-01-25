@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fcb93264f5da2b68f782339109a665867e37b3c0
 
 ---
-# Compiler Error C3283
+# <a name="compiler-error-c3283"></a>Compiler Error C3283
 'type' : an interface cannot have an instance constructor  
   
  A CLR [interface](../../windows/interface-class-cpp-component-extensions.md) cannot have an instance constructor.  A static constructor is allowed.  
@@ -65,6 +65,6 @@ interface class I {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

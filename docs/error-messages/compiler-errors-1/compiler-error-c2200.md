@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: cfdfe133afc1366bcceeefa06ff227e555a63883
 
 ---
-# Compiler Error C2200
+# <a name="compiler-error-c2200"></a>Compiler Error C2200
 'function' : function has already been defined  
   
  An `alloc_text` pragma uses a function name already defined.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

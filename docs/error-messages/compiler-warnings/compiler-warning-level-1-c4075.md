@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f7785f080f6ef86010a99df77c28bd806783f921
 
 ---
-# Compiler Warning (level 1) C4075
+# <a name="compiler-warning-level-1-c4075"></a>Compiler Warning (level 1) C4075
 initializers put in unrecognized initialization area  
   
  A [#pragma init_seg](../../preprocessor/init-seg.md) uses an unrecognized section name. The compiler ignores the **pragma** command.  
@@ -59,6 +59,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

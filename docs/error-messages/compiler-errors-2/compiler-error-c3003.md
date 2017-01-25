@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: acb74a0aaaea4f19c17c6050c6c7dbc42b5e71bb
 
 ---
-# Compiler Error C3003
+# <a name="compiler-error-c3003"></a>Compiler Error C3003
 'directive' : OpenMP directive name not allowed after directive clauses  
   
  An OpenMP directive name cannot follow an OpenMP directive clause.  
@@ -57,6 +57,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

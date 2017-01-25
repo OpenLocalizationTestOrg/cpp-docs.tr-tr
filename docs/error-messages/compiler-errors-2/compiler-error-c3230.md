@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 29b8717fc49335433f2e77a0b0862aefaa65aee4
 
 ---
-# Compiler Error C3230
+# <a name="compiler-error-c3230"></a>Compiler Error C3230
 'function' : template type argument for 'template' cannot contain a generic type parameter: 'param'  
   
  Templates are instantiated at compile time, but generics are instantiated at run time. Therefore, it is not possible to generate generic code that can call the template because the template cannot be instantiated at run time when the generic type is finally known.  
@@ -61,6 +61,6 @@ ref class C {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

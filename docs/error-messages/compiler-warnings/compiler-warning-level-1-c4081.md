@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 321f2df21db6ff867ba2f0f09039cf4e23924e95
 
 ---
-# Compiler Warning (level 1) C4081
+# <a name="compiler-warning-level-1-c4081"></a>Compiler Warning (level 1) C4081
 expected 'token1'; found 'token2'  
   
  The compiler expected a different token in this context.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4081.cpp  
@@ -53,6 +53,6 @@ expected 'token1'; found 'token2'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

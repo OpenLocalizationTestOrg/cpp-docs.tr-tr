@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6bde06b4c0fab83acaa66ab742dd7e834a07f12f
 
 ---
-# Compiler Error C3001
+# <a name="compiler-error-c3001"></a>Compiler Error C3001
 'error_text' : expected an OpenMP directive name  
   
  The `omp` pragma must be followed by a directive.  
@@ -56,6 +56,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

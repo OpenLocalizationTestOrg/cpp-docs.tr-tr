@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 024359c55061ee2f92c528afea05b59025fd7bb6
 
 ---
-# Compiler Error C2932
+# <a name="compiler-error-c2932"></a>Compiler Error C2932
 'class' : type-class-id redefined as a data member of 'identifier'  
   
  You cannot use a generic or template class as a data member.  
@@ -73,6 +73,6 @@ struct MyStruct {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

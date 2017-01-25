@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: b1bb67f4e6c9c4884d325d7d2b4333a962089f84
 
 ---
-# Compiler Error C3373
+# <a name="compiler-error-c3373"></a>Compiler Error C3373
 attribute 'attribute' takes no arguments except on a coclass  
   
  Some attributes can be applied to more than one C++ construct, but arguments to the attribute may only be allowed on some constructs.  
@@ -70,6 +70,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

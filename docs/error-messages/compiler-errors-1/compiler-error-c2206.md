@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 20655bf062b3a962b8c39332ccdcb4ddd7b65601
 
 ---
-# Compiler Error C2206
+# <a name="compiler-error-c2206"></a>Compiler Error C2206
 'function' : typedef cannot be used for function definition  
   
  A `typedef` is used to define a function type.  
@@ -57,6 +57,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 84d711c36c06041d8ae9db425c81c9a31be2b83e
 
 ---
-# Compiler Error C2168
+# <a name="compiler-error-c2168"></a>Compiler Error C2168
 'function' : too few actual parameters for intrinsic function  
   
  A reference to an `intrinsic` function has too few parameters.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

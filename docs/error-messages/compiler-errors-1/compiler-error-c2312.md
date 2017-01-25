@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c15400e6d711f181d7f24866761be39cd4e05ae0
 
 ---
-# Compiler Error C2312
+# <a name="compiler-error-c2312"></a>Compiler Error C2312
 'exception1' : is caught by 'exception2' on line number  
   
  Two handlers catch the same exception type.  
@@ -60,6 +60,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

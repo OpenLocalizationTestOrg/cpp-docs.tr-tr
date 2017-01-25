@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 859ccd7295b8a402ee89d5a5c088631a33d0b87e
 
 ---
-# Compiler Warning (level 1) C4097
+# <a name="compiler-warning-level-1-c4097"></a>Compiler Warning (level 1) C4097
 expected pragma parameter to be 'restore' or 'off'  
   
  A pragma was passed an invalid value.  
@@ -58,6 +58,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

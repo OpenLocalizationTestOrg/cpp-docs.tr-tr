@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 45b8e3e4423d38562636de50424561dac7b87a31
 
 ---
-# Compiler Error C2316
+# <a name="compiler-error-c2316"></a>Compiler Error C2316
 'exception' : cannot be caught as the destructor and/or copy constructor are inaccessible  
   
  An exception was caught by value or by reference but the copy constructor and/or the assignment operator were inaccessible.  
   
  This code was accepted by the previous version's compiler but now gives an error.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C2316:  
   
 ```  
@@ -86,6 +86,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 47e008992a9f077ad8985d4a5bb6b830ec93930f
 
 ---
-# Compiler Error C3280
+# <a name="compiler-error-c3280"></a>Compiler Error C3280
 'class' : a member-function of a managed type cannot be compiled as an unmanaged function  
   
  Managed class member functions cannot be compiled as unmanaged functions.  
@@ -64,6 +64,6 @@ void A::func()   // C3280
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

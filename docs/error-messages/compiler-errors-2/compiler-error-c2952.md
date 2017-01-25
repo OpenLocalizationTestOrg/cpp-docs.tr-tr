@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 75fe0cc9abecd4665e882727830a114320617327
 
 ---
-# Compiler Error C2952
+# <a name="compiler-error-c2952"></a>Compiler Error C2952
 'declaration' : type declaration missing template parameter list  
   
  A template declaration was ill formed.  
@@ -87,6 +87,6 @@ void GC<T>::GC1<T1>::f() {}
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

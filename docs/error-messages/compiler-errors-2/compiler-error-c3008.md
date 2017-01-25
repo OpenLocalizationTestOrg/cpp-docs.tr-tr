@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8262e0c5c79f052767b950a3f3a5f773398259ee
 
 ---
-# Compiler Error C3008
+# <a name="compiler-error-c3008"></a>Compiler Error C3008
 'arg' : argument is missing closing ')' on OpenMP 'directive' directive  
   
  An OpenMP directive that takes an argument did not have a closing parenthesis.  
@@ -61,6 +61,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,14 +39,14 @@ ms.sourcegitcommit: 4ac033535632e94a365aa8dafd849f2ab28a3af7
 ms.openlocfilehash: 937510b3fadf3dd2aff81defc08ea2c74b8b7dec
 
 ---
-# Compiler Warning C4950
+# <a name="compiler-warning-c4950"></a>Compiler Warning C4950
 'type_or_member' : marked as obsolete  
   
 A member or type was marked as obsolete with the <xref:System.ObsoleteAttribute> attribute.  
   
 C4950 is always issued as an error. You can turn off this warning by using the [warning](../../preprocessor/warning.md) pragma directive or the [/wd](../../build/reference/compiler-option-warning-level.md) compiler option.  
   
-## Example  
+## <a name="example"></a>Example  
 The following sample generates C4950:  
   
 ```cpp  
@@ -66,6 +66,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

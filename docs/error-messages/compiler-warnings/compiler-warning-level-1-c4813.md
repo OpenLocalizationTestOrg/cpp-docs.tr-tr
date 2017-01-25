@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8307fc318006e812b322e6043bd354478c803da2
 
 ---
-# Compiler Warning (level 1) C4813
+# <a name="compiler-warning-level-1-c4813"></a>Compiler Warning (level 1) C4813
 'function' : a friend function of a local class must have been previously declared  
   
  A friend function in an inner class was not declared in the outer class.  
@@ -60,6 +60,6 @@ void MyClass()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

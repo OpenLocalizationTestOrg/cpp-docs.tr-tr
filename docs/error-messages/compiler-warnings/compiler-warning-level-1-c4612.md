@@ -39,14 +39,14 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 1ed66cadfee2b5da2967f634639273835e5a1f47
 
 ---
-# Compiler Warning (level 1) C4612
+# <a name="compiler-warning-level-1-c4612"></a>Compiler Warning (level 1) C4612
 error in include filename  
   
  This warning occurs with **#pragma include_alias** when a filename is incorrect or missing.  
   
  The arguments to the **#pragma include_alias** statement can use the quote from (**"***filename***"**) or angle-bracket form (**\<***filename***>**), but both must use the same form.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // C4612.cpp  
@@ -55,6 +55,6 @@ error in include filename
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

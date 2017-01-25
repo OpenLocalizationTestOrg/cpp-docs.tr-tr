@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c1cb36f8880b51543d413c45c80a49c77b9b86a4
 
 ---
-# Compiler Warning (level 1) C4033
+# <a name="compiler-warning-level-1-c4033"></a>Compiler Warning (level 1) C4033
 'function' must return a value  
   
  The function does not return a value. An undefined value is returned.  
@@ -63,6 +63,6 @@ int test_1(int x)   // C4033 expected
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

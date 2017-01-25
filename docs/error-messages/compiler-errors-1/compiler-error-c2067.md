@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4e44f26cef274242185044a73a362add7164caad
 
 ---
-# Compiler Error C2067
+# <a name="compiler-error-c2067"></a>Compiler Error C2067
 cast to array type is illegal  
   
  An object was cast to an array type.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

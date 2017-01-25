@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 59167485fdbb46fd33634c2be45f142b5796a9f0
 
 ---
-# Compiler Error C2173
+# <a name="compiler-error-c2173"></a>Compiler Error C2173
 'function' : actual parameter is not a pointer : parameter number1, parameter list number2  
   
  Parameter `number1` passed to parameter list `number2` is not a pointer. The function expects a pointer.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

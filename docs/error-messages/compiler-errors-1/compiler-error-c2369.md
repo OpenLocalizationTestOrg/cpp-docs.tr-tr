@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 740b3bdd2eb1faf0d84cc99102c6be0d40dc796a
 
 ---
-# Compiler Error C2369
+# <a name="compiler-error-c2369"></a>Compiler Error C2369
 'array' : redefinition; different subscripts  
   
  The array is already declared with a different subscript.  
@@ -55,6 +55,6 @@ int b[20];   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

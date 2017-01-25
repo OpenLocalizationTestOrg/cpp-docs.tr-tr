@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: eeb0d16326df721d65bab17fa235a27f9132baaf
 
 ---
-# Compiler Warning (level 3) C4724
+# <a name="compiler-warning-level-3-c4724"></a>Compiler Warning (level 3) C4724
 potential mod by 0  
   
  The second operand in a remainder operation evaluated to zero at compile time, giving undefined results.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

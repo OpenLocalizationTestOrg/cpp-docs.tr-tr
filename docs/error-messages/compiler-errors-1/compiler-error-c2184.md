@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fc336054f0999a3ec462c4fb126bc35741671d58
 
 ---
-# Compiler Error C2184
+# <a name="compiler-error-c2184"></a>Compiler Error C2184
 'type' : illegal type for __except expression, must be an integral  
   
  A type was used in an [__except](../../c-language/try-except-statement-c.md) statement, but the type is not allowed.  
@@ -68,6 +68,6 @@ void f() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

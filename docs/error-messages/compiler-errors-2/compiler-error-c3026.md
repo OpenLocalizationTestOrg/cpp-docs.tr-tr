@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 022c6f32a98fead00cad49ca5847f19f0cfa67a2
 
 ---
-# Compiler Error C3026
+# <a name="compiler-error-c3026"></a>Compiler Error C3026
 'clause' : constant expression must be positive  
   
  A clause was passed an integer value, but the value was not a positive number. The number must be positive.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3026:  
   
 ```  
@@ -71,6 +71,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 5c43342855adc6eb0c56ef0530e8bf8b3c2951a9
 
 ---
-# Compiler Error C2075
+# <a name="compiler-error-c2075"></a>Compiler Error C2075
 'identifier' : array initialization needs curly braces  
   
  There were no curly braces around the specified array initializer.  
@@ -63,6 +63,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

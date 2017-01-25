@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 75168604919189e333b1425398a6ecb201a81ab1
 
 ---
-# Compiler Error C2973
+# <a name="compiler-error-c2973"></a>Compiler Error C2973
 invalid template argument 'number'  
   
  Check the template definition to find the correct types.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

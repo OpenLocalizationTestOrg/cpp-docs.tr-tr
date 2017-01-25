@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 908e2dcb2369ec140cd96f3894c402cdd559fd50
 
 ---
-# Compiler Warning (level 3) C4637
+# <a name="compiler-warning-level-3-c4637"></a>Compiler Warning (level 3) C4637
 XML document comment target: \<include> tag discarded.  reason  
   
  The syntax of an [\<include>](../../ide/include-visual-cpp.md) tag was not correct.  
@@ -63,6 +63,6 @@ public:
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

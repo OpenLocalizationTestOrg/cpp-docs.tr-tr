@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 8f16dd094ea63efcbc7a8adf4826148320f6b3dd
 
 ---
-# Compiler Warning (level 4) C4682
+# <a name="compiler-warning-level-4-c4682"></a>Compiler Warning (level 4) C4682
 'parameter' : no directional parameter attribute specified, defaulting to [in]  
   
  A method on a parameter in an attributed interface does not have one of the directional attributes: [in](../../windows/in-cpp.md) or [out](../../windows/out-cpp.md). The parameter defaults to in.  
@@ -69,6 +69,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

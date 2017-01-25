@@ -39,14 +39,14 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: b0cce511d895aae218c1b2ab04d129173b049983
 
 ---
-# Compiler Error C3767
+# <a name="compiler-error-c3767"></a>Compiler Error C3767
 'function' candidate function(s) not accessible  
   
  A friend function defined in a class is not supposed to be treated as if it were defined and declared in the global namespace scope. It can, however, be found by argument-dependent lookup.  
   
  C3767 may also be caused by a breaking change: native types are now private by default in a **/clr** compilation; see [Type visibility](../../dotnet/how-to-define-and-consume-classes-and-structs-cpp-cli.md#BKMK_Type_visibility) for more information.  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3767:  
   
 ```  
@@ -141,6 +141,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

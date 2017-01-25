@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: c84ae65bda54fc2270851f9a8589934debc782bd
 
 ---
-# Compiler Warning (level 1) C4153
+# <a name="compiler-warning-level-1-c4153"></a>Compiler Warning (level 1) C4153
 function/data pointer conversion in expression  
   
  A function pointer is converted to or from a data pointer. This conversion is allowed under Microsoft extensions (/Ze) but not under ANSI C.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

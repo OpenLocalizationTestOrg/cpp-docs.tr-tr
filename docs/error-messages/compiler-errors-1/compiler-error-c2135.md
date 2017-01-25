@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: a2aedb1b0197f4817d12f2d09e273a47abd0cb74
 
 ---
-# Compiler Error C2135
+# <a name="compiler-error-c2135"></a>Compiler Error C2135
 'bit operator' : illegal bit field operation  
   
  The address-of operator (`&`) cannot be applied to a bit field.  
@@ -62,6 +62,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

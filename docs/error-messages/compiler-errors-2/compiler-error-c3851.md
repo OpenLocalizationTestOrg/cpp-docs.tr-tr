@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 630198992aaf227c422d9f71b2c93f2f01f7bd84
 
 ---
-# Compiler Error C3851
+# <a name="compiler-error-c3851"></a>Compiler Error C3851
 'char': a universal-character-name cannot designate a character in the basic character set  
   
  In code compiled as C++, you cannot use a universal character name that represents a character in the basic source character set outside of a string or character literal. For more information, see [Character Sets](../../cpp/character-sets2.md). In code compiled as C, you cannot use a universal character name for characters in the range 0x20-0x7f, inclusive, except for 0x24 ('$'), 0x40 ('@'), or 0x60 ('`').  
@@ -56,6 +56,6 @@ int main()
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

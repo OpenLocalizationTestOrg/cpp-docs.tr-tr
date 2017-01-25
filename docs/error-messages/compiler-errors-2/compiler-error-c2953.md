@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 6f0329754efcbac68dfa52558a4af6901b8c50d6
 
 ---
-# Compiler Error C2953
+# <a name="compiler-error-c2953"></a>Compiler Error C2953
 'identifier' : class template has already been defined  
   
  Check the source file and include files for other definitions.  
@@ -55,6 +55,6 @@ template <class T>  class B {};   // OK
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

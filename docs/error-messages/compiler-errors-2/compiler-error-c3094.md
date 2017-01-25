@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ac3885c2739f1d37bc584469b684ca25621e3363
 
 ---
-# Compiler Error C3094
+# <a name="compiler-error-c3094"></a>Compiler Error C3094
 'attribute': anonymous usage not allowed  
   
  An attribute was not scoped correctly.  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3094.  
   
 ```  
@@ -62,6 +62,6 @@ ref class x{};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

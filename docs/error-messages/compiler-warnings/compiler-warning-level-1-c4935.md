@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: 95ed19bd3c0b32d35cad351d7b48af5110fa8d03
 
 ---
-# Compiler Warning (level 1) C4935
+# <a name="compiler-warning-level-1-c4935"></a>Compiler Warning (level 1) C4935
 assembly access specifier modified from 'access'  
   
 The assembly visibility of a type was modified. The compiler uses the last specifier that it encounters. For example, the assembly visibility of a forward declaration may be different from the assembly visibility of the class definition.  
@@ -48,6 +48,6 @@ C4935 is only reachable using the obsolete compiler option **/clr:oldSyntax**.
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 99d3ca908c2cf44a4a912dc269a2b5fbaeb3158b
 
 ---
-# Compiler Warning (level 1) C4613
+# <a name="compiler-warning-level-1-c4613"></a>Compiler Warning (level 1) C4613
 'segment' : class of segment cannot be changed  
   
  You tried to create a segment with the same class name as a segment used by the compiler. No new segment class was created.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

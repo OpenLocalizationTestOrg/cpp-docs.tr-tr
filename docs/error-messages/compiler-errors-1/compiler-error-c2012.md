@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 735729958755724fd2a2bde91215f21d52d10e40
 
 ---
-# Compiler Error C2012
+# <a name="compiler-error-c2012"></a>Compiler Error C2012
 missing name following '<'  
   
  An `#include` directive lacks the required filename.  
@@ -60,6 +60,6 @@ missing name following '<'
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

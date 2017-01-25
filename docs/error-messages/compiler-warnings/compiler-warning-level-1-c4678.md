@@ -39,7 +39,7 @@ ms.sourcegitcommit: c243063a9770542f137d5950e8a269f771960f74
 ms.openlocfilehash: d35e60d60d194bc0ca68a116dc45b6d9864d9fe2
 
 ---
-# Compiler Warning (level 1) C4678
+# <a name="compiler-warning-level-1-c4678"></a>Compiler Warning (level 1) C4678
 base class 'base_type' is less accessible than 'derived_type'  
   
 A public type derives from a private type. If the public type is instantiated in a referenced assembly, members of the private base type will not be accessible.  
@@ -48,6 +48,6 @@ C4678 is only reachable using the obsolete compiler option **/clr:oldSyntax**. I
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

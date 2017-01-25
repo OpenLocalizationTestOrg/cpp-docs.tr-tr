@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 4ad34d491d2349a3c6496f614ebba3fedccf271b
 
 ---
-# Compiler Warning (level 4) C4672
+# <a name="compiler-warning-level-4-c4672"></a>Compiler Warning (level 4) C4672
 'identifier1' : ambiguous. First seen as 'identifier2'  
   
  The specified object to be thrown in a **try** block is ambiguous. The object cannot be disambiguated if it is thrown.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

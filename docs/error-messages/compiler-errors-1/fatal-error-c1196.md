@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2b8836eacb62722f8e88e77ced06a9da613c1d7a
 
 ---
-# Fatal Error C1196
+# <a name="fatal-error-c1196"></a>Fatal Error C1196
 'identifier' : identifier found in type library 'typelib' is not a valid C++ identifier  
   
  One of the identifiers in your type library is not a valid C++ identifier. The type library is not available for use with [#import](../../preprocessor/hash-import-directive-cpp.md).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

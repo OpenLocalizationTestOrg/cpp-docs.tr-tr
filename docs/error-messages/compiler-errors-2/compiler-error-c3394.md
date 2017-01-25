@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 9a0184512f1817e3f2de7119f483a2f5b5801344
 
 ---
-# Compiler Error C3394
+# <a name="compiler-error-c3394"></a>Compiler Error C3394
 syntax error in constraint clause: found 'identifier' expected a type  
   
  A constraint was ill formed.  For more information, see [Constraints on Generic Type Parameters (C++/CLI)](../../windows/constraints-on-generic-type-parameters-cpp-cli.md).  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3394:  
   
 ```  
@@ -61,6 +61,6 @@ ref class R {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

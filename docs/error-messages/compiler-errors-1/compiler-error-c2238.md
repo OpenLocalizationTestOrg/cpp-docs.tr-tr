@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 19d49893c5749fbc036b77d949298309264f2e05
 
 ---
-# Compiler Error C2238
+# <a name="compiler-error-c2238"></a>Compiler Error C2238
 unexpected token(s) preceding 'token'  
   
  An incorrect token was found.  
@@ -55,6 +55,6 @@ virtual: int vvv;   // C2238
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

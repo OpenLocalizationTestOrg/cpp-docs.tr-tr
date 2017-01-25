@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d9866eff061ac95889611fab19a4abe2dd4d50f6
 
 ---
-# Compiler Warning (level 1) C4631
+# <a name="compiler-warning-level-1-c4631"></a>Compiler Warning (level 1) C4631
 MSXML or XPath unavailable, XML document comments will not be processed. reason  
   
  Your common language runtime installation did not have the necessary files to support processing doc comment. Reinstall the common language runtime.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 3663252eaa5351ec09ca40b37e1634a5b0c5c6ac
 
 ---
-# fcvt
+# <a name="fcvt"></a>fcvt
 This POSIX function is deprecated. Use the ISO C++ conformant [_fcvt](../../c-runtime-library/reference/fcvt.md) or security-enhanced [_fcvt_s](../../c-runtime-library/reference/fcvt-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

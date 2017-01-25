@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: d55c4494ffb689497820bc8edbed19f308bb5e21
 
 ---
-# Fatal Error C1210
+# <a name="fatal-error-c1210"></a>Fatal Error C1210
 /clr:pure and /clr:safe are not supported by the version of the runtime installed  
   
  C1210 occurs when you have a compiler for the current release, but a common language runtime from a previous release.  
@@ -49,6 +49,6 @@ ms.openlocfilehash: d55c4494ffb689497820bc8edbed19f308bb5e21
  To resolve C1210 install the common language runtime version that is intended for use with your compiler.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

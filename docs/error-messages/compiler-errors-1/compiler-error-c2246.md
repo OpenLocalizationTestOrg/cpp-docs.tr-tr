@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fbf04a0acfd68cb0ed990e602aa6e14e1d78a563
 
 ---
-# Compiler Error C2246
+# <a name="compiler-error-c2246"></a>Compiler Error C2246
 'identifier' : illegal static data member in locally defined class  
   
  A member of a class, structure, or union with local scope is declared `static`.  
@@ -56,6 +56,6 @@ void func( void ) {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

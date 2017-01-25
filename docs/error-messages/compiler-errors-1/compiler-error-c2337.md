@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7a889e3ff7b08c56eb10f4e51801e6227012d24f
 
 ---
-# Compiler Error C2337
+# <a name="compiler-error-c2337"></a>Compiler Error C2337
 'attribute name' : attribute not found  
   
  You have used an attribute that is not supported in this version of Visual C++.  
@@ -56,6 +56,6 @@ class a{};
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

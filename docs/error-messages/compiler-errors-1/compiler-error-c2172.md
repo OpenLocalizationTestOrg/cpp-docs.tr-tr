@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 7ca07348b4b6132d0228e0efa56d6c1223ea248e
 
 ---
-# Compiler Error C2172
+# <a name="compiler-error-c2172"></a>Compiler Error C2172
 'function' : actual parameter is not a pointer : parameter number  
   
  Parameter `number` is not a pointer. The function expects a pointer.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 336cad1f020b4447ab5f92c88db7fdda49026fc9
 
 ---
-# Compiler Error C2903
+# <a name="compiler-error-c2903"></a>Compiler Error C2903
 'identifier' : symbol is neither a class template nor a function template  
   
  Code attempts explicit instantiation of something that is not a template.  
@@ -76,6 +76,6 @@ void f() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 53a7f880e3a8442e8f1c2c93693829ecfcbbf477
 
 ---
-# Compiler Error C3037
+# <a name="compiler-error-c3037"></a>Compiler Error C3037
 'var' : variable in 'reduction' clause must be shared in enclosing context  
   
  A variable specified in a [reduction](../../parallel/openmp/reference/reduction.md) clause may not be private to each thread in the context.  
@@ -67,6 +67,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -39,7 +39,7 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 679c905a97fd54d8ef4b22fdaf493444b45619e7
 
 ---
-# Compiler Error C3368
+# <a name="compiler-error-c3368"></a>Compiler Error C3368
 'function declaration' : invalid calling convention for IDL  
   
  You can only use the [__stdcall](../../cpp/stdcall.md) or [__cdecl](../../cpp/cdecl.md) calling conventions in an .idl file.  
@@ -56,6 +56,6 @@ int __fastcall f1();   // C3368
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

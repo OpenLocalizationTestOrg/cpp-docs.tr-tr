@@ -39,12 +39,12 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 38f805384558cf698e32f2035db552cb63adeebf
 
 ---
-# Compiler Error C3470
+# <a name="compiler-error-c3470"></a>Compiler Error C3470
 'type' : a class cannot have both an indexer (default indexed property) and an operator[]  
   
  A type cannot define both a default indexer and an operator[].  
   
-## Example  
+## <a name="example"></a>Example  
  The following sample generates C3470  
   
 ```  
@@ -70,6 +70,6 @@ int main() {
 ```
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 
